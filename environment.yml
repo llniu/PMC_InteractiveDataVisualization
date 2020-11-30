@@ -1,9 +1,9 @@
 name: dash
 dependencies:
-  pandas
-  numpy
-  plotly
-  ipywidgets
-  dash_bio
-  seaborn
-  clustergrammer_widget
+  - pandas
+  - numpy
+  - plotly
+  - ipywidgets
+  - dash_bio
+  - seaborn
+  - clustergrammer_widget
