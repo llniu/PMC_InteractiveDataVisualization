@@ -4,6 +4,7 @@ dependencies:
   - numpy
   - plotly
   - ipywidgets
-  - dash_bio
   - seaborn
-  - clustergrammer_widget
+  - pip:
+    - dash_bio
+    - clustergrammer_widget
