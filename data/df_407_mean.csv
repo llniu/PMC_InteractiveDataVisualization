@@ -1,0 +1,1841 @@
+ProteinID_GeneName,Protein ID,kleiner,Plasma Log2 intensity,Liver Log2 intensity,Gene name,coregulated,tissue specificity
+A0A024R6I7_SERPINA1,A0A024R6I7,0,17.12823004,18.41343625,SERPINA1,not coregulated,liver specific
+A0A075B6R9_IGKV2D-24,A0A075B6R9,0,18.27450216,15.386540300000002,IGKV2D-24,coregulated,not liver specific
+A0A075B6S2_IGKV2D-29,A0A075B6S2,0,22.18321963,,IGKV2D-29,not coregulated,not liver specific
+A0A087WTK0_PTPRJ,A0A087WTK0,0,13.04251273,22.6599673,PTPRJ,not coregulated,not liver specific
+A0A087WWU8_TPM3,A0A087WWU8,0,12.31073376,19.87533029,TPM3,not coregulated,not liver specific
+A0A087WXI5_CDH1,A0A087WXI5,0,12.11448626,16.21258599,CDH1,not coregulated,not liver specific
+A0A087X0S5_COL6A1,A0A087X0S5,0,12.27328859,20.5123457,COL6A1,not coregulated,not liver specific
+A0A087X1J7_GPX3,A0A087X1J7,0,17.30561127,16.15275248,GPX3,coregulated,not liver specific
+A0A087X1W8_CADM1,A0A087X1W8,0,12.65634354,15.92139176,CADM1,not coregulated,not liver specific
+A0A096LPE2_SAA2-SAA4,A0A096LPE2,0,18.71089818,17.13390129,SAA2-SAA4,not coregulated,liver specific
+A0A0A0MRJ7_F5,A0A0A0MRJ7,0,15.828550199999999,14.23956525,F5,not coregulated,liver specific
+A0A0A0MRZ8_IGKV3D-11,A0A0A0MRZ8,0,22.89399034,19.066954199999998,IGKV3D-11,not coregulated,not liver specific
+A0A0A0MS09_IGHD,A0A0A0MS09,0,18.12150414,16.52517746,IGHD,not coregulated,not liver specific
+A0A0A0MSD0_SVEP1,A0A0A0MSD0,0,12.1206016,16.72034435,SVEP1,not coregulated,not liver specific
+A0A0A0MSV6_C1QB,A0A0A0MSV6,0,17.41255442,16.97114445,C1QB,not coregulated,not liver specific
+A0A0B4J1V0_IGHV3-15,A0A0B4J1V0,0,17.43059315,,IGHV3-15,not coregulated,not liver specific
+A0A0B4J231_IGLL5,A0A0B4J231,0,21.72477949,19.88437628,IGLL5,not coregulated,not liver specific
+A0A0B4J2B5_IGHV3OR16-9,A0A0B4J2B5,0,21.40983982,18.02738732,IGHV3OR16-9,coregulated,not liver specific
+A0A0C4DH34_IGHV4-28,A0A0C4DH34,0,15.741629000000001,14.56266064,IGHV4-28,not coregulated,not liver specific
+A0A0C4DH38_IGHV5-51,A0A0C4DH38,0,18.9796948,16.509686900000002,IGHV5-51,coregulated,not liver specific
+A0A0C4DH43_IGHV2-70D,A0A0C4DH43,0,19.53040238,17.18750948,IGHV2-70D,not coregulated,not liver specific
+A0A0C4DH72_IGKV1-6,A0A0C4DH72,0,18.52220454,,IGKV1-6,not coregulated,not liver specific
+A0A0D9SEN1_FAP,A0A0D9SEN1,0,12.31126707,15.34571006,FAP,not coregulated,not liver specific
+A0A0D9SFB5_ADH4,A0A0D9SFB5,0,13.71862715,25.49864815,ADH4,not coregulated,liver specific
+A0A0G2JIW1_HSPA1B,A0A0G2JIW1,0,16.56681913,20.32025874,HSPA1B,not coregulated,not liver specific
+A0A0G2JMB2_IGHA2,A0A0G2JMB2,0,25.12510972,20.36895949,IGHA2,coregulated,not liver specific
+A0A0J9YY99_,A0A0J9YY99,0,19.68854253,14.83379842,,coregulated,not liver specific
+A0A0J9YYC8_PRSS2,A0A0J9YYC8,0,13.6153745,17.95801123,PRSS2,not coregulated,not liver specific
+A0A0U1RR20_PRG4,A0A0U1RR20,0,14.87618414,15.27783304,PRG4,not coregulated,liver specific
+A0A0U1RR32_HIST1H3D,A0A0U1RR32,0,13.95843501,18.15583142,HIST1H3D,not coregulated,not liver specific
+A0A140T921_HLA-C,A0A140T921,0,16.33516161,15.68027325,HLA-C,not coregulated,not liver specific
+A0A140TA41_TNXB,A0A140TA41,0,13.09984986,16.35685311,TNXB,not coregulated,not liver specific
+A0A182DWH7_SELENOP,A0A182DWH7,0,17.30709326,16.88018639,SELENOP,not coregulated,not liver specific
+A0A1B0GUU9_IGHM,A0A1B0GUU9,0,23.77931973,18.67185894,IGHM,not coregulated,not liver specific
+A0A1W2PQB1_FCGR3A,A0A1W2PQB1,0,14.77711436,15.74190669,FCGR3A,not coregulated,not liver specific
+A0A286YEY1_IGHA1,A0A286YEY1,0,24.8857419,19.96392022,IGHA1,coregulated,not liver specific
+A0A286YFJ8_IGHG4,A0A286YFJ8,0,21.02185951,16.3513207,IGHG4,not coregulated,not liver specific
+A0M8Q6_IGLC7,A0M8Q6,0,15.05183353,14.69582635,IGLC7,not coregulated,not liver specific
+A6NC48_BST1,A6NC48,0,12.788316199999999,13.79365024,BST1,not coregulated,not liver specific
+A6XND0_IGFBP3,A6XND0,0,15.72165402,14.40065113,IGFBP3,not coregulated,not liver specific
+B0QYF8_MB,B0QYF8,0,10.52562003,16.97084991,MB,not coregulated,not liver specific
+B0YIW2_APOC3,B0YIW2,0,21.76699634,20.70909164,APOC3,not coregulated,liver specific
+B1AHL2_FBLN1,B1AHL2,0,15.43282461,14.08972593,FBLN1,coregulated,not liver specific
+B4DPQ0_C1R,B4DPQ0,0,17.47311913,16.51523942,C1R,not coregulated,not liver specific
+,B4E1Z4,0,18.60144944,17.88342415,,not coregulated,not liver specific
+C9JF17_APOD,C9JF17,0,20.75383268,19.80663448,APOD,not coregulated,not liver specific
+C9JIZ6_PSAP,C9JIZ6,0,12.65930373,20.99645776,PSAP,not coregulated,not liver specific
+D6RF35_GC,D6RF35,0,20.03771327,19.55557138,GC,not coregulated,liver specific
+E7END6_PROC,E7END6,0,15.60785768,13.51138572,PROC,not coregulated,liver specific
+E7EQB2_LTF,E7EQB2,0,12.35251053,17.67450007,LTF,not coregulated,not liver specific
+E7ETH0_CFI,E7ETH0,0,18.05142865,14.60340356,CFI,not coregulated,liver specific
+E9PEP6_NRP1,E9PEP6,0,11.69076419,14.33248212,NRP1,coregulated,not liver specific
+E9PFZ2_CP,E9PFZ2,0,19.22002584,16.21881277,CP,not coregulated,liver specific
+E9PHK0_CLEC3B,E9PHK0,0,16.875097399999998,15.19049237,CLEC3B,not coregulated,not liver specific
+F5GZS6_SLC3A2,F5GZS6,0,11.44406563,14.93035146,SLC3A2,not coregulated,not liver specific
+F8W6I7_HNRNPA1,F8W6I7,0,13.01175887,18.36649237,HNRNPA1,not coregulated,not liver specific
+G3V2W1_SERPINA10,G3V2W1,0,14.72193984,12.23929105,SERPINA10,not coregulated,liver specific
+G3V4U0_FBLN5,G3V4U0,0,12.96236541,15.53185564,FBLN5,not coregulated,not liver specific
+G3V5Z7_PSMA6,G3V5Z7,0,12.85467762,19.60311471,PSMA6,not coregulated,not liver specific
+G3XAK1_MST1,G3XAK1,0,14.24030325,14.60052448,MST1,not coregulated,liver specific
+G3XAP6_COMP,G3XAP6,0,13.57180255,,COMP,not coregulated,not liver specific
+H0YAC1_KLKB1,H0YAC1,0,18.20318778,16.21414501,KLKB1,not coregulated,liver specific
+H0YD13_CD44,H0YD13,0,15.01052715,15.23555666,CD44,coregulated,not liver specific
+H3BR70_PKM,H3BR70,0,13.64717503,15.19888039,PKM,not coregulated,not liver specific
+J3KNB4_CAMP,J3KNB4,0,12.7061505,15.59850452,CAMP,not coregulated,not liver specific
+J3KPS3_ALDOA,J3KPS3,0,14.40537969,24.03589436,ALDOA,not coregulated,not liver specific
+K7ER74_APOC4-APOC2,K7ER74,0,20.29967738,19.44929335,APOC4-APOC2,not coregulated,liver specific
+K7ERE3_KRT13,K7ERE3,0,13.11118875,18.27266681,KRT13,not coregulated,not liver specific
+K7ERG9_CFD,K7ERG9,0,15.33906699,14.89979455,CFD,not coregulated,not liver specific
+K7ERI9_APOC1,K7ERI9,0,19.98857396,19.47735781,APOC1,not coregulated,liver specific
+M0R1Q1_C3,M0R1Q1,0,15.31259738,,C3,not coregulated,not liver specific
+O00187_MASP2,O00187,0,16.36176492,15.67007778,MASP2,not coregulated,liver specific
+O00391_QSOX1,O00391,0,14.70441657,14.53832003,QSOX1,not coregulated,not liver specific
+O14498_ISLR,O14498,0,12.2758951,,ISLR,not coregulated,not liver specific
+O14791_APOL1,O14791,0,18.47714449,15.32635778,APOL1,not coregulated,not liver specific
+O43852_CALU,O43852,0,12.97544724,17.379036,CALU,not coregulated,not liver specific
+O60814_HIST1H2BK,O60814,0,11.68610837,24.24441673,HIST1H2BK,not coregulated,not liver specific
+O75636_FCN3,O75636,0,17.42885478,14.40042491,FCN3,not coregulated,liver specific
+O75882_ATRN,O75882,0,16.66060748,12.99667671,ATRN,coregulated,not liver specific
+O75976_CPD,O75976,0,10.87456001,14.02111141,CPD,not coregulated,not liver specific
+O95445_APOM,O95445,0,17.41267223,17.51462679,APOM,not coregulated,not liver specific
+O95479_H6PD,O95479,0,11.12101671,19.13365644,H6PD,not coregulated,not liver specific
+O95497_VNN1,O95497,0,12.9662269,18.84425554,VNN1,not coregulated,liver specific
+P00338_LDHA,P00338,0,12.57881015,22.79350486,LDHA,not coregulated,not liver specific
+P00352_ALDH1A1,P00352,0,16.61036087,24.36345296,ALDH1A1,not coregulated,not liver specific
+P00367_GLUD1,P00367,0,,23.59033289,GLUD1,not coregulated,not liver specific
+P00387_CYB5R3,P00387,0,,20.29239712,CYB5R3,not coregulated,not liver specific
+P00390_GSR,P00390,0,13.14199265,18.96486993,GSR,not coregulated,not liver specific
+P00450_CP,P00450,0,18.66601576,17.40133018,CP,not coregulated,liver specific
+P00488_F13A1,P00488,0,17.01207968,15.11458164,F13A1,not coregulated,not liver specific
+P00491_PNP,P00491,0,,18.44983909,PNP,not coregulated,not liver specific
+P00558_PGK1,P00558,0,13.61049402,21.84164657,PGK1,not coregulated,not liver specific
+P00734_F2,P00734,0,19.77118532,16.16372521,F2,not coregulated,liver specific
+P00738_HP,P00738,0,25.13649142,22.25165442,HP,not coregulated,liver specific
+P00739_HPR,P00739,0,19.37669663,15.42195623,HPR,coregulated,liver specific
+P00740_F9,P00740,0,15.58892035,16.7906088,F9,not coregulated,liver specific
+P00742_F10,P00742,0,17.07353123,13.02877302,F10,not coregulated,liver specific
+P00747_PLG,P00747,0,19.86582093,17.81670845,PLG,not coregulated,liver specific
+P00748_F12,P00748,0,18.12309047,17.06537435,F12,not coregulated,liver specific
+P00915_CA1,P00915,0,14.44847576,21.26845983,CA1,not coregulated,not liver specific
+P00918_CA2,P00918,0,13.26757812,22.16540035,CA2,not coregulated,not liver specific
+P01008_SERPINC1,P01008,0,18.09154114,19.73562755,SERPINC1,not coregulated,liver specific
+P01009_SERPINA1,P01009,0,25.20815134,20.83174671,SERPINA1,coregulated,liver specific
+P01011_SERPINA3,P01011,0,21.63766908,18.74514847,SERPINA3,not coregulated,liver specific
+P01019_AGT,P01019,0,19.20107412,16.23674821,AGT,not coregulated,liver specific
+P01023_A2M,P01023,0,23.11943274,19.42297378,A2M,coregulated,not liver specific
+P01024_C3,P01024,0,23.9939842,20.47929515,C3,not coregulated,not liver specific
+P01031_C5,P01031,0,16.78733526,16.68308085,C5,not coregulated,liver specific
+P01033_TIMP1,P01033,0,13.76558069,,TIMP1,not coregulated,not liver specific
+P01034_CST3,P01034,0,14.91411951,15.71348699,CST3,coregulated,not liver specific
+P01042_KNG1,P01042,0,20.7825147,17.09482269,KNG1,not coregulated,liver specific
+P01042-2_KNG1,P01042-2,0,9.961115746,17.17622472,KNG1,not coregulated,liver specific
+P01602_IGKV1-5,P01602,0,19.55238584,17.1497507,IGKV1-5,not coregulated,not liver specific
+P01619_IGKV3-20,P01619,0,21.85974543,18.78795263,IGKV3-20,not coregulated,not liver specific
+P01624_IGKV3-15,P01624,0,22.28287325,19.575427100000002,IGKV3-15,coregulated,not liver specific
+P01700_IGLV1-47,P01700,0,21.69684119,15.50219797,IGLV1-47,coregulated,not liver specific
+P01717_IGLV3-25,P01717,0,18.90689849,15.68429688,IGLV3-25,not coregulated,not liver specific
+P01721_IGLV6-57,P01721,0,15.44575324,18.10096791,IGLV6-57,not coregulated,not liver specific
+P01780_IGHV3-7,P01780,0,21.032827899999997,16.4926724,IGHV3-7,coregulated,not liver specific
+P01833_PIGR,P01833,0,15.51339175,11.88329567,PIGR,coregulated,not liver specific
+P01834_IGKC,P01834,0,25.40291332,20.68524181,IGKC,coregulated,not liver specific
+P02042_HBD,P02042,0,15.20108314,26.12750854,HBD,not coregulated,not liver specific
+P02533_KRT14,P02533,0,11.42196152,13.61997491,KRT14,not coregulated,not liver specific
+P02538_KRT6A,P02538,0,15.25237297,23.11790548,KRT6A,not coregulated,not liver specific
+P02545_LMNA,P02545,0,10.01795034,21.41037959,LMNA,not coregulated,not liver specific
+P02647_APOA1,P02647,0,25.37697287,22.73952018,APOA1,not coregulated,liver specific
+P02649_APOE,P02649,0,19.9621608,21.19926974,APOE,not coregulated,not liver specific
+P02671_FGA,P02671,0,21.83784912,18.87738528,FGA,not coregulated,liver specific
+P02675_FGB,P02675,0,23.77739915,20.88898804,FGB,not coregulated,liver specific
+P02679_FGG,P02679,0,22.37548801,19.63026458,FGG,not coregulated,liver specific
+P02730_SLC4A1,P02730,0,11.33874129,16.88460015,SLC4A1,not coregulated,not liver specific
+P02741_CRP,P02741,0,14.63371763,16.14064289,CRP,not coregulated,liver specific
+P02743_APCS,P02743,0,19.62800434,18.54818111,APCS,coregulated,liver specific
+P02747_C1QC,P02747,0,19.39759205,17.54485134,C1QC,not coregulated,not liver specific
+P02748_C9,P02748,0,20.04577907,17.14349188,C9,not coregulated,liver specific
+P02749_APOH,P02749,0,18.26639465,19.2187982,APOH,not coregulated,liver specific
+P02750_LRG1,P02750,0,20.25331681,17.18834521,LRG1,not coregulated,liver specific
+P02751_FN1,P02751,0,19.40673364,20.75169403,FN1,not coregulated,not liver specific
+P02753_RBP4,P02753,0,19.73483704,18.24493555,RBP4,not coregulated,liver specific
+P02760_AMBP,P02760,0,19.86333581,17.10266795,AMBP,not coregulated,liver specific
+P02763_ORM1,P02763,0,23.50626856,19.45355448,ORM1,not coregulated,liver specific
+P02765_AHSG,P02765,0,21.16490164,18.21140299,AHSG,not coregulated,liver specific
+P02766_TTR,P02766,0,15.81690725,18.99247275,TTR,not coregulated,liver specific
+P02768_ALB,P02768,0,29.55807017,24.87595438,ALB,not coregulated,liver specific
+P02775_PPBP,P02775,0,15.97208672,15.70583088,PPBP,coregulated,not liver specific
+P02776_PF4,P02776,0,14.11956974,17.38852915,PF4,not coregulated,not liver specific
+P02786_TFRC,P02786,0,13.49315478,13.85419349,TFRC,not coregulated,not liver specific
+P02787_TF,P02787,0,25.10659626,21.05617954,TF,not coregulated,liver specific
+P02790_HPX,P02790,0,22.85788783,20.25672804,HPX,not coregulated,liver specific
+P03951_F11,P03951,0,14.51086845,15.23792149,F11,not coregulated,liver specific
+P04003_C4BPA,P04003,0,20.85426411,16.28016019,C4BPA,not coregulated,liver specific
+P04004_VTN,P04004,0,20.96286034,19.91245745,VTN,coregulated,liver specific
+P04040_CAT,P04040,0,12.10599076,24.20655604,CAT,coregulated,not liver specific
+P04066_FUCA1,P04066,0,13.06699226,16.69992789,FUCA1,not coregulated,not liver specific
+P04080_CSTB,P04080,0,12.59604185,20.7680974,CSTB,not coregulated,not liver specific
+P04114_APOB,P04114,0,21.04194595,18.92088548,APOB,not coregulated,liver specific
+P04196_HRG,P04196,0,20.63661755,17.11054998,HRG,not coregulated,liver specific
+P04217_A1BG,P04217,0,21.38231498,18.24098434,A1BG,not coregulated,liver specific
+P04217-2_A1BG,P04217-2,0,12.21235701,18.27919382,A1BG,not coregulated,liver specific
+P04259_KRT6B,P04259,0,13.82061823,18.0598675,KRT6B,not coregulated,not liver specific
+P04264_KRT1,P04264,0,10.04986954,19.69045632,KRT1,not coregulated,not liver specific
+P04275_VWF,P04275,0,13.41478551,16.00234465,VWF,not coregulated,not liver specific
+P04406_GAPDH,P04406,0,13.65924612,23.49938863,GAPDH,not coregulated,not liver specific
+P05062_ALDOB,P05062,0,12.91221312,25.76404336,ALDOB,coregulated,liver specific
+P05109_S100A8,P05109,0,12.44436829,18.79887477,S100A8,not coregulated,not liver specific
+P05154_SERPINA5,P05154,0,15.8333782,15.94028936,SERPINA5,not coregulated,liver specific
+P05155_SERPING1,P05155,0,21.3717167,18.94805549,SERPING1,not coregulated,not liver specific
+P05362_ICAM1,P05362,0,13.301331900000001,16.358060899999998,ICAM1,not coregulated,not liver specific
+P05534_HLA-A,P05534,0,13.16093205,,HLA-A,not coregulated,not liver specific
+P05543_SERPINA7,P05543,0,16.59205161,14.30684843,SERPINA7,not coregulated,liver specific
+P05546_SERPIND1,P05546,0,19.94398295,16.60219377,SERPIND1,not coregulated,liver specific
+P05556_ITGB1,P05556,0,11.77850113,18.73242814,ITGB1,not coregulated,not liver specific
+P06276_BCHE,P06276,0,16.18097104,15.264950699999998,BCHE,not coregulated,liver specific
+P06312_IGKV4-1,P06312,0,20.60499838,16.22243578,IGKV4-1,coregulated,not liver specific
+P06396_GSN,P06396,0,18.78934328,17.80704163,GSN,not coregulated,not liver specific
+P06396-2_GSN,P06396-2,0,12.30058971,17.4769662,GSN,not coregulated,not liver specific
+P06681_C2,P06681,0,16.67721571,15.307281699999997,C2,not coregulated,liver specific
+P06702_S100A9,P06702,0,12.44193138,18.7651803,S100A9,not coregulated,not liver specific
+P06727_APOA4,P06727,0,21.64454736,17.5114875,APOA4,not coregulated,not liver specific
+P06733_ENO1,P06733,0,12.65162926,22.25631308,ENO1,not coregulated,not liver specific
+P07195_LDHB,P07195,0,13.44701624,18.19570852,LDHB,coregulated,not liver specific
+P07225_PROS1,P07225,0,18.02394264,15.62763361,PROS1,not coregulated,liver specific
+P07237_P4HB,P07237,0,11.81920675,23.43973947,P4HB,not coregulated,not liver specific
+P07355_ANXA2,P07355,0,14.11969774,19.60965345,ANXA2,not coregulated,not liver specific
+P07357_C8A,P07357,0,17.03006734,16.03669951,C8A,not coregulated,liver specific
+P07437_TUBB,P07437,0,10.7034629,20.20641954,TUBB,not coregulated,not liver specific
+P07686_HEXB,P07686,0,12.03681741,17.58667302,HEXB,not coregulated,not liver specific
+P07737_PFN1,P07737,0,13.29021397,20.03859002,PFN1,not coregulated,not liver specific
+P07858_CTSB,P07858,0,,22.55426878,CTSB,not coregulated,not liver specific
+P07900_HSP90AA1,P07900,0,11.50360988,21.79198099,HSP90AA1,not coregulated,not liver specific
+P07996_THBS1,P07996,0,13.59727419,16.94989079,THBS1,not coregulated,not liver specific
+P08185_SERPINA6,P08185,0,17.47561746,15.36967464,SERPINA6,not coregulated,liver specific
+P08238_HSP90AB1,P08238,0,13.15645861,20.26830699,HSP90AB1,not coregulated,not liver specific
+P08294_SOD3,P08294,0,13.86464191,16.28565618,SOD3,coregulated,not liver specific
+P08519_LPA,P08519,0,14.715810399999999,17.39960064,LPA,not coregulated,liver specific
+P08567_PLEK,P08567,0,10.6177724,14.98081406,PLEK,not coregulated,not liver specific
+P08571_CD14,P08571,0,16.03937315,17.89742216,CD14,not coregulated,not liver specific
+P08603_CFH,P08603,0,19.59459393,16.81812447,CFH,not coregulated,liver specific
+P08670_VIM,P08670,0,15.23492719,21.46177627,VIM,not coregulated,not liver specific
+P08697_SERPINF2,P08697,0,19.58531298,16.73988806,SERPINF2,not coregulated,liver specific
+P08779_KRT16,P08779,0,13.05538276,16.69564195,KRT16,not coregulated,not liver specific
+P09467_FBP1,P09467,0,9.968313637,22.64906846,FBP1,not coregulated,liver specific
+P09871_C1S,P09871,0,19.06436906,17.15297429,C1S,not coregulated,not liver specific
+P09960_LTA4H,P09960,0,12.49917976,18.85845471,LTA4H,not coregulated,not liver specific
+P0C0L4_C4A,P0C0L4,0,21.28194613,19.45037096,C4A,not coregulated,liver specific
+P0C0L5_C4B,P0C0L5,0,17.20918723,16.76111835,C4B,not coregulated,liver specific
+P0DJI8_SAA1,P0DJI8,0,15.09725742,16.32451899,SAA1,not coregulated,liver specific
+P0DOY2_IGLC2,P0DOY2,0,23.86777604,20.36396243,IGLC2,coregulated,not liver specific
+P10643_C7,P10643,0,16.47941623,13.60606713,C7,coregulated,not liver specific
+P10809_HSPD1,P10809,0,12.94435922,22.89332527,HSPD1,not coregulated,not liver specific
+P10909_CLU,P10909,0,19.50818968,18.53808753,CLU,coregulated,not liver specific
+P11021_HSPA5,P11021,0,12.85097811,21.76067489,HSPA5,not coregulated,not liver specific
+P11047_LAMC1,P11047,0,13.75446431,16.86017022,LAMC1,not coregulated,not liver specific
+P11226_MBL2,P11226,0,14.03050601,19.16271642,MBL2,not coregulated,liver specific
+P11279_LAMP1,P11279,0,11.75043144,18.17894741,LAMP1,not coregulated,not liver specific
+P11717_IGF2R,P11717,0,11.51466183,15.28144846,IGF2R,not coregulated,not liver specific
+P12111_COL6A3,P12111,0,12.13179672,21.53384657,COL6A3,coregulated,not liver specific
+P12814_ACTN1,P12814,0,14.27199657,19.85047331,ACTN1,not coregulated,not liver specific
+P12955_PEPD,P12955,0,14.09191541,19.16608985,PEPD,not coregulated,not liver specific
+P13473_LAMP2,P13473,0,13.35429445,18.8095577,LAMP2,not coregulated,not liver specific
+P13611_VCAN,P13611,0,13.79502836,17.01343955,VCAN,not coregulated,not liver specific
+P13639_EEF2,P13639,0,11.5101337,22.03336604,EEF2,not coregulated,not liver specific
+P13645_KRT10,P13645,0,14.47515158,17.52842903,KRT10,not coregulated,not liver specific
+P13671_C6,P13671,0,18.23887047,16.71548783,C6,not coregulated,liver specific
+P13716_ALAD,P13716,0,10.55801658,20.52119312,ALAD,not coregulated,not liver specific
+P13796_LCP1,P13796,0,13.95643297,19.5580473,LCP1,coregulated,not liver specific
+P14209_CD99,P14209,0,10.43452432,17.57376236,CD99,not coregulated,not liver specific
+P14543_NID1,P14543,0,11.46067601,16.19161039,NID1,not coregulated,not liver specific
+P14618_PKM,P14618,0,11.99849691,18.94874379,PKM,not coregulated,not liver specific
+P14625_HSP90B1,P14625,0,12.7251679,23.16278007,HSP90B1,not coregulated,not liver specific
+P14780_MMP9,P14780,0,10.37160198,14.05023049,MMP9,not coregulated,not liver specific
+P15144_ANPEP,P15144,0,13.05728524,18.73611112,ANPEP,not coregulated,not liver specific
+P16930_FAH,P16930,0,12.43478312,20.16268791,FAH,coregulated,not liver specific
+P17174_GOT1,P17174,0,11.86346657,22.17340545,GOT1,not coregulated,not liver specific
+P18206_VCL,P18206,0,12.92028225,18.6486187,VCL,not coregulated,not liver specific
+P18428_LBP,P18428,0,16.38394859,12.13709361,LBP,not coregulated,liver specific
+P19022_CDH2,P19022,0,11.71437222,16.77875124,CDH2,not coregulated,not liver specific
+P19320_VCAM1,P19320,0,12.42858205,,VCAM1,not coregulated,not liver specific
+P19652_ORM2,P19652,0,18.43582702,20.17931225,ORM2,not coregulated,liver specific
+P19823_ITIH2,P19823,0,19.56297787,17.84385706,ITIH2,not coregulated,liver specific
+P19827_ITIH1,P19827,0,19.88811122,17.29576148,ITIH1,not coregulated,liver specific
+P20742_PZP,P20742,0,16.33426994,17.1774713,PZP,not coregulated,liver specific
+P20774_OGN,P20774,0,13.12317189,16.95879453,OGN,coregulated,not liver specific
+P22792_CPN2,P22792,0,17.89969509,15.04588917,CPN2,not coregulated,liver specific
+P22897_MRC1,P22897,0,12.28344556,16.53191689,MRC1,not coregulated,not liver specific
+P23141_CES1,P23141,0,10.48889194,23.95635809,CES1,not coregulated,liver specific
+P23142_FBLN1,P23142,0,17.22530512,16.26031987,FBLN1,coregulated,not liver specific
+P23526_AHCY,P23526,0,10.95911403,21.72635134,AHCY,not coregulated,not liver specific
+P24298_GPT,P24298,0,11.11895157,21.04663145,GPT,not coregulated,not liver specific
+P24821_TNC,P24821,0,12.56907044,16.43893566,TNC,not coregulated,not liver specific
+P25311_AZGP1,P25311,0,16.81914373,17.26552436,AZGP1,not coregulated,liver specific
+P25705_ATP5A1,P25705,0,,24.33559713,ATP5A1,not coregulated,not liver specific
+P25786_PSMA1,P25786,0,11.2201879,20.03340314,PSMA1,not coregulated,not liver specific
+P27169_PON1,P27169,0,19.53002749,20.56248018,PON1,not coregulated,liver specific
+P27487_DPP4,P27487,0,12.12985018,16.90814885,DPP4,not coregulated,not liver specific
+P28066_PSMA5,P28066,0,15.46550612,18.910001100000002,PSMA5,not coregulated,not liver specific
+P29401_TKT,P29401,0,11.78938499,21.00690485,TKT,not coregulated,not liver specific
+P29622_SERPINA4,P29622,0,17.81226206,15.93981304,SERPINA4,not coregulated,liver specific
+P29966_MARCKS,P29966,0,8.62719888,17.041621399999997,MARCKS,not coregulated,not liver specific
+P30041_PRDX6,P30041,0,12.40605635,23.82634525,PRDX6,not coregulated,not liver specific
+P30043_BLVRB,P30043,0,10.56083218,21.99071142,BLVRB,not coregulated,not liver specific
+P30101_PDIA3,P30101,0,12.55595353,21.5019806,PDIA3,not coregulated,not liver specific
+P32119_PRDX2,P32119,0,13.0586636,23.00859822,PRDX2,not coregulated,not liver specific
+P32942_ICAM3,P32942,0,13.02873268,,ICAM3,not coregulated,not liver specific
+P33151_CDH5,P33151,0,14.30264748,14.75990168,CDH5,not coregulated,not liver specific
+P33908_MAN1A1,P33908,0,13.93208391,17.23098057,MAN1A1,not coregulated,not liver specific
+P35241_RDX,P35241,0,12.19291444,20.03330656,RDX,coregulated,not liver specific
+P35527_KRT9,P35527,0,13.35465934,16.87288187,KRT9,not coregulated,not liver specific
+P35579_MYH9,P35579,0,11.53181657,20.96807468,MYH9,not coregulated,not liver specific
+P35858_IGFALS,P35858,0,18.32614876,15.50149579,IGFALS,not coregulated,liver specific
+P35908_KRT2,P35908,0,12.90545548,18.07533003,KRT2,not coregulated,not liver specific
+P36222_CHI3L1,P36222,0,14.2004336,,CHI3L1,not coregulated,not liver specific
+P36955_SERPINF1,P36955,0,18.22556084,16.20702343,SERPINF1,coregulated,not liver specific
+P37802_TAGLN2,P37802,0,10.55115005,17.94205178,TAGLN2,not coregulated,not liver specific
+P39060_COL18A1,P39060,0,12.72258421,18.99541894,COL18A1,not coregulated,not liver specific
+P42126_ECI1,P42126,0,11.26539786,21.70774601,ECI1,not coregulated,not liver specific
+P43121_MCAM,P43121,0,13.2334508,15.27048082,MCAM,not coregulated,not liver specific
+P43251_BTD,P43251,0,16.04299555,15.80726065,BTD,not coregulated,not liver specific
+P43652_AFM,P43652,0,19.66571424,15.62018721,AFM,not coregulated,liver specific
+P48740_MASP1,P48740,0,15.41148474,14.29722206,MASP1,not coregulated,not liver specific
+P51884_LUM,P51884,0,18.87440711,18.70916724,LUM,coregulated,not liver specific
+P54802_NAGLU,P54802,0,18.96813496,16.30666793,NAGLU,not coregulated,not liver specific
+P55103_INHBC,P55103,0,13.84054592,12.69620241,INHBC,not coregulated,liver specific
+P55290_CDH13,P55290,0,13.43669791,12.82692364,CDH13,not coregulated,not liver specific
+P56199_ITGA1,P56199,0,15.76317223,18.10976751,ITGA1,not coregulated,not liver specific
+P58166_INHBE,P58166,0,,17.22251983,INHBE,not coregulated,liver specific
+P60709_ACTB,P60709,0,15.11399199,25.51124577,ACTB,not coregulated,not liver specific
+P61769_B2M,P61769,0,13.474391800000001,18.64363746,B2M,not coregulated,not liver specific
+P62258_YWHAE,P62258,0,12.41653562,21.16000933,YWHAE,not coregulated,not liver specific
+P62328_TMSB4X,P62328,0,12.84309341,19.30645658,TMSB4X,not coregulated,not liver specific
+P62805_HIST1H4A,P62805,0,14.87784883,22.76757485,HIST1H4A,not coregulated,not liver specific
+P62937_PPIA,P62937,0,11.62400861,21.811455399999996,PPIA,not coregulated,not liver specific
+P63104_YWHAZ,P63104,0,12.63491842,21.69620153,YWHAZ,not coregulated,not liver specific
+P67936_TPM4,P67936,0,11.51046134,18.57865421,TPM4,not coregulated,not liver specific
+P68104_EEF1A1,P68104,0,12.91834079,23.240801899999997,EEF1A1,not coregulated,not liver specific
+P68363_TUBA1B,P68363,0,12.33239604,21.7189572,TUBA1B,not coregulated,not liver specific
+P68871_HBB,P68871,0,22.24100508,26.20023295,HBB,not coregulated,not liver specific
+P69905_HBA1,P69905,0,20.5095159,26.23356185,HBA1,not coregulated,not liver specific
+P78417_GSTO1,P78417,0,12.38329554,22.57075337,GSTO1,not coregulated,not liver specific
+P80108_GPLD1,P80108,0,16.98305719,14.14711062,GPLD1,not coregulated,liver specific
+P80188_LCN2,P80188,0,12.77076192,13.66859421,LCN2,not coregulated,not liver specific
+P80723_BASP1,P80723,0,10.8961664,16.5962376,BASP1,not coregulated,not liver specific
+P80748_IGLV3-21,P80748,0,20.21384502,16.11601373,IGLV3-21,not coregulated,not liver specific
+P81605_DCD,P81605,0,,17.68651848,DCD,not coregulated,not liver specific
+P98160_HSPG2,P98160,0,12.0096046,18.42945927,HSPG2,coregulated,not liver specific
+Q02985_CFHR3,Q02985,0,16.05567301,14.98032448,CFHR3,not coregulated,liver specific
+Q06033_ITIH3,Q06033,0,17.3171426,14.83262011,ITIH3,not coregulated,liver specific
+Q06830_PRDX1,Q06830,0,13.51929052,24.26267131,PRDX1,not coregulated,not liver specific
+Q07065_CKAP4,Q07065,0,20.81324758,17.54824188,CKAP4,not coregulated,not liver specific
+Q07075_ENPEP,Q07075,0,11.04929037,16.97077776,ENPEP,not coregulated,not liver specific
+Q07954_LRP1,Q07954,0,12.04768518,17.86978134,LRP1,not coregulated,not liver specific
+Q08211_DHX9,Q08211,0,,17.80887105,DHX9,not coregulated,not liver specific
+Q08380_LGALS3BP,Q08380,0,17.20972618,16.74223826,LGALS3BP,coregulated,not liver specific
+Q08830_FGL1,Q08830,0,14.09949736,15.9667834,FGL1,not coregulated,liver specific
+Q12907_LMAN2,Q12907,0,13.820689300000002,20.34002655,LMAN2,not coregulated,not liver specific
+Q13103_SPP2,Q13103,0,12.67115477,13.265996900000001,SPP2,not coregulated,liver specific
+Q13228_SELENBP1,Q13228,0,12.13480511,22.18277574,SELENBP1,coregulated,not liver specific
+Q13740_ALCAM,Q13740,0,11.75541171,15.98060575,ALCAM,not coregulated,not liver specific
+Q13790_APOF,Q13790,0,15.82265656,14.67840693,APOF,not coregulated,liver specific
+Q14118_DAG1,Q14118,0,13.32665684,16.81554306,DAG1,not coregulated,not liver specific
+Q14520_HABP2,Q14520,0,14.99918416,14.70536169,HABP2,not coregulated,liver specific
+Q14624_ITIH4,Q14624,0,18.42602027,17.72301475,ITIH4,not coregulated,liver specific
+Q14997_PSME4,Q14997,0,17.86681088,15.28765437,PSME4,not coregulated,not liver specific
+Q15113_PCOLCE,Q15113,0,13.30770379,13.38868565,PCOLCE,not coregulated,not liver specific
+Q15166_PON3,Q15166,0,14.04481712,20.35367649,PON3,not coregulated,liver specific
+Q15293_RCN1,Q15293,0,14.335689000000002,18.31219829,RCN1,not coregulated,not liver specific
+Q15404_RSU1,Q15404,0,12.07273713,17.31505277,RSU1,not coregulated,not liver specific
+Q15582_TGFBI,Q15582,0,15.26579588,19.1817082,TGFBI,coregulated,not liver specific
+Q15942_ZYX,Q15942,0,10.64026386,17.27621525,ZYX,not coregulated,not liver specific
+Q16270_IGFBP7,Q16270,0,11.47000638,14.58147071,IGFBP7,coregulated,not liver specific
+Q16610_ECM1,Q16610,0,16.68393565,14.96197782,ECM1,not coregulated,not liver specific
+Q16706_MAN2A1,Q16706,0,12.54676634,15.57111213,MAN2A1,not coregulated,not liver specific
+Q16853_AOC3,Q16853,0,12.4431133,19.11915967,AOC3,not coregulated,not liver specific
+Q3LXA3_TKFC,Q3LXA3,0,,22.82926282,TKFC,not coregulated,not liver specific
+Q562R1_ACTBL2,Q562R1,0,13.60467697,25.16845856,ACTBL2,not coregulated,not liver specific
+Q5T123_SH3BGRL3,Q5T123,0,,18.91367557,SH3BGRL3,not coregulated,not liver specific
+Q6EMK4_VASN,Q6EMK4,0,14.03680671,16.12233218,VASN,not coregulated,not liver specific
+Q6P179_ERAP2,Q6P179,0,17.22436194,11.90251989,ERAP2,not coregulated,not liver specific
+Q6P387_C16orf46,Q6P387,0,14.52195813,13.86305065,C16orf46,not coregulated,not liver specific
+Q6UX71_PLXDC2,Q6UX71,0,13.18332261,13.75507899,PLXDC2,coregulated,not liver specific
+Q6UY14_ADAMTSL4,Q6UY14,0,13.53563618,12.56115749,ADAMTSL4,coregulated,not liver specific
+Q6YHK3_CD109,Q6YHK3,0,11.68297063,14.79337301,CD109,not coregulated,not liver specific
+Q86U17_SERPINA11,Q86U17,0,13.05811078,15.33470816,SERPINA11,not coregulated,liver specific
+Q86UX7_FERMT3,Q86UX7,0,10.8591319,17.21292528,FERMT3,not coregulated,not liver specific
+Q8NBJ4_GOLM1,Q8NBJ4,0,,11.99110573,GOLM1,not coregulated,not liver specific
+Q8WWZ8_OIT3,Q8WWZ8,0,11.16565981,13.72859876,OIT3,not coregulated,liver specific
+Q92820_GGH,Q92820,0,13.57197026,18.65047591,GGH,not coregulated,not liver specific
+Q92859_NEO1,Q92859,0,14.586694099999999,13.17303879,NEO1,not coregulated,not liver specific
+Q96PD5_PGLYRP2,Q96PD5,0,19.04858408,14.92755586,PGLYRP2,not coregulated,liver specific
+Q9BS26_ERP44,Q9BS26,0,12.99131726,19.99848458,ERP44,not coregulated,not liver specific
+Q9BTY2_FUCA2,Q9BTY2,0,13.73992039,14.19946051,FUCA2,not coregulated,not liver specific
+Q9BWP8_COLEC11,Q9BWP8,0,14.40897916,,COLEC11,not coregulated,not liver specific
+Q9BXR6_CFHR5,Q9BXR6,0,15.29927402,14.45240999,CFHR5,not coregulated,liver specific
+Q9BYE9_CDHR2,Q9BYE9,0,15.94598802,13.71426271,CDHR2,not coregulated,not liver specific
+Q9H4B7_TUBB1,Q9H4B7,0,11.59477984,14.61829924,TUBB1,not coregulated,not liver specific
+Q9H8L6_MMRN2,Q9H8L6,0,13.21542062,15.28860074,MMRN2,not coregulated,not liver specific
+Q9HDC9_APMAP,Q9HDC9,0,14.12752934,20.17724377,APMAP,coregulated,not liver specific
+Q9NZP8_C1RL,Q9NZP8,0,15.94539415,16.96834325,C1RL,not coregulated,not liver specific
+Q9UBG0_MRC2,Q9UBG0,0,10.44873738,13.19321717,MRC2,not coregulated,not liver specific
+Q9UEW3_MARCO,Q9UEW3,0,8.239524092,14.89681065,MARCO,not coregulated,not liver specific
+Q9UHG3_PCYOX1,Q9UHG3,0,13.71637128,19.96710648,PCYOX1,not coregulated,not liver specific
+Q9UNN8_PROCR,Q9UNN8,0,13.31626144,12.71343029,PROCR,coregulated,not liver specific
+Q9UNW1_MINPP1,Q9UNW1,0,14.29636592,16.15864797,MINPP1,not coregulated,not liver specific
+Q9Y490_TLN1,Q9Y490,0,12.76822386,19.13777604,TLN1,not coregulated,not liver specific
+Q9Y4L1_HYOU1,Q9Y4L1,0,12.37557733,19.04496054,HYOU1,not coregulated,not liver specific
+Q9Y5Y7_LYVE1,Q9Y5Y7,0,13.80135749,15.52628662,LYVE1,coregulated,not liver specific
+Q9Y646_CPQ,Q9Y646,0,11.47140216,16.57108159,CPQ,not coregulated,not liver specific
+V9GYM3_APOA2,V9GYM3,0,24.0004955,21.69428281,APOA2,not coregulated,liver specific
+A0A024R6I7_SERPINA1,A0A024R6I7,1,17.06506237,17.99705008,SERPINA1,not coregulated,liver specific
+A0A075B6R9_IGKV2D-24,A0A075B6R9,1,18.15431677,16.7278703,IGKV2D-24,coregulated,not liver specific
+A0A075B6S2_IGKV2D-29,A0A075B6S2,1,22.07602217,13.53411053,IGKV2D-29,not coregulated,not liver specific
+A0A087WTK0_PTPRJ,A0A087WTK0,1,13.19286505,21.8143953,PTPRJ,not coregulated,not liver specific
+A0A087WWU8_TPM3,A0A087WWU8,1,12.94206454,19.90628841,TPM3,not coregulated,not liver specific
+A0A087WXI5_CDH1,A0A087WXI5,1,12.19932532,16.60686658,CDH1,not coregulated,not liver specific
+A0A087X0S5_COL6A1,A0A087X0S5,1,12.10996818,20.09257673,COL6A1,not coregulated,not liver specific
+A0A087X1J7_GPX3,A0A087X1J7,1,17.17253521,15.81334306,GPX3,coregulated,not liver specific
+A0A087X1W8_CADM1,A0A087X1W8,1,12.98186028,15.78423722,CADM1,not coregulated,not liver specific
+A0A096LPE2_SAA2-SAA4,A0A096LPE2,1,18.62004095,17.45361173,SAA2-SAA4,not coregulated,liver specific
+A0A0A0MRJ7_F5,A0A0A0MRJ7,1,15.89558987,14.39627832,F5,not coregulated,liver specific
+A0A0A0MRZ8_IGKV3D-11,A0A0A0MRZ8,1,22.90426529,19.08365233,IGKV3D-11,not coregulated,not liver specific
+A0A0A0MS09_IGHD,A0A0A0MS09,1,17.97747594,16.07133195,IGHD,not coregulated,not liver specific
+A0A0A0MSD0_SVEP1,A0A0A0MSD0,1,11.28388793,16.35644011,SVEP1,not coregulated,not liver specific
+A0A0A0MSV6_C1QB,A0A0A0MSV6,1,17.36533079,17.25908316,C1QB,not coregulated,not liver specific
+A0A0B4J1V0_IGHV3-15,A0A0B4J1V0,1,17.29719028,14.31988359,IGHV3-15,not coregulated,not liver specific
+A0A0B4J231_IGLL5,A0A0B4J231,1,21.84907242,19.39417973,IGLL5,not coregulated,not liver specific
+A0A0B4J2B5_IGHV3OR16-9,A0A0B4J2B5,1,21.1795593,18.3254137,IGHV3OR16-9,coregulated,not liver specific
+A0A0C4DH34_IGHV4-28,A0A0C4DH34,1,16.21383585,14.44070755,IGHV4-28,not coregulated,not liver specific
+A0A0C4DH38_IGHV5-51,A0A0C4DH38,1,18.73297586,16.41024959,IGHV5-51,coregulated,not liver specific
+A0A0C4DH43_IGHV2-70D,A0A0C4DH43,1,19.09899959,16.79025288,IGHV2-70D,not coregulated,not liver specific
+A0A0C4DH72_IGKV1-6,A0A0C4DH72,1,18.38281287,14.92679318,IGKV1-6,not coregulated,not liver specific
+A0A0D9SEN1_FAP,A0A0D9SEN1,1,12.78153872,16.95015984,FAP,not coregulated,not liver specific
+A0A0D9SFB5_ADH4,A0A0D9SFB5,1,11.46991793,25.23889822,ADH4,not coregulated,liver specific
+A0A0G2JIW1_HSPA1B,A0A0G2JIW1,1,17.5358985,20.395499800000003,HSPA1B,not coregulated,not liver specific
+A0A0G2JMB2_IGHA2,A0A0G2JMB2,1,25.086548899999997,20.63841998,IGHA2,coregulated,not liver specific
+A0A0J9YY99_,A0A0J9YY99,1,19.79602981,15.57773041,,coregulated,not liver specific
+A0A0J9YYC8_PRSS2,A0A0J9YYC8,1,12.07045938,18.09309243,PRSS2,not coregulated,not liver specific
+A0A0U1RR20_PRG4,A0A0U1RR20,1,14.94557009,15.79864899,PRG4,not coregulated,liver specific
+A0A0U1RR32_HIST1H3D,A0A0U1RR32,1,12.44060016,18.02090834,HIST1H3D,not coregulated,not liver specific
+A0A140T921_HLA-C,A0A140T921,1,9.703424885,15.83497755,HLA-C,not coregulated,not liver specific
+A0A140TA41_TNXB,A0A140TA41,1,13.76476114,16.59562602,TNXB,not coregulated,not liver specific
+A0A182DWH7_SELENOP,A0A182DWH7,1,17.0202747,16.64053353,SELENOP,not coregulated,not liver specific
+A0A1B0GUU9_IGHM,A0A1B0GUU9,1,23.61483304,18.79987826,IGHM,not coregulated,not liver specific
+A0A1W2PQB1_FCGR3A,A0A1W2PQB1,1,14.84202079,15.50249385,FCGR3A,not coregulated,not liver specific
+A0A286YEY1_IGHA1,A0A286YEY1,1,25.03565995,20.08252253,IGHA1,coregulated,not liver specific
+A0A286YFJ8_IGHG4,A0A286YFJ8,1,20.69240769,17.16820147,IGHG4,not coregulated,not liver specific
+A0M8Q6_IGLC7,A0M8Q6,1,13.10548247,14.53465416,IGLC7,not coregulated,not liver specific
+A6NC48_BST1,A6NC48,1,12.97096894,13.68396082,BST1,not coregulated,not liver specific
+A6XND0_IGFBP3,A6XND0,1,15.59415377,14.47180226,IGFBP3,not coregulated,not liver specific
+B0QYF8_MB,B0QYF8,1,10.2088062,16.48949658,MB,not coregulated,not liver specific
+B0YIW2_APOC3,B0YIW2,1,21.89512837,20.78982407,APOC3,not coregulated,liver specific
+B1AHL2_FBLN1,B1AHL2,1,15.246897199999998,14.37237006,FBLN1,coregulated,not liver specific
+B4DPQ0_C1R,B4DPQ0,1,17.381340899999998,16.71849354,C1R,not coregulated,not liver specific
+,B4E1Z4,1,18.70849347,18.03800466,,not coregulated,not liver specific
+C9JF17_APOD,C9JF17,1,20.62095388,19.86392582,APOD,not coregulated,not liver specific
+C9JIZ6_PSAP,C9JIZ6,1,13.32735486,20.81256412,PSAP,not coregulated,not liver specific
+D6RF35_GC,D6RF35,1,19.88341556,19.60128108,GC,not coregulated,liver specific
+E7END6_PROC,E7END6,1,15.49883445,13.67973905,PROC,not coregulated,liver specific
+E7EQB2_LTF,E7EQB2,1,12.5284714,17.66624423,LTF,not coregulated,not liver specific
+E7ETH0_CFI,E7ETH0,1,18.12901274,14.86163884,CFI,not coregulated,liver specific
+E9PEP6_NRP1,E9PEP6,1,11.54133732,14.83328571,NRP1,coregulated,not liver specific
+E9PFZ2_CP,E9PFZ2,1,18.894938600000003,16.36242334,CP,not coregulated,liver specific
+E9PHK0_CLEC3B,E9PHK0,1,16.91689779,15.57480868,CLEC3B,not coregulated,not liver specific
+F5GZS6_SLC3A2,F5GZS6,1,11.62501378,15.03812099,SLC3A2,not coregulated,not liver specific
+F8W6I7_HNRNPA1,F8W6I7,1,12.79424373,18.41968671,HNRNPA1,not coregulated,not liver specific
+G3V2W1_SERPINA10,G3V2W1,1,14.65729834,12.05651076,SERPINA10,not coregulated,liver specific
+G3V4U0_FBLN5,G3V4U0,1,12.89422889,14.95547034,FBLN5,not coregulated,not liver specific
+G3V5Z7_PSMA6,G3V5Z7,1,10.27098462,19.49527805,PSMA6,not coregulated,not liver specific
+G3XAK1_MST1,G3XAK1,1,14.03582336,14.73209861,MST1,not coregulated,liver specific
+G3XAP6_COMP,G3XAP6,1,13.88164312,11.97068418,COMP,not coregulated,not liver specific
+H0YAC1_KLKB1,H0YAC1,1,18.08730576,16.08151673,KLKB1,not coregulated,liver specific
+H0YD13_CD44,H0YD13,1,14.9700861,15.15845974,CD44,coregulated,not liver specific
+H3BR70_PKM,H3BR70,1,13.51504479,15.28554714,PKM,not coregulated,not liver specific
+J3KNB4_CAMP,J3KNB4,1,12.69261668,15.24863056,CAMP,not coregulated,not liver specific
+J3KPS3_ALDOA,J3KPS3,1,12.90423873,23.76364616,ALDOA,not coregulated,not liver specific
+K7ER74_APOC4-APOC2,K7ER74,1,20.47023833,19.488702800000002,APOC4-APOC2,not coregulated,liver specific
+K7ERE3_KRT13,K7ERE3,1,14.59489832,18.60582182,KRT13,not coregulated,not liver specific
+K7ERG9_CFD,K7ERG9,1,15.36783789,15.01418338,CFD,not coregulated,not liver specific
+K7ERI9_APOC1,K7ERI9,1,19.92101678,19.5511109,APOC1,not coregulated,liver specific
+M0R1Q1_C3,M0R1Q1,1,15.20086305,14.02151224,C3,not coregulated,not liver specific
+O00187_MASP2,O00187,1,16.41668924,15.03277748,MASP2,not coregulated,liver specific
+O00391_QSOX1,O00391,1,14.6757688,16.94585253,QSOX1,not coregulated,not liver specific
+O14498_ISLR,O14498,1,12.33778603,13.71515108,ISLR,not coregulated,not liver specific
+O14791_APOL1,O14791,1,18.40894482,15.44830073,APOL1,not coregulated,not liver specific
+O43852_CALU,O43852,1,12.11342976,17.36073936,CALU,not coregulated,not liver specific
+O60814_HIST1H2BK,O60814,1,11.91272312,24.20127229,HIST1H2BK,not coregulated,not liver specific
+O75636_FCN3,O75636,1,17.40409554,14.75726679,FCN3,not coregulated,liver specific
+O75882_ATRN,O75882,1,16.67727385,14.194954899999999,ATRN,coregulated,not liver specific
+O75976_CPD,O75976,1,11.99692254,14.20023806,CPD,not coregulated,not liver specific
+O95445_APOM,O95445,1,17.48166531,17.47689672,APOM,not coregulated,not liver specific
+O95479_H6PD,O95479,1,11.78750213,19.12032341,H6PD,not coregulated,not liver specific
+O95497_VNN1,O95497,1,12.97758667,16.19074134,VNN1,not coregulated,liver specific
+P00338_LDHA,P00338,1,12.6640661,22.64063782,LDHA,not coregulated,not liver specific
+P00352_ALDH1A1,P00352,1,18.79464598,24.18323357,ALDH1A1,not coregulated,not liver specific
+P00367_GLUD1,P00367,1,12.18009086,23.538045699999998,GLUD1,not coregulated,not liver specific
+P00387_CYB5R3,P00387,1,10.47337985,20.23717139,CYB5R3,not coregulated,not liver specific
+P00390_GSR,P00390,1,13.21946452,19.03622224,GSR,not coregulated,not liver specific
+P00450_CP,P00450,1,18.50792849,17.52137755,CP,not coregulated,liver specific
+P00488_F13A1,P00488,1,17.06137442,14.96944653,F13A1,not coregulated,not liver specific
+P00491_PNP,P00491,1,9.263216607,18.33104368,PNP,not coregulated,not liver specific
+P00558_PGK1,P00558,1,12.60611368,21.63154873,PGK1,not coregulated,not liver specific
+P00734_F2,P00734,1,19.76445457,16.52865,F2,not coregulated,liver specific
+P00738_HP,P00738,1,25.2980572,22.51765951,HP,not coregulated,liver specific
+P00739_HPR,P00739,1,19.2845418,16.45435578,HPR,coregulated,liver specific
+P00740_F9,P00740,1,15.55632432,16.80183639,F9,not coregulated,liver specific
+P00742_F10,P00742,1,17.02448532,13.42251983,F10,not coregulated,liver specific
+P00747_PLG,P00747,1,19.965750500000002,18.07927604,PLG,not coregulated,liver specific
+P00748_F12,P00748,1,18.18753259,16.829763500000002,F12,not coregulated,liver specific
+P00915_CA1,P00915,1,14.69502529,21.66151714,CA1,not coregulated,not liver specific
+P00918_CA2,P00918,1,13.23931634,21.97713235,CA2,not coregulated,not liver specific
+P01008_SERPINC1,P01008,1,18.081319399999998,19.84409583,SERPINC1,not coregulated,liver specific
+P01009_SERPINA1,P01009,1,25.24022742,21.16430498,SERPINA1,coregulated,liver specific
+P01011_SERPINA3,P01011,1,21.54139406,18.99474501,SERPINA3,not coregulated,liver specific
+P01019_AGT,P01019,1,19.16348147,16.1930639,AGT,not coregulated,liver specific
+P01023_A2M,P01023,1,23.171315600000003,19.769302300000003,A2M,coregulated,not liver specific
+P01024_C3,P01024,1,24.17060549,20.77684206,C3,not coregulated,not liver specific
+P01031_C5,P01031,1,16.68740482,16.72420656,C5,not coregulated,liver specific
+P01033_TIMP1,P01033,1,14.10305814,16.20400524,TIMP1,not coregulated,not liver specific
+P01034_CST3,P01034,1,14.79834472,15.71869232,CST3,coregulated,not liver specific
+P01042_KNG1,P01042,1,20.95183987,17.31234359,KNG1,not coregulated,liver specific
+P01042-2_KNG1,P01042-2,1,9.755188166,17.39238741,KNG1,not coregulated,liver specific
+P01602_IGKV1-5,P01602,1,19.46846783,17.79183056,IGKV1-5,not coregulated,not liver specific
+P01619_IGKV3-20,P01619,1,21.74919149,18.91367641,IGKV3-20,not coregulated,not liver specific
+P01624_IGKV3-15,P01624,1,22.22903091,19.69926096,IGKV3-15,coregulated,not liver specific
+P01700_IGLV1-47,P01700,1,21.84362253,16.39268826,IGLV1-47,coregulated,not liver specific
+P01717_IGLV3-25,P01717,1,18.99889519,16.23409601,IGLV3-25,not coregulated,not liver specific
+P01721_IGLV6-57,P01721,1,15.56355627,18.44978442,IGLV6-57,not coregulated,not liver specific
+P01780_IGHV3-7,P01780,1,20.9887727,16.57940105,IGHV3-7,coregulated,not liver specific
+P01833_PIGR,P01833,1,15.83898645,11.7130441,PIGR,coregulated,not liver specific
+P01834_IGKC,P01834,1,25.32781211,20.85014709,IGKC,coregulated,not liver specific
+P02042_HBD,P02042,1,15.5608467,25.53101613,HBD,not coregulated,not liver specific
+P02533_KRT14,P02533,1,11.82610679,14.037112400000002,KRT14,not coregulated,not liver specific
+P02538_KRT6A,P02538,1,14.37784641,23.07305287,KRT6A,not coregulated,not liver specific
+P02545_LMNA,P02545,1,10.88770369,21.36392762,LMNA,not coregulated,not liver specific
+P02647_APOA1,P02647,1,25.25134205,23.135282999999998,APOA1,not coregulated,liver specific
+P02649_APOE,P02649,1,19.92700846,21.15900836,APOE,not coregulated,not liver specific
+P02671_FGA,P02671,1,21.83812937,19.23953145,FGA,not coregulated,liver specific
+P02675_FGB,P02675,1,23.88635506,21.18649309,FGB,not coregulated,liver specific
+P02679_FGG,P02679,1,22.45830767,19.87077317,FGG,not coregulated,liver specific
+P02730_SLC4A1,P02730,1,12.21928353,17.19111845,SLC4A1,not coregulated,not liver specific
+P02741_CRP,P02741,1,14.93950306,15.66109139,CRP,not coregulated,liver specific
+P02743_APCS,P02743,1,19.71595774,18.71476276,APCS,coregulated,liver specific
+P02747_C1QC,P02747,1,19.35089086,17.68083894,C1QC,not coregulated,not liver specific
+P02748_C9,P02748,1,20.02548852,17.03816249,C9,not coregulated,liver specific
+P02749_APOH,P02749,1,18.24496388,19.38475951,APOH,not coregulated,liver specific
+P02750_LRG1,P02750,1,20.16510313,17.19560068,LRG1,not coregulated,liver specific
+P02751_FN1,P02751,1,19.69044837,20.70520292,FN1,not coregulated,not liver specific
+P02753_RBP4,P02753,1,19.8330584,18.15590923,RBP4,not coregulated,liver specific
+P02760_AMBP,P02760,1,19.78708239,17.242355399999997,AMBP,not coregulated,liver specific
+P02763_ORM1,P02763,1,23.46689624,19.90423724,ORM1,not coregulated,liver specific
+P02765_AHSG,P02765,1,21.26162647,18.40003736,AHSG,not coregulated,liver specific
+P02766_TTR,P02766,1,15.54275615,19.42223446,TTR,not coregulated,liver specific
+P02768_ALB,P02768,1,29.52180644,25.1233802,ALB,not coregulated,liver specific
+P02775_PPBP,P02775,1,16.2029061,15.97083742,PPBP,coregulated,not liver specific
+P02776_PF4,P02776,1,14.98641001,17.93444287,PF4,not coregulated,not liver specific
+P02786_TFRC,P02786,1,13.69640699,14.45029438,TFRC,not coregulated,not liver specific
+P02787_TF,P02787,1,25.17680015,21.36288806,TF,not coregulated,liver specific
+P02790_HPX,P02790,1,22.89352537,20.51888104,HPX,not coregulated,liver specific
+P03951_F11,P03951,1,14.30299242,15.52242488,F11,not coregulated,liver specific
+P04003_C4BPA,P04003,1,20.85212625,16.52055326,C4BPA,not coregulated,liver specific
+P04004_VTN,P04004,1,20.93000356,19.97750574,VTN,coregulated,liver specific
+P04040_CAT,P04040,1,12.42406217,24.39850839,CAT,coregulated,not liver specific
+P04066_FUCA1,P04066,1,13.15810502,16.70809703,FUCA1,not coregulated,not liver specific
+P04080_CSTB,P04080,1,13.09853932,20.52131007,CSTB,not coregulated,not liver specific
+P04114_APOB,P04114,1,20.98166787,18.84562715,APOB,not coregulated,liver specific
+P04196_HRG,P04196,1,20.68692042,17.30138411,HRG,not coregulated,liver specific
+P04217_A1BG,P04217,1,21.40372307,18.23067508,A1BG,not coregulated,liver specific
+P04217-2_A1BG,P04217-2,1,12.08349154,18.55333019,A1BG,not coregulated,liver specific
+P04259_KRT6B,P04259,1,13.92234234,18.5992723,KRT6B,not coregulated,not liver specific
+P04264_KRT1,P04264,1,12.58941918,19.49166922,KRT1,not coregulated,not liver specific
+P04275_VWF,P04275,1,14.04917163,14.90199096,VWF,not coregulated,not liver specific
+P04406_GAPDH,P04406,1,12.14291868,23.56209834,GAPDH,not coregulated,not liver specific
+P05062_ALDOB,P05062,1,13.49310226,25.57725618,ALDOB,coregulated,liver specific
+P05109_S100A8,P05109,1,13.00415223,18.7515492,S100A8,not coregulated,not liver specific
+P05154_SERPINA5,P05154,1,16.17649375,15.90139565,SERPINA5,not coregulated,liver specific
+P05155_SERPING1,P05155,1,21.37868586,19.05634524,SERPING1,not coregulated,not liver specific
+P05362_ICAM1,P05362,1,13.30796827,16.27692053,ICAM1,not coregulated,not liver specific
+P05534_HLA-A,P05534,1,12.79972615,17.43458818,HLA-A,not coregulated,not liver specific
+P05543_SERPINA7,P05543,1,16.57407736,12.60844711,SERPINA7,not coregulated,liver specific
+P05546_SERPIND1,P05546,1,20.04226549,16.81567242,SERPIND1,not coregulated,liver specific
+P05556_ITGB1,P05556,1,12.35377224,18.69609544,ITGB1,not coregulated,not liver specific
+P06276_BCHE,P06276,1,16.16745308,16.18357393,BCHE,not coregulated,liver specific
+P06312_IGKV4-1,P06312,1,20.46656315,16.61290809,IGKV4-1,coregulated,not liver specific
+P06396_GSN,P06396,1,18.68789846,17.88801393,GSN,not coregulated,not liver specific
+P06396-2_GSN,P06396-2,1,12.21774422,17.30278058,GSN,not coregulated,not liver specific
+P06681_C2,P06681,1,16.72589134,15.10729946,C2,not coregulated,liver specific
+P06702_S100A9,P06702,1,12.19787578,18.70269957,S100A9,not coregulated,not liver specific
+P06727_APOA4,P06727,1,21.56336574,17.77675257,APOA4,not coregulated,not liver specific
+P06733_ENO1,P06733,1,11.90083742,22.17770164,ENO1,not coregulated,not liver specific
+P07195_LDHB,P07195,1,13.44749505,18.03675687,LDHB,coregulated,not liver specific
+P07225_PROS1,P07225,1,17.938237100000002,16.05192414,PROS1,not coregulated,liver specific
+P07237_P4HB,P07237,1,11.65776097,23.513046399999997,P4HB,not coregulated,not liver specific
+P07355_ANXA2,P07355,1,12.10941092,19.54020774,ANXA2,not coregulated,not liver specific
+P07357_C8A,P07357,1,16.86359629,15.82702541,C8A,not coregulated,liver specific
+P07437_TUBB,P07437,1,12.27164218,20.15125634,TUBB,not coregulated,not liver specific
+P07686_HEXB,P07686,1,11.19392434,17.61168519,HEXB,not coregulated,not liver specific
+P07737_PFN1,P07737,1,13.16608059,19.89660374,PFN1,not coregulated,not liver specific
+P07858_CTSB,P07858,1,13.15734991,22.51746489,CTSB,not coregulated,not liver specific
+P07900_HSP90AA1,P07900,1,11.25906005,21.819604,HSP90AA1,not coregulated,not liver specific
+P07996_THBS1,P07996,1,14.17093991,16.49469322,THBS1,not coregulated,not liver specific
+P08185_SERPINA6,P08185,1,17.22806995,15.84840188,SERPINA6,not coregulated,liver specific
+P08238_HSP90AB1,P08238,1,13.47632713,20.44565249,HSP90AB1,not coregulated,not liver specific
+P08294_SOD3,P08294,1,13.71384153,16.23260099,SOD3,coregulated,not liver specific
+P08519_LPA,P08519,1,14.50984528,17.23312077,LPA,not coregulated,liver specific
+P08567_PLEK,P08567,1,11.78193784,15.37702315,PLEK,not coregulated,not liver specific
+P08571_CD14,P08571,1,15.94228509,18.02318638,CD14,not coregulated,not liver specific
+P08603_CFH,P08603,1,19.65744344,17.02152456,CFH,not coregulated,liver specific
+P08670_VIM,P08670,1,13.71748089,21.48342254,VIM,not coregulated,not liver specific
+P08697_SERPINF2,P08697,1,19.61771772,17.05910898,SERPINF2,not coregulated,liver specific
+P08779_KRT16,P08779,1,11.14821774,16.43736472,KRT16,not coregulated,not liver specific
+P09467_FBP1,P09467,1,13.60597106,22.89316614,FBP1,not coregulated,liver specific
+P09871_C1S,P09871,1,18.98699924,17.28668072,C1S,not coregulated,not liver specific
+P09960_LTA4H,P09960,1,11.850969599999999,18.68421711,LTA4H,not coregulated,not liver specific
+P0C0L4_C4A,P0C0L4,1,21.21300274,19.19722311,C4A,not coregulated,liver specific
+P0C0L5_C4B,P0C0L5,1,17.34051301,16.50742251,C4B,not coregulated,liver specific
+P0DJI8_SAA1,P0DJI8,1,14.79776877,16.4320653,SAA1,not coregulated,liver specific
+P0DOY2_IGLC2,P0DOY2,1,23.98251389,20.53729008,IGLC2,coregulated,not liver specific
+P10643_C7,P10643,1,16.48602131,13.76369378,C7,coregulated,not liver specific
+P10809_HSPD1,P10809,1,12.63635456,22.92810747,HSPD1,not coregulated,not liver specific
+P10909_CLU,P10909,1,19.30340853,18.6285038,CLU,coregulated,not liver specific
+P11021_HSPA5,P11021,1,12.69833752,21.90644999,HSPA5,not coregulated,not liver specific
+P11047_LAMC1,P11047,1,15.05017174,16.90997875,LAMC1,not coregulated,not liver specific
+P11226_MBL2,P11226,1,14.32397357,19.18351693,MBL2,not coregulated,liver specific
+P11279_LAMP1,P11279,1,11.90532277,18.04976867,LAMP1,not coregulated,not liver specific
+P11717_IGF2R,P11717,1,11.81380102,15.55040603,IGF2R,not coregulated,not liver specific
+P12111_COL6A3,P12111,1,12.19305307,21.09827769,COL6A3,coregulated,not liver specific
+P12814_ACTN1,P12814,1,12.99816467,19.87618457,ACTN1,not coregulated,not liver specific
+P12955_PEPD,P12955,1,14.18888129,19.360241199999997,PEPD,not coregulated,not liver specific
+P13473_LAMP2,P13473,1,13.28557776,18.71205111,LAMP2,not coregulated,not liver specific
+P13611_VCAN,P13611,1,15.90523614,15.93180037,VCAN,not coregulated,not liver specific
+P13639_EEF2,P13639,1,12.1518031,21.98582011,EEF2,not coregulated,not liver specific
+P13645_KRT10,P13645,1,16.29167245,17.80024668,KRT10,not coregulated,not liver specific
+P13671_C6,P13671,1,18.13656043,16.7641394,C6,not coregulated,liver specific
+P13716_ALAD,P13716,1,11.32782796,20.25261521,ALAD,not coregulated,not liver specific
+P13796_LCP1,P13796,1,14.05954734,19.5725936,LCP1,coregulated,not liver specific
+P14209_CD99,P14209,1,10.67988255,17.67279973,CD99,not coregulated,not liver specific
+P14543_NID1,P14543,1,11.45284318,16.20387848,NID1,not coregulated,not liver specific
+P14618_PKM,P14618,1,12.03005917,18.84848764,PKM,not coregulated,not liver specific
+P14625_HSP90B1,P14625,1,12.89432519,23.28830284,HSP90B1,not coregulated,not liver specific
+P14780_MMP9,P14780,1,10.73853233,12.54371021,MMP9,not coregulated,not liver specific
+P15144_ANPEP,P15144,1,13.155934900000002,18.66524441,ANPEP,not coregulated,not liver specific
+P16930_FAH,P16930,1,12.79921168,20.14211127,FAH,coregulated,not liver specific
+P17174_GOT1,P17174,1,12.44735415,21.93731985,GOT1,not coregulated,not liver specific
+P18206_VCL,P18206,1,12.26458051,18.5245833,VCL,not coregulated,not liver specific
+P18428_LBP,P18428,1,16.41262106,13.01032634,LBP,not coregulated,liver specific
+P19022_CDH2,P19022,1,11.66164506,17.22406753,CDH2,not coregulated,not liver specific
+P19320_VCAM1,P19320,1,12.53081526,15.41388235,VCAM1,not coregulated,not liver specific
+P19652_ORM2,P19652,1,18.35128201,20.56893755,ORM2,not coregulated,liver specific
+P19823_ITIH2,P19823,1,19.48560482,17.972119199999998,ITIH2,not coregulated,liver specific
+P19827_ITIH1,P19827,1,19.78248607,17.59479535,ITIH1,not coregulated,liver specific
+P20742_PZP,P20742,1,17.26506595,16.14081959,PZP,not coregulated,liver specific
+P20774_OGN,P20774,1,12.94124227,16.71344612,OGN,coregulated,not liver specific
+P22792_CPN2,P22792,1,17.71034439,15.51318581,CPN2,not coregulated,liver specific
+P22897_MRC1,P22897,1,13.54014895,16.53124402,MRC1,not coregulated,not liver specific
+P23141_CES1,P23141,1,11.67594261,23.83237383,CES1,not coregulated,liver specific
+P23142_FBLN1,P23142,1,17.08586256,16.30992882,FBLN1,coregulated,not liver specific
+P23526_AHCY,P23526,1,10.55729612,21.59091366,AHCY,not coregulated,not liver specific
+P24298_GPT,P24298,1,11.06498721,20.86224977,GPT,not coregulated,not liver specific
+P24821_TNC,P24821,1,12.27853501,16.29299649,TNC,not coregulated,not liver specific
+P25311_AZGP1,P25311,1,16.57032538,17.4493999,AZGP1,not coregulated,liver specific
+P25705_ATP5A1,P25705,1,13.384122099999999,24.25906492,ATP5A1,not coregulated,not liver specific
+P25786_PSMA1,P25786,1,11.27088503,19.83353241,PSMA1,not coregulated,not liver specific
+P27169_PON1,P27169,1,19.43756616,20.55762348,PON1,not coregulated,liver specific
+P27487_DPP4,P27487,1,12.14711167,16.79797962,DPP4,not coregulated,not liver specific
+P28066_PSMA5,P28066,1,,18.49950349,PSMA5,not coregulated,not liver specific
+P29401_TKT,P29401,1,12.08902812,21.00383178,TKT,not coregulated,not liver specific
+P29622_SERPINA4,P29622,1,17.78153093,15.87907367,SERPINA4,not coregulated,liver specific
+P29966_MARCKS,P29966,1,10.12683565,17.05373701,MARCKS,not coregulated,not liver specific
+P30041_PRDX6,P30041,1,12.75866787,23.64409316,PRDX6,not coregulated,not liver specific
+P30043_BLVRB,P30043,1,11.86496232,22.19046224,BLVRB,not coregulated,not liver specific
+P30101_PDIA3,P30101,1,12.04638072,21.60935406,PDIA3,not coregulated,not liver specific
+P32119_PRDX2,P32119,1,13.34752442,22.95708159,PRDX2,not coregulated,not liver specific
+P32942_ICAM3,P32942,1,13.04590739,,ICAM3,not coregulated,not liver specific
+P33151_CDH5,P33151,1,14.35295602,14.60580471,CDH5,not coregulated,not liver specific
+P33908_MAN1A1,P33908,1,13.98023902,17.3546015,MAN1A1,not coregulated,not liver specific
+P35241_RDX,P35241,1,12.428686599999999,20.020336800000003,RDX,coregulated,not liver specific
+P35527_KRT9,P35527,1,12.41846153,17.13103725,KRT9,not coregulated,not liver specific
+P35579_MYH9,P35579,1,10.7937343,20.97795749,MYH9,not coregulated,not liver specific
+P35858_IGFALS,P35858,1,18.21341475,15.4821875,IGFALS,not coregulated,liver specific
+P35908_KRT2,P35908,1,11.67456734,18.16479115,KRT2,not coregulated,not liver specific
+P36222_CHI3L1,P36222,1,13.24570455,14.214924300000002,CHI3L1,not coregulated,not liver specific
+P36955_SERPINF1,P36955,1,18.28693113,16.6338695,SERPINF1,coregulated,not liver specific
+P37802_TAGLN2,P37802,1,12.22061221,18.11090877,TAGLN2,not coregulated,not liver specific
+P39060_COL18A1,P39060,1,12.69255456,18.9857762,COL18A1,not coregulated,not liver specific
+P42126_ECI1,P42126,1,12.93916536,21.64998266,ECI1,not coregulated,not liver specific
+P43121_MCAM,P43121,1,13.53895744,15.56693104,MCAM,not coregulated,not liver specific
+P43251_BTD,P43251,1,16.12319762,15.691599900000002,BTD,not coregulated,not liver specific
+P43652_AFM,P43652,1,19.86230671,16.09545316,AFM,not coregulated,liver specific
+P48740_MASP1,P48740,1,15.50462079,13.48055003,MASP1,not coregulated,not liver specific
+P51884_LUM,P51884,1,18.79406608,18.61621796,LUM,coregulated,not liver specific
+P54802_NAGLU,P54802,1,16.9451367,16.39307423,NAGLU,not coregulated,not liver specific
+P55103_INHBC,P55103,1,13.99720354,13.14290811,INHBC,not coregulated,liver specific
+P55290_CDH13,P55290,1,12.99760128,13.03733218,CDH13,not coregulated,not liver specific
+P56199_ITGA1,P56199,1,15.95953267,18.01228326,ITGA1,not coregulated,not liver specific
+P58166_INHBE,P58166,1,11.98915301,17.24065112,INHBE,not coregulated,liver specific
+P60709_ACTB,P60709,1,15.12414827,25.51722991,ACTB,not coregulated,not liver specific
+P61769_B2M,P61769,1,13.67078858,18.71187251,B2M,not coregulated,not liver specific
+P62258_YWHAE,P62258,1,12.19344382,21.080510500000003,YWHAE,not coregulated,not liver specific
+P62328_TMSB4X,P62328,1,13.19034188,19.51278831,TMSB4X,not coregulated,not liver specific
+P62805_HIST1H4A,P62805,1,14.00991637,22.97481659,HIST1H4A,not coregulated,not liver specific
+P62937_PPIA,P62937,1,11.99939288,21.70109013,PPIA,not coregulated,not liver specific
+P63104_YWHAZ,P63104,1,12.92122594,21.61241623,YWHAZ,not coregulated,not liver specific
+P67936_TPM4,P67936,1,12.30899899,18.50903411,TPM4,not coregulated,not liver specific
+P68104_EEF1A1,P68104,1,14.42842157,23.16547607,EEF1A1,not coregulated,not liver specific
+P68363_TUBA1B,P68363,1,12.27968425,21.76938075,TUBA1B,not coregulated,not liver specific
+P68871_HBB,P68871,1,22.50799705,26.68623056,HBB,not coregulated,not liver specific
+P69905_HBA1,P69905,1,20.58865095,26.86880673,HBA1,not coregulated,not liver specific
+P78417_GSTO1,P78417,1,12.32430249,22.4220585,GSTO1,not coregulated,not liver specific
+P80108_GPLD1,P80108,1,16.9833002,15.05371356,GPLD1,not coregulated,liver specific
+P80188_LCN2,P80188,1,12.79667618,13.80267612,LCN2,not coregulated,not liver specific
+P80723_BASP1,P80723,1,10.4067586,16.49260323,BASP1,not coregulated,not liver specific
+P80748_IGLV3-21,P80748,1,20.11548157,16.75301665,IGLV3-21,not coregulated,not liver specific
+P81605_DCD,P81605,1,11.80286181,17.00676867,DCD,not coregulated,not liver specific
+P98160_HSPG2,P98160,1,11.89070627,18.38001413,HSPG2,coregulated,not liver specific
+Q02985_CFHR3,Q02985,1,16.05248008,14.99314439,CFHR3,not coregulated,liver specific
+Q06033_ITIH3,Q06033,1,17.27374253,15.07874216,ITIH3,not coregulated,liver specific
+Q06830_PRDX1,Q06830,1,13.56693242,24.08279989,PRDX1,not coregulated,not liver specific
+Q07065_CKAP4,Q07065,1,20.89149665,17.661428100000002,CKAP4,not coregulated,not liver specific
+Q07075_ENPEP,Q07075,1,11.35809355,16.9627752,ENPEP,not coregulated,not liver specific
+Q07954_LRP1,Q07954,1,12.02955542,17.70467405,LRP1,not coregulated,not liver specific
+Q08211_DHX9,Q08211,1,,17.88669425,DHX9,not coregulated,not liver specific
+Q08380_LGALS3BP,Q08380,1,17.72707018,17.00000783,LGALS3BP,coregulated,not liver specific
+Q08830_FGL1,Q08830,1,13.71320301,15.73968585,FGL1,not coregulated,liver specific
+Q12907_LMAN2,Q12907,1,13.87471926,20.32464682,LMAN2,not coregulated,not liver specific
+Q13103_SPP2,Q13103,1,12.50533485,13.55110626,SPP2,not coregulated,liver specific
+Q13228_SELENBP1,Q13228,1,12.31663372,22.11803426,SELENBP1,coregulated,not liver specific
+Q13740_ALCAM,Q13740,1,11.80529124,16.02027041,ALCAM,not coregulated,not liver specific
+Q13790_APOF,Q13790,1,15.6234448,14.66933258,APOF,not coregulated,liver specific
+Q14118_DAG1,Q14118,1,12.93284758,16.9169921,DAG1,not coregulated,not liver specific
+Q14520_HABP2,Q14520,1,14.86360878,14.05334131,HABP2,not coregulated,liver specific
+Q14624_ITIH4,Q14624,1,18.35731281,17.69710769,ITIH4,not coregulated,liver specific
+Q14997_PSME4,Q14997,1,18.17644244,15.79022334,PSME4,not coregulated,not liver specific
+Q15113_PCOLCE,Q15113,1,13.36727582,13.86981679,PCOLCE,not coregulated,not liver specific
+Q15166_PON3,Q15166,1,13.77185692,19.96986601,PON3,not coregulated,liver specific
+Q15293_RCN1,Q15293,1,14.25301891,18.40813448,RCN1,not coregulated,not liver specific
+Q15404_RSU1,Q15404,1,13.8886117,17.26750598,RSU1,not coregulated,not liver specific
+Q15582_TGFBI,Q15582,1,15.448284,19.26933466,TGFBI,coregulated,not liver specific
+Q15942_ZYX,Q15942,1,11.07460636,17.20066401,ZYX,not coregulated,not liver specific
+Q16270_IGFBP7,Q16270,1,11.57694375,14.41639309,IGFBP7,coregulated,not liver specific
+Q16610_ECM1,Q16610,1,16.722582,14.88498137,ECM1,not coregulated,not liver specific
+Q16706_MAN2A1,Q16706,1,11.87484935,15.79146952,MAN2A1,not coregulated,not liver specific
+Q16853_AOC3,Q16853,1,12.88560237,18.88676963,AOC3,not coregulated,not liver specific
+Q3LXA3_TKFC,Q3LXA3,1,10.41587845,22.5453526,TKFC,not coregulated,not liver specific
+Q562R1_ACTBL2,Q562R1,1,13.88431142,25.14549104,ACTBL2,not coregulated,not liver specific
+Q5T123_SH3BGRL3,Q5T123,1,8.779816323,18.85960502,SH3BGRL3,not coregulated,not liver specific
+Q6EMK4_VASN,Q6EMK4,1,13.977507000000001,15.29239069,VASN,not coregulated,not liver specific
+Q6P179_ERAP2,Q6P179,1,16.23608238,13.51430346,ERAP2,not coregulated,not liver specific
+Q6P387_C16orf46,Q6P387,1,14.90956452,14.10673748,C16orf46,not coregulated,not liver specific
+Q6UX71_PLXDC2,Q6UX71,1,13.08062029,13.606026199999999,PLXDC2,coregulated,not liver specific
+Q6UY14_ADAMTSL4,Q6UY14,1,13.60920264,12.85908818,ADAMTSL4,coregulated,not liver specific
+Q6YHK3_CD109,Q6YHK3,1,11.56083034,15.03890145,CD109,not coregulated,not liver specific
+Q86U17_SERPINA11,Q86U17,1,13.15312269,14.2618446,SERPINA11,not coregulated,liver specific
+Q86UX7_FERMT3,Q86UX7,1,12.09028827,17.11066089,FERMT3,not coregulated,not liver specific
+Q8NBJ4_GOLM1,Q8NBJ4,1,11.2090275,12.84023187,GOLM1,not coregulated,not liver specific
+Q8WWZ8_OIT3,Q8WWZ8,1,11.68630757,13.68662645,OIT3,not coregulated,liver specific
+Q92820_GGH,Q92820,1,13.52834634,18.65870777,GGH,not coregulated,not liver specific
+Q92859_NEO1,Q92859,1,14.578587300000002,12.90204896,NEO1,not coregulated,not liver specific
+Q96PD5_PGLYRP2,Q96PD5,1,19.01867513,15.07586682,PGLYRP2,not coregulated,liver specific
+Q9BS26_ERP44,Q9BS26,1,13.46432932,19.91863184,ERP44,not coregulated,not liver specific
+Q9BTY2_FUCA2,Q9BTY2,1,13.40680158,14.19374554,FUCA2,not coregulated,not liver specific
+Q9BWP8_COLEC11,Q9BWP8,1,14.26758301,16.31291737,COLEC11,not coregulated,not liver specific
+Q9BXR6_CFHR5,Q9BXR6,1,15.01459278,14.94862211,CFHR5,not coregulated,liver specific
+Q9BYE9_CDHR2,Q9BYE9,1,15.79707709,13.52097525,CDHR2,not coregulated,not liver specific
+Q9H4B7_TUBB1,Q9H4B7,1,11.59081715,13.84048673,TUBB1,not coregulated,not liver specific
+Q9H8L6_MMRN2,Q9H8L6,1,13.0918692,15.87707658,MMRN2,not coregulated,not liver specific
+Q9HDC9_APMAP,Q9HDC9,1,14.34306314,20.08612098,APMAP,coregulated,not liver specific
+Q9NZP8_C1RL,Q9NZP8,1,15.99650536,17.09144465,C1RL,not coregulated,not liver specific
+Q9UBG0_MRC2,Q9UBG0,1,10.95131077,13.20657186,MRC2,not coregulated,not liver specific
+Q9UEW3_MARCO,Q9UEW3,1,10.4000044,14.80930714,MARCO,not coregulated,not liver specific
+Q9UHG3_PCYOX1,Q9UHG3,1,13.53836921,20.03702329,PCYOX1,not coregulated,not liver specific
+Q9UNN8_PROCR,Q9UNN8,1,13.29289113,12.8968694,PROCR,coregulated,not liver specific
+Q9UNW1_MINPP1,Q9UNW1,1,14.45997621,14.33471137,MINPP1,not coregulated,not liver specific
+Q9Y490_TLN1,Q9Y490,1,12.28647582,19.13755551,TLN1,not coregulated,not liver specific
+Q9Y4L1_HYOU1,Q9Y4L1,1,12.37407259,19.13306343,HYOU1,not coregulated,not liver specific
+Q9Y5Y7_LYVE1,Q9Y5Y7,1,13.76291185,15.56010219,LYVE1,coregulated,not liver specific
+Q9Y646_CPQ,Q9Y646,1,11.86082871,16.41812787,CPQ,not coregulated,not liver specific
+V9GYM3_APOA2,V9GYM3,1,24.28954646,21.77575651,APOA2,not coregulated,liver specific
+A0A024R6I7_SERPINA1,A0A024R6I7,2,17.05733979,18.59435541,SERPINA1,not coregulated,liver specific
+A0A075B6R9_IGKV2D-24,A0A075B6R9,2,18.35241318,16.36256225,IGKV2D-24,coregulated,not liver specific
+A0A075B6S2_IGKV2D-29,A0A075B6S2,2,22.20394666,13.66620182,IGKV2D-29,not coregulated,not liver specific
+A0A087WTK0_PTPRJ,A0A087WTK0,2,13.22265767,20.63111126,PTPRJ,not coregulated,not liver specific
+A0A087WWU8_TPM3,A0A087WWU8,2,12.499671699999999,20.02035644,TPM3,not coregulated,not liver specific
+A0A087WXI5_CDH1,A0A087WXI5,2,12.25319845,16.40371194,CDH1,not coregulated,not liver specific
+A0A087X0S5_COL6A1,A0A087X0S5,2,12.41649295,20.4086668,COL6A1,not coregulated,not liver specific
+A0A087X1J7_GPX3,A0A087X1J7,2,17.04518715,16.51030206,GPX3,coregulated,not liver specific
+A0A087X1W8_CADM1,A0A087X1W8,2,13.59502619,15.75947416,CADM1,not coregulated,not liver specific
+A0A096LPE2_SAA2-SAA4,A0A096LPE2,2,18.60504893,17.45677986,SAA2-SAA4,not coregulated,liver specific
+A0A0A0MRJ7_F5,A0A0A0MRJ7,2,15.75419075,14.55343642,F5,not coregulated,liver specific
+A0A0A0MRZ8_IGKV3D-11,A0A0A0MRZ8,2,23.12959466,19.31308855,IGKV3D-11,not coregulated,not liver specific
+A0A0A0MS09_IGHD,A0A0A0MS09,2,18.05641064,15.89495839,IGHD,not coregulated,not liver specific
+A0A0A0MSD0_SVEP1,A0A0A0MSD0,2,12.40304272,16.57972692,SVEP1,not coregulated,not liver specific
+A0A0A0MSV6_C1QB,A0A0A0MSV6,2,17.35688775,17.82540409,C1QB,not coregulated,not liver specific
+A0A0B4J1V0_IGHV3-15,A0A0B4J1V0,2,17.47905799,14.37554721,IGHV3-15,not coregulated,not liver specific
+A0A0B4J231_IGLL5,A0A0B4J231,2,21.99243908,19.73281867,IGLL5,not coregulated,not liver specific
+A0A0B4J2B5_IGHV3OR16-9,A0A0B4J2B5,2,21.44974337,18.51858377,IGHV3OR16-9,coregulated,not liver specific
+A0A0C4DH34_IGHV4-28,A0A0C4DH34,2,16.00418587,14.59468056,IGHV4-28,not coregulated,not liver specific
+A0A0C4DH38_IGHV5-51,A0A0C4DH38,2,18.98127935,16.76301695,IGHV5-51,coregulated,not liver specific
+A0A0C4DH43_IGHV2-70D,A0A0C4DH43,2,19.52363156,16.9585205,IGHV2-70D,not coregulated,not liver specific
+A0A0C4DH72_IGKV1-6,A0A0C4DH72,2,18.55327702,15.39567415,IGKV1-6,not coregulated,not liver specific
+A0A0D9SEN1_FAP,A0A0D9SEN1,2,13.40026713,14.6125029,FAP,not coregulated,not liver specific
+A0A0D9SFB5_ADH4,A0A0D9SFB5,2,10.28626146,24.94268791,ADH4,not coregulated,liver specific
+A0A0G2JIW1_HSPA1B,A0A0G2JIW1,2,18.08200529,20.25765815,HSPA1B,not coregulated,not liver specific
+A0A0G2JMB2_IGHA2,A0A0G2JMB2,2,25.38526444,20.95113813,IGHA2,coregulated,not liver specific
+A0A0J9YY99_,A0A0J9YY99,2,19.88682361,15.31324025,,coregulated,not liver specific
+A0A0J9YYC8_PRSS2,A0A0J9YYC8,2,14.92244753,17.97723147,PRSS2,not coregulated,not liver specific
+A0A0U1RR20_PRG4,A0A0U1RR20,2,14.94402643,15.72040375,PRG4,not coregulated,liver specific
+A0A0U1RR32_HIST1H3D,A0A0U1RR32,2,,17.99227787,HIST1H3D,not coregulated,not liver specific
+A0A140T921_HLA-C,A0A140T921,2,9.629563037,15.35881046,HLA-C,not coregulated,not liver specific
+A0A140TA41_TNXB,A0A140TA41,2,13.55859388,17.10301229,TNXB,not coregulated,not liver specific
+A0A182DWH7_SELENOP,A0A182DWH7,2,16.7483576,16.59171056,SELENOP,not coregulated,not liver specific
+A0A1B0GUU9_IGHM,A0A1B0GUU9,2,23.74725446,18.88559481,IGHM,not coregulated,not liver specific
+A0A1W2PQB1_FCGR3A,A0A1W2PQB1,2,14.96575176,15.53077941,FCGR3A,not coregulated,not liver specific
+A0A286YEY1_IGHA1,A0A286YEY1,2,25.29040526,20.37309359,IGHA1,coregulated,not liver specific
+A0A286YFJ8_IGHG4,A0A286YFJ8,2,21.04749503,17.34453482,IGHG4,not coregulated,not liver specific
+A0M8Q6_IGLC7,A0M8Q6,2,13.60922866,14.59385392,IGLC7,not coregulated,not liver specific
+A6NC48_BST1,A6NC48,2,13.07341594,14.9945223,BST1,not coregulated,not liver specific
+A6XND0_IGFBP3,A6XND0,2,15.11886835,14.69659566,IGFBP3,not coregulated,not liver specific
+B0QYF8_MB,B0QYF8,2,10.39811655,15.84583387,MB,not coregulated,not liver specific
+B0YIW2_APOC3,B0YIW2,2,21.78184326,20.88800004,APOC3,not coregulated,liver specific
+B1AHL2_FBLN1,B1AHL2,2,15.18448413,15.08453527,FBLN1,coregulated,not liver specific
+B4DPQ0_C1R,B4DPQ0,2,17.29280354,16.87867503,C1R,not coregulated,not liver specific
+,B4E1Z4,2,18.74372214,18.13825356,,not coregulated,not liver specific
+C9JF17_APOD,C9JF17,2,20.56446974,19.87765115,APOD,not coregulated,not liver specific
+C9JIZ6_PSAP,C9JIZ6,2,14.23548899,20.87271504,PSAP,not coregulated,not liver specific
+D6RF35_GC,D6RF35,2,19.48246766,19.59460682,GC,not coregulated,liver specific
+E7END6_PROC,E7END6,2,15.35337154,13.57459182,PROC,not coregulated,liver specific
+E7EQB2_LTF,E7EQB2,2,12.64574852,17.86788166,LTF,not coregulated,not liver specific
+E7ETH0_CFI,E7ETH0,2,18.16831874,15.06975583,CFI,not coregulated,liver specific
+E9PEP6_NRP1,E9PEP6,2,11.68585495,15.08928566,NRP1,coregulated,not liver specific
+E9PFZ2_CP,E9PFZ2,2,18.00767951,16.19606728,CP,not coregulated,liver specific
+E9PHK0_CLEC3B,E9PHK0,2,16.7216775,15.69859514,CLEC3B,not coregulated,not liver specific
+F5GZS6_SLC3A2,F5GZS6,2,11.71211629,14.95748215,SLC3A2,not coregulated,not liver specific
+F8W6I7_HNRNPA1,F8W6I7,2,14.41556178,18.46535168,HNRNPA1,not coregulated,not liver specific
+G3V2W1_SERPINA10,G3V2W1,2,14.65877221,12.95020235,SERPINA10,not coregulated,liver specific
+G3V4U0_FBLN5,G3V4U0,2,13.31492162,15.88848915,FBLN5,not coregulated,not liver specific
+G3V5Z7_PSMA6,G3V5Z7,2,10.21777219,19.49216328,PSMA6,not coregulated,not liver specific
+G3XAK1_MST1,G3XAK1,2,14.09259554,14.81325173,MST1,not coregulated,liver specific
+G3XAP6_COMP,G3XAP6,2,13.81034489,14.60796236,COMP,not coregulated,not liver specific
+H0YAC1_KLKB1,H0YAC1,2,17.95664826,15.92964205,KLKB1,not coregulated,liver specific
+H0YD13_CD44,H0YD13,2,14.99269118,15.36327858,CD44,coregulated,not liver specific
+H3BR70_PKM,H3BR70,2,14.26688093,15.75289062,PKM,not coregulated,not liver specific
+J3KNB4_CAMP,J3KNB4,2,12.52060487,15.82663112,CAMP,not coregulated,not liver specific
+J3KPS3_ALDOA,J3KPS3,2,13.20177885,23.74430325,ALDOA,not coregulated,not liver specific
+K7ER74_APOC4-APOC2,K7ER74,2,20.48024114,19.78128102,APOC4-APOC2,not coregulated,liver specific
+K7ERE3_KRT13,K7ERE3,2,12.81059265,18.7544998,KRT13,not coregulated,not liver specific
+K7ERG9_CFD,K7ERG9,2,15.42329991,15.11385337,CFD,not coregulated,not liver specific
+K7ERI9_APOC1,K7ERI9,2,19.80209793,19.55419992,APOC1,not coregulated,liver specific
+M0R1Q1_C3,M0R1Q1,2,14.903719,14.1702696,C3,not coregulated,not liver specific
+O00187_MASP2,O00187,2,16.55389439,15.13202341,MASP2,not coregulated,liver specific
+O00391_QSOX1,O00391,2,14.92452727,15.29347564,QSOX1,not coregulated,not liver specific
+O14498_ISLR,O14498,2,12.41598182,15.17577161,ISLR,not coregulated,not liver specific
+O14791_APOL1,O14791,2,18.30081067,15.38668111,APOL1,not coregulated,not liver specific
+O43852_CALU,O43852,2,12.09776948,17.68131011,CALU,not coregulated,not liver specific
+O60814_HIST1H2BK,O60814,2,11.40371167,24.18855595,HIST1H2BK,not coregulated,not liver specific
+O75636_FCN3,O75636,2,17.4240183,14.73698287,FCN3,not coregulated,liver specific
+O75882_ATRN,O75882,2,16.78926734,14.01529001,ATRN,coregulated,not liver specific
+O75976_CPD,O75976,2,14.16941773,14.73696791,CPD,not coregulated,not liver specific
+O95445_APOM,O95445,2,17.48977251,17.19804422,APOM,not coregulated,not liver specific
+O95479_H6PD,O95479,2,11.53814788,19.04037098,H6PD,not coregulated,not liver specific
+O95497_VNN1,O95497,2,13.16198313,16.09743307,VNN1,not coregulated,liver specific
+P00338_LDHA,P00338,2,12.70449711,22.81651305,LDHA,not coregulated,not liver specific
+P00352_ALDH1A1,P00352,2,17.0290152,24.10275946,ALDH1A1,not coregulated,not liver specific
+P00367_GLUD1,P00367,2,11.5227088,23.49296237,GLUD1,not coregulated,not liver specific
+P00387_CYB5R3,P00387,2,10.26870797,20.40220823,CYB5R3,not coregulated,not liver specific
+P00390_GSR,P00390,2,13.42474925,19.17625731,GSR,not coregulated,not liver specific
+P00450_CP,P00450,2,18.55628746,17.63969493,CP,not coregulated,liver specific
+P00488_F13A1,P00488,2,16.99461502,15.07902668,F13A1,not coregulated,not liver specific
+P00491_PNP,P00491,2,10.56187625,17.8031113,PNP,not coregulated,not liver specific
+P00558_PGK1,P00558,2,12.30767599,21.72242293,PGK1,not coregulated,not liver specific
+P00734_F2,P00734,2,19.57787273,16.39815783,F2,not coregulated,liver specific
+P00738_HP,P00738,2,25.12880704,22.55576763,HP,not coregulated,liver specific
+P00739_HPR,P00739,2,18.91042075,16.03103664,HPR,coregulated,liver specific
+P00740_F9,P00740,2,15.57393096,16.90706805,F9,not coregulated,liver specific
+P00742_F10,P00742,2,16.96729271,13.66917019,F10,not coregulated,liver specific
+P00747_PLG,P00747,2,19.88184072,17.9446428,PLG,not coregulated,liver specific
+P00748_F12,P00748,2,18.11042797,17.04620986,F12,not coregulated,liver specific
+P00915_CA1,P00915,2,14.70117363,21.021292499999998,CA1,not coregulated,not liver specific
+P00918_CA2,P00918,2,13.1258199,21.54136311,CA2,not coregulated,not liver specific
+P01008_SERPINC1,P01008,2,17.89304861,19.75409855,SERPINC1,not coregulated,liver specific
+P01009_SERPINA1,P01009,2,25.26744664,21.30977867,SERPINA1,coregulated,liver specific
+P01011_SERPINA3,P01011,2,21.61470019,19.17858227,SERPINA3,not coregulated,liver specific
+P01019_AGT,P01019,2,19.14339246,16.41248904,AGT,not coregulated,liver specific
+P01023_A2M,P01023,2,23.39014262,19.96565683,A2M,coregulated,not liver specific
+P01024_C3,P01024,2,24.16585397,20.85530068,C3,not coregulated,not liver specific
+P01031_C5,P01031,2,16.6997515,16.89212936,C5,not coregulated,liver specific
+P01033_TIMP1,P01033,2,14.39200829,16.25868869,TIMP1,not coregulated,not liver specific
+P01034_CST3,P01034,2,14.869867600000001,15.94753925,CST3,coregulated,not liver specific
+P01042_KNG1,P01042,2,20.9368517,17.39068968,KNG1,not coregulated,liver specific
+P01042-2_KNG1,P01042-2,2,9.940284961,17.35928858,KNG1,not coregulated,liver specific
+P01602_IGKV1-5,P01602,2,19.56877451,17.93353085,IGKV1-5,not coregulated,not liver specific
+P01619_IGKV3-20,P01619,2,21.81623557,19.08950969,IGKV3-20,not coregulated,not liver specific
+P01624_IGKV3-15,P01624,2,22.36494962,19.93101426,IGKV3-15,coregulated,not liver specific
+P01700_IGLV1-47,P01700,2,21.94339585,16.53662644,IGLV1-47,coregulated,not liver specific
+P01717_IGLV3-25,P01717,2,19.16797578,15.98513889,IGLV3-25,not coregulated,not liver specific
+P01721_IGLV6-57,P01721,2,15.6465041,18.25580839,IGLV6-57,not coregulated,not liver specific
+P01780_IGHV3-7,P01780,2,21.1896174,16.81515618,IGHV3-7,coregulated,not liver specific
+P01833_PIGR,P01833,2,16.41612909,13.52479245,PIGR,coregulated,not liver specific
+P01834_IGKC,P01834,2,25.45534838,21.03370757,IGKC,coregulated,not liver specific
+P02042_HBD,P02042,2,15.60600485,25.48606508,HBD,not coregulated,not liver specific
+P02533_KRT14,P02533,2,11.60877156,14.166722400000001,KRT14,not coregulated,not liver specific
+P02538_KRT6A,P02538,2,14.68590747,23.63357575,KRT6A,not coregulated,not liver specific
+P02545_LMNA,P02545,2,13.21332591,21.38617459,LMNA,not coregulated,not liver specific
+P02647_APOA1,P02647,2,25.21589301,22.9701827,APOA1,not coregulated,liver specific
+P02649_APOE,P02649,2,19.95828819,21.38806237,APOE,not coregulated,not liver specific
+P02671_FGA,P02671,2,21.87409495,19.20631214,FGA,not coregulated,liver specific
+P02675_FGB,P02675,2,23.88611182,21.28673889,FGB,not coregulated,liver specific
+P02679_FGG,P02679,2,22.44613411,19.93094262,FGG,not coregulated,liver specific
+P02730_SLC4A1,P02730,2,12.10292653,16.6273764,SLC4A1,not coregulated,not liver specific
+P02741_CRP,P02741,2,15.57985636,16.20921827,CRP,not coregulated,liver specific
+P02743_APCS,P02743,2,19.58458642,18.84647535,APCS,coregulated,liver specific
+P02747_C1QC,P02747,2,19.32808803,17.99489191,C1QC,not coregulated,not liver specific
+P02748_C9,P02748,2,19.88682325,17.19688699,C9,not coregulated,liver specific
+P02749_APOH,P02749,2,18.28036008,19.52382285,APOH,not coregulated,liver specific
+P02750_LRG1,P02750,2,20.19248668,17.36930672,LRG1,not coregulated,liver specific
+P02751_FN1,P02751,2,19.66371417,21.07812832,FN1,not coregulated,not liver specific
+P02753_RBP4,P02753,2,19.65911541,18.0969766,RBP4,not coregulated,liver specific
+P02760_AMBP,P02760,2,19.82238489,17.1601322,AMBP,not coregulated,liver specific
+P02763_ORM1,P02763,2,23.47610412,19.87469778,ORM1,not coregulated,liver specific
+P02765_AHSG,P02765,2,21.2561188,18.58017803,AHSG,not coregulated,liver specific
+P02766_TTR,P02766,2,15.47587715,18.99699189,TTR,not coregulated,liver specific
+P02768_ALB,P02768,2,29.45434696,25.11381381,ALB,not coregulated,liver specific
+P02775_PPBP,P02775,2,16.08441978,15.587712,PPBP,coregulated,not liver specific
+P02776_PF4,P02776,2,14.58700722,17.26193821,PF4,not coregulated,not liver specific
+P02786_TFRC,P02786,2,13.685044,13.9589644,TFRC,not coregulated,not liver specific
+P02787_TF,P02787,2,25.12754575,21.26483227,TF,not coregulated,liver specific
+P02790_HPX,P02790,2,22.83681598,20.54850346,HPX,not coregulated,liver specific
+P03951_F11,P03951,2,14.03671678,15.48175574,F11,not coregulated,liver specific
+P04003_C4BPA,P04003,2,20.82769431,16.6305411,C4BPA,not coregulated,liver specific
+P04004_VTN,P04004,2,20.94228224,20.1997988,VTN,coregulated,liver specific
+P04040_CAT,P04040,2,12.58035777,23.97282153,CAT,coregulated,not liver specific
+P04066_FUCA1,P04066,2,13.27142831,16.66617704,FUCA1,not coregulated,not liver specific
+P04080_CSTB,P04080,2,9.608652341,20.88805977,CSTB,not coregulated,not liver specific
+P04114_APOB,P04114,2,20.9344465,19.01996137,APOB,not coregulated,liver specific
+P04196_HRG,P04196,2,20.68111795,17.19157657,HRG,not coregulated,liver specific
+P04217_A1BG,P04217,2,21.49982195,18.43233312,A1BG,not coregulated,liver specific
+P04217-2_A1BG,P04217-2,2,12.32922446,18.58340461,A1BG,not coregulated,liver specific
+P04259_KRT6B,P04259,2,14.37785085,18.57021686,KRT6B,not coregulated,not liver specific
+P04264_KRT1,P04264,2,12.73701073,20.0142994,KRT1,not coregulated,not liver specific
+P04275_VWF,P04275,2,14.48788754,14.64440603,VWF,not coregulated,not liver specific
+P04406_GAPDH,P04406,2,12.725384199999999,23.65642479,GAPDH,not coregulated,not liver specific
+P05062_ALDOB,P05062,2,14.08901532,25.47277091,ALDOB,coregulated,liver specific
+P05109_S100A8,P05109,2,13.12989419,19.15248635,S100A8,not coregulated,not liver specific
+P05154_SERPINA5,P05154,2,16.04477594,15.96838826,SERPINA5,not coregulated,liver specific
+P05155_SERPING1,P05155,2,21.38063712,19.06506168,SERPING1,not coregulated,not liver specific
+P05362_ICAM1,P05362,2,13.68536246,16.62771519,ICAM1,not coregulated,not liver specific
+P05534_HLA-A,P05534,2,13.02803052,17.97019409,HLA-A,not coregulated,not liver specific
+P05543_SERPINA7,P05543,2,16.63875797,13.65591493,SERPINA7,not coregulated,liver specific
+P05546_SERPIND1,P05546,2,19.88362045,16.75474205,SERPIND1,not coregulated,liver specific
+P05556_ITGB1,P05556,2,12.17463946,18.84876664,ITGB1,not coregulated,not liver specific
+P06276_BCHE,P06276,2,16.00522755,15.88221571,BCHE,not coregulated,liver specific
+P06312_IGKV4-1,P06312,2,20.48850975,16.59931317,IGKV4-1,coregulated,not liver specific
+P06396_GSN,P06396,2,18.55028855,18.36824998,GSN,not coregulated,not liver specific
+P06396-2_GSN,P06396-2,2,12.140286099999999,17.73632202,GSN,not coregulated,not liver specific
+P06681_C2,P06681,2,16.7358704,15.70190622,C2,not coregulated,liver specific
+P06702_S100A9,P06702,2,12.50549065,19.01054583,S100A9,not coregulated,not liver specific
+P06727_APOA4,P06727,2,21.39074204,17.79839236,APOA4,not coregulated,not liver specific
+P06733_ENO1,P06733,2,12.17708348,22.19922353,ENO1,not coregulated,not liver specific
+P07195_LDHB,P07195,2,13.41838461,18.23421028,LDHB,coregulated,not liver specific
+P07225_PROS1,P07225,2,17.98266714,16.21228496,PROS1,not coregulated,liver specific
+P07237_P4HB,P07237,2,11.85584663,23.5096268,P4HB,not coregulated,not liver specific
+P07355_ANXA2,P07355,2,13.08835414,20.59267849,ANXA2,not coregulated,not liver specific
+P07357_C8A,P07357,2,16.81578165,15.90664314,C8A,not coregulated,liver specific
+P07437_TUBB,P07437,2,11.65735246,20.32449411,TUBB,not coregulated,not liver specific
+P07686_HEXB,P07686,2,11.39436043,18.15091609,HEXB,not coregulated,not liver specific
+P07737_PFN1,P07737,2,13.15489095,20.11488832,PFN1,not coregulated,not liver specific
+P07858_CTSB,P07858,2,11.71109512,22.48978279,CTSB,not coregulated,not liver specific
+P07900_HSP90AA1,P07900,2,11.6456399,21.84307392,HSP90AA1,not coregulated,not liver specific
+P07996_THBS1,P07996,2,14.00291699,16.13408434,THBS1,not coregulated,not liver specific
+P08185_SERPINA6,P08185,2,17.1930417,15.61522071,SERPINA6,not coregulated,liver specific
+P08238_HSP90AB1,P08238,2,11.60489949,20.38326821,HSP90AB1,not coregulated,not liver specific
+P08294_SOD3,P08294,2,13.72600603,16.54965206,SOD3,coregulated,not liver specific
+P08519_LPA,P08519,2,13.840566199999998,16.92002657,LPA,not coregulated,liver specific
+P08567_PLEK,P08567,2,11.21737197,15.42161784,PLEK,not coregulated,not liver specific
+P08571_CD14,P08571,2,16.09039028,18.11822329,CD14,not coregulated,not liver specific
+P08603_CFH,P08603,2,19.63683623,17.15216227,CFH,not coregulated,liver specific
+P08670_VIM,P08670,2,13.65076834,22.02402176,VIM,not coregulated,not liver specific
+P08697_SERPINF2,P08697,2,19.48679523,16.67079428,SERPINF2,not coregulated,liver specific
+P08779_KRT16,P08779,2,11.10812194,16.34064411,KRT16,not coregulated,not liver specific
+P09467_FBP1,P09467,2,13.25320681,22.6854788,FBP1,not coregulated,liver specific
+P09871_C1S,P09871,2,18.96283667,17.48001442,C1S,not coregulated,not liver specific
+P09960_LTA4H,P09960,2,12.11743524,18.69760486,LTA4H,not coregulated,not liver specific
+P0C0L4_C4A,P0C0L4,2,21.17420113,19.38388425,C4A,not coregulated,liver specific
+P0C0L5_C4B,P0C0L5,2,17.30392759,16.626731799999998,C4B,not coregulated,liver specific
+P0DJI8_SAA1,P0DJI8,2,15.076696499999999,16.42611143,SAA1,not coregulated,liver specific
+P0DOY2_IGLC2,P0DOY2,2,24.14583774,20.68009308,IGLC2,coregulated,not liver specific
+P10643_C7,P10643,2,17.09693568,14.50329963,C7,coregulated,not liver specific
+P10809_HSPD1,P10809,2,13.997150199999998,23.01082928,HSPD1,not coregulated,not liver specific
+P10909_CLU,P10909,2,19.24150686,18.94552828,CLU,coregulated,not liver specific
+P11021_HSPA5,P11021,2,12.75246561,21.95343711,HSPA5,not coregulated,not liver specific
+P11047_LAMC1,P11047,2,15.01094609,17.47440724,LAMC1,not coregulated,not liver specific
+P11226_MBL2,P11226,2,14.15759582,19.345426,MBL2,not coregulated,liver specific
+P11279_LAMP1,P11279,2,12.00788374,17.97425709,LAMP1,not coregulated,not liver specific
+P11717_IGF2R,P11717,2,11.85445934,15.49793261,IGF2R,not coregulated,not liver specific
+P12111_COL6A3,P12111,2,12.20924553,21.54979687,COL6A3,coregulated,not liver specific
+P12814_ACTN1,P12814,2,13.16442591,20.00117341,ACTN1,not coregulated,not liver specific
+P12955_PEPD,P12955,2,14.29269237,19.67621763,PEPD,not coregulated,not liver specific
+P13473_LAMP2,P13473,2,13.38309156,18.86254512,LAMP2,not coregulated,not liver specific
+P13611_VCAN,P13611,2,15.94101964,16.11779984,VCAN,not coregulated,not liver specific
+P13639_EEF2,P13639,2,11.15313804,22.11684585,EEF2,not coregulated,not liver specific
+P13645_KRT10,P13645,2,16.45095109,17.57630982,KRT10,not coregulated,not liver specific
+P13671_C6,P13671,2,18.05455623,16.24759939,C6,not coregulated,liver specific
+P13716_ALAD,P13716,2,10.80171408,20.028165899999998,ALAD,not coregulated,not liver specific
+P13796_LCP1,P13796,2,14.08881106,19.86009441,LCP1,coregulated,not liver specific
+P14209_CD99,P14209,2,11.14303496,17.82696707,CD99,not coregulated,not liver specific
+P14543_NID1,P14543,2,11.83527749,16.45818911,NID1,not coregulated,not liver specific
+P14618_PKM,P14618,2,11.58901477,19.37847139,PKM,not coregulated,not liver specific
+P14625_HSP90B1,P14625,2,13.02213825,23.26745151,HSP90B1,not coregulated,not liver specific
+P14780_MMP9,P14780,2,10.853838900000001,13.62889492,MMP9,not coregulated,not liver specific
+P15144_ANPEP,P15144,2,13.524421400000001,18.64239328,ANPEP,not coregulated,not liver specific
+P16930_FAH,P16930,2,13.14520339,19.97356921,FAH,coregulated,not liver specific
+P17174_GOT1,P17174,2,12.01804725,21.84290276,GOT1,not coregulated,not liver specific
+P18206_VCL,P18206,2,12.45925038,18.80830247,VCL,not coregulated,not liver specific
+P18428_LBP,P18428,2,16.58828718,13.72766023,LBP,not coregulated,liver specific
+P19022_CDH2,P19022,2,11.29835781,17.42220349,CDH2,not coregulated,not liver specific
+P19320_VCAM1,P19320,2,12.83766237,15.45957573,VCAM1,not coregulated,not liver specific
+P19652_ORM2,P19652,2,18.33755277,20.613443399999998,ORM2,not coregulated,liver specific
+P19823_ITIH2,P19823,2,19.3714947,18.047454100000003,ITIH2,not coregulated,liver specific
+P19827_ITIH1,P19827,2,19.61338319,17.4132676,ITIH1,not coregulated,liver specific
+P20742_PZP,P20742,2,16.61951755,15.39084239,PZP,not coregulated,liver specific
+P20774_OGN,P20774,2,12.83876631,17.19657116,OGN,coregulated,not liver specific
+P22792_CPN2,P22792,2,17.73707679,15.58486421,CPN2,not coregulated,liver specific
+P22897_MRC1,P22897,2,13.23861254,16.37838599,MRC1,not coregulated,not liver specific
+P23141_CES1,P23141,2,11.43066806,23.73488969,CES1,not coregulated,liver specific
+P23142_FBLN1,P23142,2,17.13946064,16.867268,FBLN1,coregulated,not liver specific
+P23526_AHCY,P23526,2,10.96575083,21.32538588,AHCY,not coregulated,not liver specific
+P24298_GPT,P24298,2,10.44061343,20.23261452,GPT,not coregulated,not liver specific
+P24821_TNC,P24821,2,12.35240376,17.26788828,TNC,not coregulated,not liver specific
+P25311_AZGP1,P25311,2,16.54572226,17.22412685,AZGP1,not coregulated,liver specific
+P25705_ATP5A1,P25705,2,10.88754507,24.34997398,ATP5A1,not coregulated,not liver specific
+P25786_PSMA1,P25786,2,11.62797105,19.8749398,PSMA1,not coregulated,not liver specific
+P27169_PON1,P27169,2,19.2876346,20.15328393,PON1,not coregulated,liver specific
+P27487_DPP4,P27487,2,12.29661677,16.84553689,DPP4,not coregulated,not liver specific
+P28066_PSMA5,P28066,2,11.87345904,18.65475992,PSMA5,not coregulated,not liver specific
+P29401_TKT,P29401,2,12.44963198,21.19470992,TKT,not coregulated,not liver specific
+P29622_SERPINA4,P29622,2,17.69974232,15.88941924,SERPINA4,not coregulated,liver specific
+P29966_MARCKS,P29966,2,9.575251458,17.45614527,MARCKS,not coregulated,not liver specific
+P30041_PRDX6,P30041,2,12.82963458,23.32316462,PRDX6,not coregulated,not liver specific
+P30043_BLVRB,P30043,2,11.36671379,21.72414415,BLVRB,not coregulated,not liver specific
+P30101_PDIA3,P30101,2,12.74733821,21.49330672,PDIA3,not coregulated,not liver specific
+P32119_PRDX2,P32119,2,13.39398598,22.76463279,PRDX2,not coregulated,not liver specific
+P32942_ICAM3,P32942,2,12.98406932,14.33144978,ICAM3,not coregulated,not liver specific
+P33151_CDH5,P33151,2,14.44904339,14.37626031,CDH5,not coregulated,not liver specific
+P33908_MAN1A1,P33908,2,13.97222261,17.31484923,MAN1A1,not coregulated,not liver specific
+P35241_RDX,P35241,2,12.65144496,20.16600662,RDX,coregulated,not liver specific
+P35527_KRT9,P35527,2,11.79925626,17.25896236,KRT9,not coregulated,not liver specific
+P35579_MYH9,P35579,2,11.80900471,21.16046505,MYH9,not coregulated,not liver specific
+P35858_IGFALS,P35858,2,17.72552336,14.84554016,IGFALS,not coregulated,liver specific
+P35908_KRT2,P35908,2,12.61686786,18.15067513,KRT2,not coregulated,not liver specific
+P36222_CHI3L1,P36222,2,13.66073096,15.08081287,CHI3L1,not coregulated,not liver specific
+P36955_SERPINF1,P36955,2,18.33646861,17.07933644,SERPINF1,coregulated,not liver specific
+P37802_TAGLN2,P37802,2,12.56077806,18.61321873,TAGLN2,not coregulated,not liver specific
+P39060_COL18A1,P39060,2,12.732624099999999,19.08452118,COL18A1,not coregulated,not liver specific
+P42126_ECI1,P42126,2,12.84990734,21.748021100000003,ECI1,not coregulated,not liver specific
+P43121_MCAM,P43121,2,13.48104938,14.467657500000001,MCAM,not coregulated,not liver specific
+P43251_BTD,P43251,2,16.14201323,15.477790599999999,BTD,not coregulated,not liver specific
+P43652_AFM,P43652,2,19.99012093,16.32573904,AFM,not coregulated,liver specific
+P48740_MASP1,P48740,2,15.56911482,14.76149628,MASP1,not coregulated,not liver specific
+P51884_LUM,P51884,2,18.89500137,19.37192083,LUM,coregulated,not liver specific
+P54802_NAGLU,P54802,2,17.3689788,16.16280708,NAGLU,not coregulated,not liver specific
+P55103_INHBC,P55103,2,14.07228211,13.68341041,INHBC,not coregulated,liver specific
+P55290_CDH13,P55290,2,12.94708111,14.11946774,CDH13,not coregulated,not liver specific
+P56199_ITGA1,P56199,2,16.01478681,18.04541248,ITGA1,not coregulated,not liver specific
+P58166_INHBE,P58166,2,12.76445755,18.33970777,INHBE,not coregulated,liver specific
+P60709_ACTB,P60709,2,15.304866500000001,25.66875092,ACTB,not coregulated,not liver specific
+P61769_B2M,P61769,2,13.91763948,18.82966162,B2M,not coregulated,not liver specific
+P62258_YWHAE,P62258,2,12.19596809,21.06500208,YWHAE,not coregulated,not liver specific
+P62328_TMSB4X,P62328,2,13.08456191,19.91924064,TMSB4X,not coregulated,not liver specific
+P62805_HIST1H4A,P62805,2,13.37205491,22.89770138,HIST1H4A,not coregulated,not liver specific
+P62937_PPIA,P62937,2,12.32868824,21.87990395,PPIA,not coregulated,not liver specific
+P63104_YWHAZ,P63104,2,13.22630393,21.82114359,YWHAZ,not coregulated,not liver specific
+P67936_TPM4,P67936,2,12.27340258,18.86876372,TPM4,not coregulated,not liver specific
+P68104_EEF1A1,P68104,2,13.29968848,23.19709118,EEF1A1,not coregulated,not liver specific
+P68363_TUBA1B,P68363,2,11.78514729,21.94392261,TUBA1B,not coregulated,not liver specific
+P68871_HBB,P68871,2,22.42593765,26.12933404,HBB,not coregulated,not liver specific
+P69905_HBA1,P69905,2,20.56280816,26.07331616,HBA1,not coregulated,not liver specific
+P78417_GSTO1,P78417,2,12.47314868,22.32478104,GSTO1,not coregulated,not liver specific
+P80108_GPLD1,P80108,2,16.79554867,14.98522883,GPLD1,not coregulated,liver specific
+P80188_LCN2,P80188,2,13.11641532,14.12088209,LCN2,not coregulated,not liver specific
+P80723_BASP1,P80723,2,10.35797869,16.49907949,BASP1,not coregulated,not liver specific
+P80748_IGLV3-21,P80748,2,20.35292919,16.76176039,IGLV3-21,not coregulated,not liver specific
+P81605_DCD,P81605,2,12.52497599,16.98830198,DCD,not coregulated,not liver specific
+P98160_HSPG2,P98160,2,12.02537461,18.71715204,HSPG2,coregulated,not liver specific
+Q02985_CFHR3,Q02985,2,15.80070932,14.94030638,CFHR3,not coregulated,liver specific
+Q06033_ITIH3,Q06033,2,17.3145938,15.23792707,ITIH3,not coregulated,liver specific
+Q06830_PRDX1,Q06830,2,13.21125697,23.9969128,PRDX1,not coregulated,not liver specific
+Q07065_CKAP4,Q07065,2,21.21149822,17.90893094,CKAP4,not coregulated,not liver specific
+Q07075_ENPEP,Q07075,2,11.50993881,17.51933773,ENPEP,not coregulated,not liver specific
+Q07954_LRP1,Q07954,2,12.04977865,17.95853352,LRP1,not coregulated,not liver specific
+Q08211_DHX9,Q08211,2,,17.84381077,DHX9,not coregulated,not liver specific
+Q08380_LGALS3BP,Q08380,2,18.15243651,17.34259739,LGALS3BP,coregulated,not liver specific
+Q08830_FGL1,Q08830,2,13.86971882,16.26511034,FGL1,not coregulated,liver specific
+Q12907_LMAN2,Q12907,2,13.88423046,20.37702616,LMAN2,not coregulated,not liver specific
+Q13103_SPP2,Q13103,2,12.33709258,13.80875888,SPP2,not coregulated,liver specific
+Q13228_SELENBP1,Q13228,2,12.35932564,21.70419164,SELENBP1,coregulated,not liver specific
+Q13740_ALCAM,Q13740,2,12.1859177,16.03095189,ALCAM,not coregulated,not liver specific
+Q13790_APOF,Q13790,2,15.30939328,14.095843599999998,APOF,not coregulated,liver specific
+Q14118_DAG1,Q14118,2,13.41005489,16.9172074,DAG1,not coregulated,not liver specific
+Q14520_HABP2,Q14520,2,14.7872136,14.17880882,HABP2,not coregulated,liver specific
+Q14624_ITIH4,Q14624,2,18.27050655,17.73415432,ITIH4,not coregulated,liver specific
+Q14997_PSME4,Q14997,2,17.95305701,16.02921996,PSME4,not coregulated,not liver specific
+Q15113_PCOLCE,Q15113,2,13.33880648,14.28963167,PCOLCE,not coregulated,not liver specific
+Q15166_PON3,Q15166,2,13.70904842,19.64161432,PON3,not coregulated,liver specific
+Q15293_RCN1,Q15293,2,14.42835497,18.37916973,RCN1,not coregulated,not liver specific
+Q15404_RSU1,Q15404,2,12.9064814,17.30794249,RSU1,not coregulated,not liver specific
+Q15582_TGFBI,Q15582,2,15.835510800000002,19.99646992,TGFBI,coregulated,not liver specific
+Q15942_ZYX,Q15942,2,11.6742116,17.81832394,ZYX,not coregulated,not liver specific
+Q16270_IGFBP7,Q16270,2,11.86145864,15.70684661,IGFBP7,coregulated,not liver specific
+Q16610_ECM1,Q16610,2,16.80341021,15.00116903,ECM1,not coregulated,not liver specific
+Q16706_MAN2A1,Q16706,2,11.48564016,16.02382354,MAN2A1,not coregulated,not liver specific
+Q16853_AOC3,Q16853,2,12.95403477,18.82783976,AOC3,not coregulated,not liver specific
+Q3LXA3_TKFC,Q3LXA3,2,10.39236101,22.64810524,TKFC,not coregulated,not liver specific
+Q562R1_ACTBL2,Q562R1,2,14.00927745,25.13019386,ACTBL2,not coregulated,not liver specific
+Q5T123_SH3BGRL3,Q5T123,2,,19.12248634,SH3BGRL3,not coregulated,not liver specific
+Q6EMK4_VASN,Q6EMK4,2,14.03324766,14.93203978,VASN,not coregulated,not liver specific
+Q6P179_ERAP2,Q6P179,2,16.65734586,13.6391365,ERAP2,not coregulated,not liver specific
+Q6P387_C16orf46,Q6P387,2,15.75118375,13.92280162,C16orf46,not coregulated,not liver specific
+Q6UX71_PLXDC2,Q6UX71,2,13.20625635,14.31646573,PLXDC2,coregulated,not liver specific
+Q6UY14_ADAMTSL4,Q6UY14,2,13.82793246,13.46368962,ADAMTSL4,coregulated,not liver specific
+Q6YHK3_CD109,Q6YHK3,2,11.79749597,14.51807946,CD109,not coregulated,not liver specific
+Q86U17_SERPINA11,Q86U17,2,13.08321506,15.04771421,SERPINA11,not coregulated,liver specific
+Q86UX7_FERMT3,Q86UX7,2,11.65417559,17.222991399999998,FERMT3,not coregulated,not liver specific
+Q8NBJ4_GOLM1,Q8NBJ4,2,11.94448622,14.67491896,GOLM1,not coregulated,not liver specific
+Q8WWZ8_OIT3,Q8WWZ8,2,11.8836636,13.97868804,OIT3,not coregulated,liver specific
+Q92820_GGH,Q92820,2,13.61853189,18.28329893,GGH,not coregulated,not liver specific
+Q92859_NEO1,Q92859,2,15.14668759,13.35585443,NEO1,not coregulated,not liver specific
+Q96PD5_PGLYRP2,Q96PD5,2,18.99974281,14.97044663,PGLYRP2,not coregulated,liver specific
+Q9BS26_ERP44,Q9BS26,2,13.51687687,19.82483502,ERP44,not coregulated,not liver specific
+Q9BTY2_FUCA2,Q9BTY2,2,12.72961494,14.96742078,FUCA2,not coregulated,not liver specific
+Q9BWP8_COLEC11,Q9BWP8,2,14.49699877,13.48838346,COLEC11,not coregulated,not liver specific
+Q9BXR6_CFHR5,Q9BXR6,2,14.90882398,14.48704973,CFHR5,not coregulated,liver specific
+Q9BYE9_CDHR2,Q9BYE9,2,14.76423136,14.68053505,CDHR2,not coregulated,not liver specific
+Q9H4B7_TUBB1,Q9H4B7,2,11.83742886,13.65763295,TUBB1,not coregulated,not liver specific
+Q9H8L6_MMRN2,Q9H8L6,2,13.36579776,15.40143438,MMRN2,not coregulated,not liver specific
+Q9HDC9_APMAP,Q9HDC9,2,14.05533602,20.29419084,APMAP,coregulated,not liver specific
+Q9NZP8_C1RL,Q9NZP8,2,15.93043037,17.07682307,C1RL,not coregulated,not liver specific
+Q9UBG0_MRC2,Q9UBG0,2,11.0361171,13.76561715,MRC2,not coregulated,not liver specific
+Q9UEW3_MARCO,Q9UEW3,2,10.78686612,14.56720978,MARCO,not coregulated,not liver specific
+Q9UHG3_PCYOX1,Q9UHG3,2,13.58298291,19.74244547,PCYOX1,not coregulated,not liver specific
+Q9UNN8_PROCR,Q9UNN8,2,13.38691887,13.41787467,PROCR,coregulated,not liver specific
+Q9UNW1_MINPP1,Q9UNW1,2,14.40296085,15.08151178,MINPP1,not coregulated,not liver specific
+Q9Y490_TLN1,Q9Y490,2,12.15020093,19.27965865,TLN1,not coregulated,not liver specific
+Q9Y4L1_HYOU1,Q9Y4L1,2,12.54848519,19.28425798,HYOU1,not coregulated,not liver specific
+Q9Y5Y7_LYVE1,Q9Y5Y7,2,13.97490164,15.19477863,LYVE1,coregulated,not liver specific
+Q9Y646_CPQ,Q9Y646,2,12.03782242,16.27965869,CPQ,not coregulated,not liver specific
+V9GYM3_APOA2,V9GYM3,2,24.23078166,21.7965574,APOA2,not coregulated,liver specific
+A0A024R6I7_SERPINA1,A0A024R6I7,3,16.48206268,20.33252248,SERPINA1,not coregulated,liver specific
+A0A075B6R9_IGKV2D-24,A0A075B6R9,3,18.66038719,17.71049735,IGKV2D-24,coregulated,not liver specific
+A0A075B6S2_IGKV2D-29,A0A075B6S2,3,22.44284449,15.36572438,IGKV2D-29,not coregulated,not liver specific
+A0A087WTK0_PTPRJ,A0A087WTK0,3,13.40654403,22.10488714,PTPRJ,not coregulated,not liver specific
+A0A087WWU8_TPM3,A0A087WWU8,3,12.45231975,19.92570534,TPM3,not coregulated,not liver specific
+A0A087WXI5_CDH1,A0A087WXI5,3,11.83721503,16.03994027,CDH1,not coregulated,not liver specific
+A0A087X0S5_COL6A1,A0A087X0S5,3,12.97091789,21.14372754,COL6A1,not coregulated,not liver specific
+A0A087X1J7_GPX3,A0A087X1J7,3,16.76109458,17.44669162,GPX3,coregulated,not liver specific
+A0A087X1W8_CADM1,A0A087X1W8,3,13.70015063,16.01760074,CADM1,not coregulated,not liver specific
+A0A096LPE2_SAA2-SAA4,A0A096LPE2,3,18.24023017,17.07976252,SAA2-SAA4,not coregulated,liver specific
+A0A0A0MRJ7_F5,A0A0A0MRJ7,3,15.77474698,14.48337698,F5,not coregulated,liver specific
+A0A0A0MRZ8_IGKV3D-11,A0A0A0MRZ8,3,23.19793528,19.68229614,IGKV3D-11,not coregulated,not liver specific
+A0A0A0MS09_IGHD,A0A0A0MS09,3,18.40935106,16.47845046,IGHD,not coregulated,not liver specific
+A0A0A0MSD0_SVEP1,A0A0A0MSD0,3,12.82650856,15.16277286,SVEP1,not coregulated,not liver specific
+A0A0A0MSV6_C1QB,A0A0A0MSV6,3,17.37409644,17.77814381,C1QB,not coregulated,not liver specific
+A0A0B4J1V0_IGHV3-15,A0A0B4J1V0,3,17.57460393,15.08233116,IGHV3-15,not coregulated,not liver specific
+A0A0B4J231_IGLL5,A0A0B4J231,3,22.4171535,19.82767035,IGLL5,not coregulated,not liver specific
+A0A0B4J2B5_IGHV3OR16-9,A0A0B4J2B5,3,21.60314085,18.83001287,IGHV3OR16-9,coregulated,not liver specific
+A0A0C4DH34_IGHV4-28,A0A0C4DH34,3,15.93707919,14.88628949,IGHV4-28,not coregulated,not liver specific
+A0A0C4DH38_IGHV5-51,A0A0C4DH38,3,19.16678179,17.33982572,IGHV5-51,coregulated,not liver specific
+A0A0C4DH43_IGHV2-70D,A0A0C4DH43,3,19.52845799,16.74533428,IGHV2-70D,not coregulated,not liver specific
+A0A0C4DH72_IGKV1-6,A0A0C4DH72,3,18.67737183,14.90479438,IGKV1-6,not coregulated,not liver specific
+A0A0D9SEN1_FAP,A0A0D9SEN1,3,13.69872926,14.92775535,FAP,not coregulated,not liver specific
+A0A0D9SFB5_ADH4,A0A0D9SFB5,3,10.07807022,24.28391219,ADH4,not coregulated,liver specific
+A0A0G2JIW1_HSPA1B,A0A0G2JIW1,3,19.16657549,20.35903627,HSPA1B,not coregulated,not liver specific
+A0A0G2JMB2_IGHA2,A0A0G2JMB2,3,25.34424286,21.7364758,IGHA2,coregulated,not liver specific
+A0A0J9YY99_,A0A0J9YY99,3,19.97584887,16.68403365,,coregulated,not liver specific
+A0A0J9YYC8_PRSS2,A0A0J9YYC8,3,12.11178347,17.74997435,PRSS2,not coregulated,not liver specific
+A0A0U1RR20_PRG4,A0A0U1RR20,3,14.50651679,15.4425221,PRG4,not coregulated,liver specific
+A0A0U1RR32_HIST1H3D,A0A0U1RR32,3,,18.77532261,HIST1H3D,not coregulated,not liver specific
+A0A140T921_HLA-C,A0A140T921,3,11.1683814,15.19030403,HLA-C,not coregulated,not liver specific
+A0A140TA41_TNXB,A0A140TA41,3,13.52188068,17.92544275,TNXB,not coregulated,not liver specific
+A0A182DWH7_SELENOP,A0A182DWH7,3,16.46815806,16.19291881,SELENOP,not coregulated,not liver specific
+A0A1B0GUU9_IGHM,A0A1B0GUU9,3,23.97229597,18.91676984,IGHM,not coregulated,not liver specific
+A0A1W2PQB1_FCGR3A,A0A1W2PQB1,3,15.1440769,15.336681599999999,FCGR3A,not coregulated,not liver specific
+A0A286YEY1_IGHA1,A0A286YEY1,3,25.27933385,21.07828199,IGHA1,coregulated,not liver specific
+A0A286YFJ8_IGHG4,A0A286YFJ8,3,20.61214197,16.97085445,IGHG4,not coregulated,not liver specific
+A0M8Q6_IGLC7,A0M8Q6,3,12.96284101,15.04728195,IGLC7,not coregulated,not liver specific
+A6NC48_BST1,A6NC48,3,13.24275141,15.71125844,BST1,not coregulated,not liver specific
+A6XND0_IGFBP3,A6XND0,3,14.31010887,14.39429005,IGFBP3,not coregulated,not liver specific
+B0QYF8_MB,B0QYF8,3,9.701295435,,MB,not coregulated,not liver specific
+B0YIW2_APOC3,B0YIW2,3,21.20319688,20.59593935,APOC3,not coregulated,liver specific
+B1AHL2_FBLN1,B1AHL2,3,15.29759387,15.95915296,FBLN1,coregulated,not liver specific
+B4DPQ0_C1R,B4DPQ0,3,17.29520253,16.94427237,C1R,not coregulated,not liver specific
+,B4E1Z4,3,18.75346465,18.45626514,,not coregulated,not liver specific
+C9JF17_APOD,C9JF17,3,20.41332963,19.73252113,APOD,not coregulated,not liver specific
+C9JIZ6_PSAP,C9JIZ6,3,12.93593778,20.75350801,PSAP,not coregulated,not liver specific
+D6RF35_GC,D6RF35,3,19.39684195,19.52014367,GC,not coregulated,liver specific
+E7END6_PROC,E7END6,3,15.12713539,13.43323543,PROC,not coregulated,liver specific
+E7EQB2_LTF,E7EQB2,3,12.97167072,18.12686489,LTF,not coregulated,not liver specific
+E7ETH0_CFI,E7ETH0,3,18.09332545,14.61291715,CFI,not coregulated,liver specific
+E9PEP6_NRP1,E9PEP6,3,11.96088266,15.58498354,NRP1,coregulated,not liver specific
+E9PFZ2_CP,E9PFZ2,3,18.9828346,,CP,not coregulated,liver specific
+E9PHK0_CLEC3B,E9PHK0,3,16.68052292,16.03397977,CLEC3B,not coregulated,not liver specific
+F5GZS6_SLC3A2,F5GZS6,3,11.96620279,15.03627671,SLC3A2,not coregulated,not liver specific
+F8W6I7_HNRNPA1,F8W6I7,3,,18.74322087,HNRNPA1,not coregulated,not liver specific
+G3V2W1_SERPINA10,G3V2W1,3,14.47117691,11.48209075,SERPINA10,not coregulated,liver specific
+G3V4U0_FBLN5,G3V4U0,3,13.58300528,17.75084768,FBLN5,not coregulated,not liver specific
+G3V5Z7_PSMA6,G3V5Z7,3,9.992404862999999,19.27273157,PSMA6,not coregulated,not liver specific
+G3XAK1_MST1,G3XAK1,3,14.13885408,15.080960800000001,MST1,not coregulated,liver specific
+G3XAP6_COMP,G3XAP6,3,14.69136049,14.42835965,COMP,not coregulated,not liver specific
+H0YAC1_KLKB1,H0YAC1,3,17.73127784,15.4717973,KLKB1,not coregulated,liver specific
+H0YD13_CD44,H0YD13,3,15.13901571,15.64838565,CD44,coregulated,not liver specific
+H3BR70_PKM,H3BR70,3,14.73310325,16.61153827,PKM,not coregulated,not liver specific
+J3KNB4_CAMP,J3KNB4,3,12.16835093,16.14313226,CAMP,not coregulated,not liver specific
+J3KPS3_ALDOA,J3KPS3,3,13.31922683,23.3388238,ALDOA,not coregulated,not liver specific
+K7ER74_APOC4-APOC2,K7ER74,3,19.89557917,19.56650232,APOC4-APOC2,not coregulated,liver specific
+K7ERE3_KRT13,K7ERE3,3,12.51623864,18.76258033,KRT13,not coregulated,not liver specific
+K7ERG9_CFD,K7ERG9,3,15.65306092,15.42393492,CFD,not coregulated,not liver specific
+K7ERI9_APOC1,K7ERI9,3,19.50256451,19.50636648,APOC1,not coregulated,liver specific
+M0R1Q1_C3,M0R1Q1,3,15.23579432,13.37890192,C3,not coregulated,not liver specific
+O00187_MASP2,O00187,3,16.56975431,15.64152285,MASP2,not coregulated,liver specific
+O00391_QSOX1,O00391,3,15.32089552,14.41193828,QSOX1,not coregulated,not liver specific
+O14498_ISLR,O14498,3,12.77135513,15.41609369,ISLR,not coregulated,not liver specific
+O14791_APOL1,O14791,3,17.88893915,15.07236881,APOL1,not coregulated,not liver specific
+O43852_CALU,O43852,3,,17.60563556,CALU,not coregulated,not liver specific
+O60814_HIST1H2BK,O60814,3,10.885696300000001,24.67810633,HIST1H2BK,not coregulated,not liver specific
+O75636_FCN3,O75636,3,17.37010284,15.09869547,FCN3,not coregulated,liver specific
+O75882_ATRN,O75882,3,16.86548041,13.26722962,ATRN,coregulated,not liver specific
+O75976_CPD,O75976,3,12.73976216,14.83141982,CPD,not coregulated,not liver specific
+O95445_APOM,O95445,3,17.74990844,17.35222455,APOM,not coregulated,not liver specific
+O95479_H6PD,O95479,3,11.66427013,19.23677165,H6PD,not coregulated,not liver specific
+O95497_VNN1,O95497,3,13.86031849,15.73026132,VNN1,not coregulated,liver specific
+P00338_LDHA,P00338,3,12.79087729,22.60313388,LDHA,not coregulated,not liver specific
+P00352_ALDH1A1,P00352,3,17.43071351,23.96673057,ALDH1A1,not coregulated,not liver specific
+P00367_GLUD1,P00367,3,,23.24896603,GLUD1,not coregulated,not liver specific
+P00387_CYB5R3,P00387,3,10.80354801,20.483924,CYB5R3,not coregulated,not liver specific
+P00390_GSR,P00390,3,13.69389375,19.31973316,GSR,not coregulated,not liver specific
+P00450_CP,P00450,3,18.34127698,17.64100925,CP,not coregulated,liver specific
+P00488_F13A1,P00488,3,16.85277931,16.30031552,F13A1,not coregulated,not liver specific
+P00491_PNP,P00491,3,10.67371128,17.5040378,PNP,not coregulated,not liver specific
+P00558_PGK1,P00558,3,12.58785771,21.62457838,PGK1,not coregulated,not liver specific
+P00734_F2,P00734,3,19.54060578,16.27906536,F2,not coregulated,liver specific
+P00738_HP,P00738,3,24.82633385,22.34319861,HP,not coregulated,liver specific
+P00739_HPR,P00739,3,18.36714869,15.28018639,HPR,coregulated,liver specific
+P00740_F9,P00740,3,15.41051133,16.89560274,F9,not coregulated,liver specific
+P00742_F10,P00742,3,16.80835979,13.66921897,F10,not coregulated,liver specific
+P00747_PLG,P00747,3,19.773094699999998,18.29685872,PLG,not coregulated,liver specific
+P00748_F12,P00748,3,18.07232274,16.94574661,F12,not coregulated,liver specific
+P00915_CA1,P00915,3,15.11089035,20.52547809,CA1,not coregulated,not liver specific
+P00918_CA2,P00918,3,14.18221744,21.23593473,CA2,not coregulated,not liver specific
+P01008_SERPINC1,P01008,3,17.79134312,19.74130307,SERPINC1,not coregulated,liver specific
+P01009_SERPINA1,P01009,3,25.49721534,21.52366837,SERPINA1,coregulated,liver specific
+P01011_SERPINA3,P01011,3,21.75376728,19.30740831,SERPINA3,not coregulated,liver specific
+P01019_AGT,P01019,3,19.130679699999998,16.3642269,AGT,not coregulated,liver specific
+P01023_A2M,P01023,3,23.65559517,20.06053878,A2M,coregulated,not liver specific
+P01024_C3,P01024,3,24.22039462,20.89186157,C3,not coregulated,not liver specific
+P01031_C5,P01031,3,16.6153351,17.05638362,C5,not coregulated,liver specific
+P01033_TIMP1,P01033,3,13.98247941,16.90044169,TIMP1,not coregulated,not liver specific
+P01034_CST3,P01034,3,14.82307004,16.05019653,CST3,coregulated,not liver specific
+P01042_KNG1,P01042,3,20.93306135,17.43843046,KNG1,not coregulated,liver specific
+P01042-2_KNG1,P01042-2,3,10.19175263,17.39588356,KNG1,not coregulated,liver specific
+P01602_IGKV1-5,P01602,3,19.95193067,18.44580628,IGKV1-5,not coregulated,not liver specific
+P01619_IGKV3-20,P01619,3,22.00691438,19.86497653,IGKV3-20,not coregulated,not liver specific
+P01624_IGKV3-15,P01624,3,22.67324834,20.50577161,IGKV3-15,coregulated,not liver specific
+P01700_IGLV1-47,P01700,3,22.18557651,17.287250600000004,IGLV1-47,coregulated,not liver specific
+P01717_IGLV3-25,P01717,3,19.46395351,16.57764109,IGLV3-25,not coregulated,not liver specific
+P01721_IGLV6-57,P01721,3,15.83298819,18.03699617,IGLV6-57,not coregulated,not liver specific
+P01780_IGHV3-7,P01780,3,21.4547801,17.12627067,IGHV3-7,coregulated,not liver specific
+P01833_PIGR,P01833,3,16.54320034,13.12029043,PIGR,coregulated,not liver specific
+P01834_IGKC,P01834,3,25.77759621,21.46959869,IGKC,coregulated,not liver specific
+P02042_HBD,P02042,3,15.7590839,25.36059329,HBD,not coregulated,not liver specific
+P02533_KRT14,P02533,3,12.84113148,14.40575265,KRT14,not coregulated,not liver specific
+P02538_KRT6A,P02538,3,14.01959312,23.77153676,KRT6A,not coregulated,not liver specific
+P02545_LMNA,P02545,3,15.56296765,21.8042206,LMNA,not coregulated,not liver specific
+P02647_APOA1,P02647,3,25.15716847,23.08064412,APOA1,not coregulated,liver specific
+P02649_APOE,P02649,3,19.68442705,21.03133098,APOE,not coregulated,not liver specific
+P02671_FGA,P02671,3,21.78751907,18.96252741,FGA,not coregulated,liver specific
+P02675_FGB,P02675,3,23.85160413,21.22765826,FGB,not coregulated,liver specific
+P02679_FGG,P02679,3,22.40081433,19.70845101,FGG,not coregulated,liver specific
+P02730_SLC4A1,P02730,3,12.73319547,15.58109884,SLC4A1,not coregulated,not liver specific
+P02741_CRP,P02741,3,15.519299400000001,16.1490856,CRP,not coregulated,liver specific
+P02743_APCS,P02743,3,19.29359637,19.57463107,APCS,coregulated,liver specific
+P02747_C1QC,P02747,3,19.31464874,18.19211259,C1QC,not coregulated,not liver specific
+P02748_C9,P02748,3,19.86439508,17.28316943,C9,not coregulated,liver specific
+P02749_APOH,P02749,3,18.16687601,19.85269061,APOH,not coregulated,liver specific
+P02750_LRG1,P02750,3,20.37298736,17.40227994,LRG1,not coregulated,liver specific
+P02751_FN1,P02751,3,19.5058116,21.29182569,FN1,not coregulated,not liver specific
+P02753_RBP4,P02753,3,19.40327377,18.06364558,RBP4,not coregulated,liver specific
+P02760_AMBP,P02760,3,19.88519302,17.19020296,AMBP,not coregulated,liver specific
+P02763_ORM1,P02763,3,23.46141082,19.92234633,ORM1,not coregulated,liver specific
+P02765_AHSG,P02765,3,21.4591081,18.69267582,AHSG,not coregulated,liver specific
+P02766_TTR,P02766,3,15.63393482,19.02832876,TTR,not coregulated,liver specific
+P02768_ALB,P02768,3,29.43203877,25.04677299,ALB,not coregulated,liver specific
+P02775_PPBP,P02775,3,16.05235287,15.42974248,PPBP,coregulated,not liver specific
+P02776_PF4,P02776,3,14.86247008,17.65555502,PF4,not coregulated,not liver specific
+P02786_TFRC,P02786,3,13.80201271,14.06152773,TFRC,not coregulated,not liver specific
+P02787_TF,P02787,3,25.15947156,21.46424676,TF,not coregulated,liver specific
+P02790_HPX,P02790,3,22.79311668,20.5978825,HPX,not coregulated,liver specific
+P03951_F11,P03951,3,13.75083095,15.36180863,F11,not coregulated,liver specific
+P04003_C4BPA,P04003,3,20.7461542,16.54829162,C4BPA,not coregulated,liver specific
+P04004_VTN,P04004,3,20.76716755,20.7454714,VTN,coregulated,liver specific
+P04040_CAT,P04040,3,12.64842832,23.45414761,CAT,coregulated,not liver specific
+P04066_FUCA1,P04066,3,13.47989602,16.65604197,FUCA1,not coregulated,not liver specific
+P04080_CSTB,P04080,3,,20.77982464,CSTB,not coregulated,not liver specific
+P04114_APOB,P04114,3,20.84597626,18.65784049,APOB,not coregulated,liver specific
+P04196_HRG,P04196,3,20.65884556,17.66876148,HRG,not coregulated,liver specific
+P04217_A1BG,P04217,3,21.57102735,18.47852435,A1BG,not coregulated,liver specific
+P04217-2_A1BG,P04217-2,3,12.43415624,18.79068571,A1BG,not coregulated,liver specific
+P04259_KRT6B,P04259,3,13.80539591,18.53161019,KRT6B,not coregulated,not liver specific
+P04264_KRT1,P04264,3,11.451082000000001,20.218591,KRT1,not coregulated,not liver specific
+P04275_VWF,P04275,3,14.92481982,15.51206019,VWF,not coregulated,not liver specific
+P04406_GAPDH,P04406,3,12.68884574,23.65333887,GAPDH,not coregulated,not liver specific
+P05062_ALDOB,P05062,3,14.15526708,25.28453838,ALDOB,coregulated,liver specific
+P05109_S100A8,P05109,3,13.01604788,19.30030505,S100A8,not coregulated,not liver specific
+P05154_SERPINA5,P05154,3,16.03022473,15.85271551,SERPINA5,not coregulated,liver specific
+P05155_SERPING1,P05155,3,21.42376773,19.15991273,SERPING1,not coregulated,not liver specific
+P05362_ICAM1,P05362,3,14.02263027,16.73446201,ICAM1,not coregulated,not liver specific
+P05534_HLA-A,P05534,3,12.97494902,17.07429801,HLA-A,not coregulated,not liver specific
+P05543_SERPINA7,P05543,3,16.61627675,13.32014411,SERPINA7,not coregulated,liver specific
+P05546_SERPIND1,P05546,3,19.64910993,16.77270721,SERPIND1,not coregulated,liver specific
+P05556_ITGB1,P05556,3,12.45829338,19.0777741,ITGB1,not coregulated,not liver specific
+P06276_BCHE,P06276,3,15.57613782,15.31221159,BCHE,not coregulated,liver specific
+P06312_IGKV4-1,P06312,3,20.3557278,17.20659954,IGKV4-1,coregulated,not liver specific
+P06396_GSN,P06396,3,18.4695731,18.97283425,GSN,not coregulated,not liver specific
+P06396-2_GSN,P06396-2,3,12.30980639,18.53776351,GSN,not coregulated,not liver specific
+P06681_C2,P06681,3,16.86477612,15.72542559,C2,not coregulated,liver specific
+P06702_S100A9,P06702,3,12.56002477,19.23553662,S100A9,not coregulated,not liver specific
+P06727_APOA4,P06727,3,21.38120791,18.00826854,APOA4,not coregulated,not liver specific
+P06733_ENO1,P06733,3,10.76424938,22.06584522,ENO1,not coregulated,not liver specific
+P07195_LDHB,P07195,3,13.50715808,18.669752399999997,LDHB,coregulated,not liver specific
+P07225_PROS1,P07225,3,17.72873376,16.30844687,PROS1,not coregulated,liver specific
+P07237_P4HB,P07237,3,11.58259169,23.44739617,P4HB,not coregulated,not liver specific
+P07355_ANXA2,P07355,3,13.09633974,21.14890651,ANXA2,not coregulated,not liver specific
+P07357_C8A,P07357,3,16.69049903,16.18143539,C8A,not coregulated,liver specific
+P07437_TUBB,P07437,3,10.587711500000001,20.22489756,TUBB,not coregulated,not liver specific
+P07686_HEXB,P07686,3,11.99637683,18.22507349,HEXB,not coregulated,not liver specific
+P07737_PFN1,P07737,3,13.74557591,19.93647355,PFN1,not coregulated,not liver specific
+P07858_CTSB,P07858,3,12.73116281,22.51643933,CTSB,not coregulated,not liver specific
+P07900_HSP90AA1,P07900,3,11.67257543,21.74719982,HSP90AA1,not coregulated,not liver specific
+P07996_THBS1,P07996,3,13.83391555,16.42951477,THBS1,not coregulated,not liver specific
+P08185_SERPINA6,P08185,3,17.09462091,15.801185,SERPINA6,not coregulated,liver specific
+P08238_HSP90AB1,P08238,3,11.50724828,20.34056496,HSP90AB1,not coregulated,not liver specific
+P08294_SOD3,P08294,3,13.69750197,17.43188556,SOD3,coregulated,not liver specific
+P08519_LPA,P08519,3,14.22155744,16.61770935,LPA,not coregulated,liver specific
+P08567_PLEK,P08567,3,11.74954281,15.20595061,PLEK,not coregulated,not liver specific
+P08571_CD14,P08571,3,16.41421464,18.30631293,CD14,not coregulated,not liver specific
+P08603_CFH,P08603,3,19.56438047,17.40607465,CFH,not coregulated,liver specific
+P08670_VIM,P08670,3,12.10089534,22.79002056,VIM,not coregulated,not liver specific
+P08697_SERPINF2,P08697,3,19.50303308,16.85859967,SERPINF2,not coregulated,liver specific
+P08779_KRT16,P08779,3,11.1110945,16.41226349,KRT16,not coregulated,not liver specific
+P09467_FBP1,P09467,3,12.42215617,22.72572549,FBP1,not coregulated,liver specific
+P09871_C1S,P09871,3,18.96068063,17.41980886,C1S,not coregulated,not liver specific
+P09960_LTA4H,P09960,3,11.05778369,18.60936618,LTA4H,not coregulated,not liver specific
+P0C0L4_C4A,P0C0L4,3,20.97286637,19.23076012,C4A,not coregulated,liver specific
+P0C0L5_C4B,P0C0L5,3,17.10216202,16.68950871,C4B,not coregulated,liver specific
+P0DJI8_SAA1,P0DJI8,3,14.88157822,15.34323669,SAA1,not coregulated,liver specific
+P0DOY2_IGLC2,P0DOY2,3,24.46010111,21.2440084,IGLC2,coregulated,not liver specific
+P10643_C7,P10643,3,17.76383415,15.24665964,C7,coregulated,not liver specific
+P10809_HSPD1,P10809,3,11.13781661,23.02331597,HSPD1,not coregulated,not liver specific
+P10909_CLU,P10909,3,19.25661878,19.50224746,CLU,coregulated,not liver specific
+P11021_HSPA5,P11021,3,12.81649744,21.92433693,HSPA5,not coregulated,not liver specific
+P11047_LAMC1,P11047,3,14.59094327,18.01612146,LAMC1,not coregulated,not liver specific
+P11226_MBL2,P11226,3,14.21918108,19.04928451,MBL2,not coregulated,liver specific
+P11279_LAMP1,P11279,3,12.19635465,18.05451211,LAMP1,not coregulated,not liver specific
+P11717_IGF2R,P11717,3,12.16574398,15.344361600000001,IGF2R,not coregulated,not liver specific
+P12111_COL6A3,P12111,3,12.56411494,22.26879347,COL6A3,coregulated,not liver specific
+P12814_ACTN1,P12814,3,11.9348517,20.01122391,ACTN1,not coregulated,not liver specific
+P12955_PEPD,P12955,3,14.35320935,19.38996412,PEPD,not coregulated,not liver specific
+P13473_LAMP2,P13473,3,13.62696805,18.9223465,LAMP2,not coregulated,not liver specific
+P13611_VCAN,P13611,3,15.95205942,16.95680033,VCAN,not coregulated,not liver specific
+P13639_EEF2,P13639,3,11.58707758,22.0333573,EEF2,not coregulated,not liver specific
+P13645_KRT10,P13645,3,17.69487552,17.65072041,KRT10,not coregulated,not liver specific
+P13671_C6,P13671,3,17.85251624,16.63316707,C6,not coregulated,liver specific
+P13716_ALAD,P13716,3,11.66508177,19.79114004,ALAD,not coregulated,not liver specific
+P13796_LCP1,P13796,3,14.18086496,20.18487029,LCP1,coregulated,not liver specific
+P14209_CD99,P14209,3,9.773961022,17.75080128,CD99,not coregulated,not liver specific
+P14543_NID1,P14543,3,12.16136083,17.12633774,NID1,not coregulated,not liver specific
+P14618_PKM,P14618,3,11.55630627,19.85936269,PKM,not coregulated,not liver specific
+P14625_HSP90B1,P14625,3,12.94477997,23.39680692,HSP90B1,not coregulated,not liver specific
+P14780_MMP9,P14780,3,11.31430472,13.41379861,MMP9,not coregulated,not liver specific
+P15144_ANPEP,P15144,3,13.734976699999999,18.48381793,ANPEP,not coregulated,not liver specific
+P16930_FAH,P16930,3,13.270900699999999,19.69253873,FAH,coregulated,not liver specific
+P17174_GOT1,P17174,3,12.56455294,21.722478600000002,GOT1,not coregulated,not liver specific
+P18206_VCL,P18206,3,12.58312179,19.31439203,VCL,not coregulated,not liver specific
+P18428_LBP,P18428,3,16.735291,14.00171246,LBP,not coregulated,liver specific
+P19022_CDH2,P19022,3,11.72135068,17.28086091,CDH2,not coregulated,not liver specific
+P19320_VCAM1,P19320,3,13.38627898,14.15071171,VCAM1,not coregulated,not liver specific
+P19652_ORM2,P19652,3,18.30805062,20.62667071,ORM2,not coregulated,liver specific
+P19823_ITIH2,P19823,3,19.26758502,18.11071566,ITIH2,not coregulated,liver specific
+P19827_ITIH1,P19827,3,19.42007394,17.45504798,ITIH1,not coregulated,liver specific
+P20742_PZP,P20742,3,14.99989853,,PZP,not coregulated,liver specific
+P20774_OGN,P20774,3,12.95973817,17.60367311,OGN,coregulated,not liver specific
+P22792_CPN2,P22792,3,17.64751507,15.35993761,CPN2,not coregulated,liver specific
+P22897_MRC1,P22897,3,12.79505643,16.36108729,MRC1,not coregulated,not liver specific
+P23141_CES1,P23141,3,11.669932800000002,23.38710664,CES1,not coregulated,liver specific
+P23142_FBLN1,P23142,3,17.20300509,17.37992063,FBLN1,coregulated,not liver specific
+P23526_AHCY,P23526,3,11.63990099,21.17774436,AHCY,not coregulated,not liver specific
+P24298_GPT,P24298,3,10.88167188,19.97375295,GPT,not coregulated,not liver specific
+P24821_TNC,P24821,3,12.93376429,17.5752923,TNC,not coregulated,not liver specific
+P25311_AZGP1,P25311,3,16.38562122,17.46224148,AZGP1,not coregulated,liver specific
+P25705_ATP5A1,P25705,3,,24.3674267,ATP5A1,not coregulated,not liver specific
+P25786_PSMA1,P25786,3,11.93564004,19.58542075,PSMA1,not coregulated,not liver specific
+P27169_PON1,P27169,3,18.84056551,20.28326561,PON1,not coregulated,liver specific
+P27487_DPP4,P27487,3,12.19974291,16.75122869,DPP4,not coregulated,not liver specific
+P28066_PSMA5,P28066,3,12.27231175,18.43405797,PSMA5,not coregulated,not liver specific
+P29401_TKT,P29401,3,12.62557483,21.04041676,TKT,not coregulated,not liver specific
+P29622_SERPINA4,P29622,3,17.61686855,16.127137599999998,SERPINA4,not coregulated,liver specific
+P29966_MARCKS,P29966,3,9.77087144,17.85682278,MARCKS,not coregulated,not liver specific
+P30041_PRDX6,P30041,3,13.09174139,23.16376544,PRDX6,not coregulated,not liver specific
+P30043_BLVRB,P30043,3,12.89382439,21.64720505,BLVRB,not coregulated,not liver specific
+P30101_PDIA3,P30101,3,13.1222274,21.51040568,PDIA3,not coregulated,not liver specific
+P32119_PRDX2,P32119,3,13.74617582,22.48003913,PRDX2,not coregulated,not liver specific
+P32942_ICAM3,P32942,3,13.28337137,14.07079291,ICAM3,not coregulated,not liver specific
+P33151_CDH5,P33151,3,14.70562122,14.233220699999999,CDH5,not coregulated,not liver specific
+P33908_MAN1A1,P33908,3,14.54773072,17.344732399999998,MAN1A1,not coregulated,not liver specific
+P35241_RDX,P35241,3,13.12949651,20.2339105,RDX,coregulated,not liver specific
+P35527_KRT9,P35527,3,13.45395912,17.28412468,KRT9,not coregulated,not liver specific
+P35579_MYH9,P35579,3,11.30156092,21.49396447,MYH9,not coregulated,not liver specific
+P35858_IGFALS,P35858,3,17.30466586,14.98843081,IGFALS,not coregulated,liver specific
+P35908_KRT2,P35908,3,12.59301999,17.96362618,KRT2,not coregulated,not liver specific
+P36222_CHI3L1,P36222,3,14.25420276,15.39964058,CHI3L1,not coregulated,not liver specific
+P36955_SERPINF1,P36955,3,18.41108152,17.39706486,SERPINF1,coregulated,not liver specific
+P37802_TAGLN2,P37802,3,11.99114314,18.83221282,TAGLN2,not coregulated,not liver specific
+P39060_COL18A1,P39060,3,12.81563346,19.13659111,COL18A1,not coregulated,not liver specific
+P42126_ECI1,P42126,3,11.66303257,21.57956154,ECI1,not coregulated,not liver specific
+P43121_MCAM,P43121,3,13.58861231,15.29082817,MCAM,not coregulated,not liver specific
+P43251_BTD,P43251,3,16.13961778,15.7094506,BTD,not coregulated,not liver specific
+P43652_AFM,P43652,3,20.05852236,16.28508774,AFM,not coregulated,liver specific
+P48740_MASP1,P48740,3,15.63308077,14.98162152,MASP1,not coregulated,not liver specific
+P51884_LUM,P51884,3,19.15198151,20.45203629,LUM,coregulated,not liver specific
+P54802_NAGLU,P54802,3,16.78501506,15.94446315,NAGLU,not coregulated,not liver specific
+P55103_INHBC,P55103,3,14.12497654,14.27066287,INHBC,not coregulated,liver specific
+P55290_CDH13,P55290,3,12.93492499,13.66319586,CDH13,not coregulated,not liver specific
+P56199_ITGA1,P56199,3,16.38864323,18.11422904,ITGA1,not coregulated,not liver specific
+P58166_INHBE,P58166,3,13.79216655,19.50705793,INHBE,not coregulated,liver specific
+P60709_ACTB,P60709,3,15.53810993,25.85264744,ACTB,not coregulated,not liver specific
+P61769_B2M,P61769,3,14.2562402,19.02370505,B2M,not coregulated,not liver specific
+P62258_YWHAE,P62258,3,12.30578857,20.96447762,YWHAE,not coregulated,not liver specific
+P62328_TMSB4X,P62328,3,12.91020818,19.78221215,TMSB4X,not coregulated,not liver specific
+P62805_HIST1H4A,P62805,3,11.84026864,23.54758234,HIST1H4A,not coregulated,not liver specific
+P62937_PPIA,P62937,3,12.65267135,21.7159532,PPIA,not coregulated,not liver specific
+P63104_YWHAZ,P63104,3,12.03170057,21.92582579,YWHAZ,not coregulated,not liver specific
+P67936_TPM4,P67936,3,11.86981482,19.65703688,TPM4,not coregulated,not liver specific
+P68104_EEF1A1,P68104,3,15.06692296,23.12604198,EEF1A1,not coregulated,not liver specific
+P68363_TUBA1B,P68363,3,11.74466613,21.92582677,TUBA1B,not coregulated,not liver specific
+P68871_HBB,P68871,3,22.71707258,25.51711371,HBB,not coregulated,not liver specific
+P69905_HBA1,P69905,3,20.82616583,25.54376059,HBA1,not coregulated,not liver specific
+P78417_GSTO1,P78417,3,12.76258294,22.26281318,GSTO1,not coregulated,not liver specific
+P80108_GPLD1,P80108,3,16.52297721,14.84628573,GPLD1,not coregulated,liver specific
+P80188_LCN2,P80188,3,13.42268342,14.46835197,LCN2,not coregulated,not liver specific
+P80723_BASP1,P80723,3,9.719426031,16.83636134,BASP1,not coregulated,not liver specific
+P80748_IGLV3-21,P80748,3,20.79410045,17.68095455,IGLV3-21,not coregulated,not liver specific
+P81605_DCD,P81605,3,11.38450276,16.44057522,DCD,not coregulated,not liver specific
+P98160_HSPG2,P98160,3,12.4050238,19.09522757,HSPG2,coregulated,not liver specific
+Q02985_CFHR3,Q02985,3,15.89188226,15.55902065,CFHR3,not coregulated,liver specific
+Q06033_ITIH3,Q06033,3,17.41544657,15.27796552,ITIH3,not coregulated,liver specific
+Q06830_PRDX1,Q06830,3,14.12566427,23.79915229,PRDX1,not coregulated,not liver specific
+Q07065_CKAP4,Q07065,3,21.16738511,18.05913427,CKAP4,not coregulated,not liver specific
+Q07075_ENPEP,Q07075,3,10.83570745,16.68978531,ENPEP,not coregulated,not liver specific
+Q07954_LRP1,Q07954,3,11.97798404,18.04097176,LRP1,not coregulated,not liver specific
+Q08211_DHX9,Q08211,3,,17.95257501,DHX9,not coregulated,not liver specific
+Q08380_LGALS3BP,Q08380,3,18.66248677,17.27230693,LGALS3BP,coregulated,not liver specific
+Q08830_FGL1,Q08830,3,14.10138549,16.30701995,FGL1,not coregulated,liver specific
+Q12907_LMAN2,Q12907,3,14.25320917,20.31196107,LMAN2,not coregulated,not liver specific
+Q13103_SPP2,Q13103,3,12.04649603,14.48202929,SPP2,not coregulated,liver specific
+Q13228_SELENBP1,Q13228,3,12.92876455,21.46597262,SELENBP1,coregulated,not liver specific
+Q13740_ALCAM,Q13740,3,12.52506552,16.07284083,ALCAM,not coregulated,not liver specific
+Q13790_APOF,Q13790,3,14.9438893,14.07013423,APOF,not coregulated,liver specific
+Q14118_DAG1,Q14118,3,13.39418852,17.29786621,DAG1,not coregulated,not liver specific
+Q14520_HABP2,Q14520,3,14.66938412,14.00224192,HABP2,not coregulated,liver specific
+Q14624_ITIH4,Q14624,3,18.1476537,17.86343658,ITIH4,not coregulated,liver specific
+Q14997_PSME4,Q14997,3,18.09238621,15.43580004,PSME4,not coregulated,not liver specific
+Q15113_PCOLCE,Q15113,3,13.21262753,14.49506507,PCOLCE,not coregulated,not liver specific
+Q15166_PON3,Q15166,3,13.34402114,19.8136368,PON3,not coregulated,liver specific
+Q15293_RCN1,Q15293,3,14.68618672,18.41482193,RCN1,not coregulated,not liver specific
+Q15404_RSU1,Q15404,3,14.59058362,17.73661741,RSU1,not coregulated,not liver specific
+Q15582_TGFBI,Q15582,3,16.01918729,20.80796501,TGFBI,coregulated,not liver specific
+Q15942_ZYX,Q15942,3,11.01803081,17.88136125,ZYX,not coregulated,not liver specific
+Q16270_IGFBP7,Q16270,3,12.53583894,16.59240517,IGFBP7,coregulated,not liver specific
+Q16610_ECM1,Q16610,3,16.84982168,15.24608183,ECM1,not coregulated,not liver specific
+Q16706_MAN2A1,Q16706,3,11.2695735,15.79730237,MAN2A1,not coregulated,not liver specific
+Q16853_AOC3,Q16853,3,13.23541518,19.0266907,AOC3,not coregulated,not liver specific
+Q3LXA3_TKFC,Q3LXA3,3,11.53813067,22.2440268,TKFC,not coregulated,not liver specific
+Q562R1_ACTBL2,Q562R1,3,14.08737657,25.45511679,ACTBL2,not coregulated,not liver specific
+Q5T123_SH3BGRL3,Q5T123,3,,19.37406995,SH3BGRL3,not coregulated,not liver specific
+Q6EMK4_VASN,Q6EMK4,3,14.20933134,15.4583354,VASN,not coregulated,not liver specific
+Q6P179_ERAP2,Q6P179,3,14.66299061,12.47746375,ERAP2,not coregulated,not liver specific
+Q6P387_C16orf46,Q6P387,3,11.804874400000001,13.61588951,C16orf46,not coregulated,not liver specific
+Q6UX71_PLXDC2,Q6UX71,3,13.50372017,14.98794911,PLXDC2,coregulated,not liver specific
+Q6UY14_ADAMTSL4,Q6UY14,3,13.93377348,14.26011183,ADAMTSL4,coregulated,not liver specific
+Q6YHK3_CD109,Q6YHK3,3,12.35491316,12.73453119,CD109,not coregulated,not liver specific
+Q86U17_SERPINA11,Q86U17,3,13.05790648,14.60214062,SERPINA11,not coregulated,liver specific
+Q86UX7_FERMT3,Q86UX7,3,10.91614597,17.36566978,FERMT3,not coregulated,not liver specific
+Q8NBJ4_GOLM1,Q8NBJ4,3,12.35168675,14.78901073,GOLM1,not coregulated,not liver specific
+Q8WWZ8_OIT3,Q8WWZ8,3,11.5216285,13.30511011,OIT3,not coregulated,liver specific
+Q92820_GGH,Q92820,3,13.59828143,18.11244468,GGH,not coregulated,not liver specific
+Q92859_NEO1,Q92859,3,14.36953878,13.463610800000001,NEO1,not coregulated,not liver specific
+Q96PD5_PGLYRP2,Q96PD5,3,19.10792047,15.27435348,PGLYRP2,not coregulated,liver specific
+Q9BS26_ERP44,Q9BS26,3,13.47627728,19.73332118,ERP44,not coregulated,not liver specific
+Q9BTY2_FUCA2,Q9BTY2,3,12.77300082,14.74165841,FUCA2,not coregulated,not liver specific
+Q9BWP8_COLEC11,Q9BWP8,3,14.67733168,13.07943818,COLEC11,not coregulated,not liver specific
+Q9BXR6_CFHR5,Q9BXR6,3,14.92384587,15.70558558,CFHR5,not coregulated,liver specific
+Q9BYE9_CDHR2,Q9BYE9,3,14.69613888,14.18472306,CDHR2,not coregulated,not liver specific
+Q9H4B7_TUBB1,Q9H4B7,3,12.29761742,12.94182209,TUBB1,not coregulated,not liver specific
+Q9H8L6_MMRN2,Q9H8L6,3,13.46191781,14.87039694,MMRN2,not coregulated,not liver specific
+Q9HDC9_APMAP,Q9HDC9,3,14.24477331,20.39459387,APMAP,coregulated,not liver specific
+Q9NZP8_C1RL,Q9NZP8,3,15.76088183,17.11421527,C1RL,not coregulated,not liver specific
+Q9UBG0_MRC2,Q9UBG0,3,11.73999121,14.30049175,MRC2,not coregulated,not liver specific
+Q9UEW3_MARCO,Q9UEW3,3,9.657744122,14.54312074,MARCO,not coregulated,not liver specific
+Q9UHG3_PCYOX1,Q9UHG3,3,13.46807146,19.64772767,PCYOX1,not coregulated,not liver specific
+Q9UNN8_PROCR,Q9UNN8,3,13.75915806,14.41468039,PROCR,coregulated,not liver specific
+Q9UNW1_MINPP1,Q9UNW1,3,14.85393519,14.16281729,MINPP1,not coregulated,not liver specific
+Q9Y490_TLN1,Q9Y490,3,12.33181248,19.51783023,TLN1,not coregulated,not liver specific
+Q9Y4L1_HYOU1,Q9Y4L1,3,12.50978163,19.25642034,HYOU1,not coregulated,not liver specific
+Q9Y5Y7_LYVE1,Q9Y5Y7,3,14.25245801,13.81816716,LYVE1,coregulated,not liver specific
+Q9Y646_CPQ,Q9Y646,3,12.14448467,16.34193512,CPQ,not coregulated,not liver specific
+V9GYM3_APOA2,V9GYM3,3,24.19949451,21.61895665,APOA2,not coregulated,liver specific
+A0A024R6I7_SERPINA1,A0A024R6I7,4,17.698923100000002,18.8279699,SERPINA1,not coregulated,liver specific
+A0A075B6R9_IGKV2D-24,A0A075B6R9,4,18.82129686,18.226768,IGKV2D-24,coregulated,not liver specific
+A0A075B6S2_IGKV2D-29,A0A075B6S2,4,22.76256761,13.82993747,IGKV2D-29,not coregulated,not liver specific
+A0A087WTK0_PTPRJ,A0A087WTK0,4,13.44669168,21.82590837,PTPRJ,not coregulated,not liver specific
+A0A087WWU8_TPM3,A0A087WWU8,4,12.05987755,20.17454173,TPM3,not coregulated,not liver specific
+A0A087WXI5_CDH1,A0A087WXI5,4,12.34450645,16.18275211,CDH1,not coregulated,not liver specific
+A0A087X0S5_COL6A1,A0A087X0S5,4,13.191970999999999,20.59520188,COL6A1,not coregulated,not liver specific
+A0A087X1J7_GPX3,A0A087X1J7,4,17.29928958,17.53469825,GPX3,coregulated,not liver specific
+A0A087X1W8_CADM1,A0A087X1W8,4,13.84251708,15.78257055,CADM1,not coregulated,not liver specific
+A0A096LPE2_SAA2-SAA4,A0A096LPE2,4,18.01024254,17.22717321,SAA2-SAA4,not coregulated,liver specific
+A0A0A0MRJ7_F5,A0A0A0MRJ7,4,15.40342504,14.04206058,F5,not coregulated,liver specific
+A0A0A0MRZ8_IGKV3D-11,A0A0A0MRZ8,4,23.50146666,19.91481958,IGKV3D-11,not coregulated,not liver specific
+A0A0A0MS09_IGHD,A0A0A0MS09,4,18.53708585,17.27800134,IGHD,not coregulated,not liver specific
+A0A0A0MSD0_SVEP1,A0A0A0MSD0,4,12.63134875,16.02137203,SVEP1,not coregulated,not liver specific
+A0A0A0MSV6_C1QB,A0A0A0MSV6,4,17.45743626,18.44600573,C1QB,not coregulated,not liver specific
+A0A0B4J1V0_IGHV3-15,A0A0B4J1V0,4,17.90794666,14.51369285,IGHV3-15,not coregulated,not liver specific
+A0A0B4J231_IGLL5,A0A0B4J231,4,22.77509852,20.33502552,IGLL5,not coregulated,not liver specific
+A0A0B4J2B5_IGHV3OR16-9,A0A0B4J2B5,4,21.74514168,19.15247533,IGHV3OR16-9,coregulated,not liver specific
+A0A0C4DH34_IGHV4-28,A0A0C4DH34,4,16.40045555,14.90956277,IGHV4-28,not coregulated,not liver specific
+A0A0C4DH38_IGHV5-51,A0A0C4DH38,4,19.349090399999998,17.43863371,IGHV5-51,coregulated,not liver specific
+A0A0C4DH43_IGHV2-70D,A0A0C4DH43,4,20.16597304,17.33531183,IGHV2-70D,not coregulated,not liver specific
+A0A0C4DH72_IGKV1-6,A0A0C4DH72,4,19.10066738,15.27705019,IGKV1-6,not coregulated,not liver specific
+A0A0D9SEN1_FAP,A0A0D9SEN1,4,14.42444279,15.32373339,FAP,not coregulated,not liver specific
+A0A0D9SFB5_ADH4,A0A0D9SFB5,4,10.01457956,24.52069241,ADH4,not coregulated,liver specific
+A0A0G2JIW1_HSPA1B,A0A0G2JIW1,4,18.41969987,20.45196916,HSPA1B,not coregulated,not liver specific
+A0A0G2JMB2_IGHA2,A0A0G2JMB2,4,26.28780111,22.27746298,IGHA2,coregulated,not liver specific
+A0A0J9YY99_,A0A0J9YY99,4,20.49514741,16.2606729,,coregulated,not liver specific
+A0A0J9YYC8_PRSS2,A0A0J9YYC8,4,14.83414301,18.71913145,PRSS2,not coregulated,not liver specific
+A0A0U1RR20_PRG4,A0A0U1RR20,4,14.31543807,15.91205629,PRG4,not coregulated,liver specific
+A0A0U1RR32_HIST1H3D,A0A0U1RR32,4,16.24533765,18.94892548,HIST1H3D,not coregulated,not liver specific
+A0A140T921_HLA-C,A0A140T921,4,7.833380364,15.98759869,HLA-C,not coregulated,not liver specific
+A0A140TA41_TNXB,A0A140TA41,4,13.81094925,18.01813039,TNXB,not coregulated,not liver specific
+A0A182DWH7_SELENOP,A0A182DWH7,4,16.7442378,16.66873361,SELENOP,not coregulated,not liver specific
+A0A1B0GUU9_IGHM,A0A1B0GUU9,4,24.42402224,19.31283843,IGHM,not coregulated,not liver specific
+A0A1W2PQB1_FCGR3A,A0A1W2PQB1,4,15.65807866,15.68228941,FCGR3A,not coregulated,not liver specific
+A0A286YEY1_IGHA1,A0A286YEY1,4,26.24382403,21.56157099,IGHA1,coregulated,not liver specific
+A0A286YFJ8_IGHG4,A0A286YFJ8,4,21.18309775,18.09382659,IGHG4,not coregulated,not liver specific
+A0M8Q6_IGLC7,A0M8Q6,4,13.70578921,15.66178522,IGLC7,not coregulated,not liver specific
+A6NC48_BST1,A6NC48,4,13.4298578,15.64806639,BST1,not coregulated,not liver specific
+A6XND0_IGFBP3,A6XND0,4,14.40324803,16.28039654,IGFBP3,not coregulated,not liver specific
+B0QYF8_MB,B0QYF8,4,10.82774065,15.91229228,MB,not coregulated,not liver specific
+B0YIW2_APOC3,B0YIW2,4,21.09203269,20.87945122,APOC3,not coregulated,liver specific
+B1AHL2_FBLN1,B1AHL2,4,15.75869325,16.282597,FBLN1,coregulated,not liver specific
+B4DPQ0_C1R,B4DPQ0,4,17.19018809,17.01968605,C1R,not coregulated,not liver specific
+,B4E1Z4,4,18.64653688,18.42474861,,not coregulated,not liver specific
+C9JF17_APOD,C9JF17,4,20.54925028,20.05968136,APOD,not coregulated,not liver specific
+C9JIZ6_PSAP,C9JIZ6,4,13.74466295,21.16042253,PSAP,not coregulated,not liver specific
+D6RF35_GC,D6RF35,4,19.11282428,19.72448368,GC,not coregulated,liver specific
+E7END6_PROC,E7END6,4,14.86728243,13.21465396,PROC,not coregulated,liver specific
+E7EQB2_LTF,E7EQB2,4,12.87849205,17.87987211,LTF,not coregulated,not liver specific
+E7ETH0_CFI,E7ETH0,4,18.0092049,15.03339867,CFI,not coregulated,liver specific
+E9PEP6_NRP1,E9PEP6,4,12.57249904,15.66822108,NRP1,coregulated,not liver specific
+E9PFZ2_CP,E9PFZ2,4,18.61924621,16.55671898,CP,not coregulated,liver specific
+E9PHK0_CLEC3B,E9PHK0,4,16.86214725,16.4395772,CLEC3B,not coregulated,not liver specific
+F5GZS6_SLC3A2,F5GZS6,4,12.28639138,15.11491619,SLC3A2,not coregulated,not liver specific
+F8W6I7_HNRNPA1,F8W6I7,4,19.23891964,18.66690078,HNRNPA1,not coregulated,not liver specific
+G3V2W1_SERPINA10,G3V2W1,4,14.362465700000001,12.89641682,SERPINA10,not coregulated,liver specific
+G3V4U0_FBLN5,G3V4U0,4,14.19032348,17.70600556,FBLN5,not coregulated,not liver specific
+G3V5Z7_PSMA6,G3V5Z7,4,13.50908925,19.37517764,PSMA6,not coregulated,not liver specific
+G3XAK1_MST1,G3XAK1,4,14.13604462,14.97573144,MST1,not coregulated,liver specific
+G3XAP6_COMP,G3XAP6,4,14.68280912,15.25047042,COMP,not coregulated,not liver specific
+H0YAC1_KLKB1,H0YAC1,4,17.33173142,15.96590649,KLKB1,not coregulated,liver specific
+H0YD13_CD44,H0YD13,4,15.31690061,16.23190527,CD44,coregulated,not liver specific
+H3BR70_PKM,H3BR70,4,14.45809059,16.68919622,PKM,not coregulated,not liver specific
+J3KNB4_CAMP,J3KNB4,4,12.207432,16.38149149,CAMP,not coregulated,not liver specific
+J3KPS3_ALDOA,J3KPS3,4,13.63809931,23.45096594,ALDOA,not coregulated,not liver specific
+K7ER74_APOC4-APOC2,K7ER74,4,19.36856393,19.80550823,APOC4-APOC2,not coregulated,liver specific
+K7ERE3_KRT13,K7ERE3,4,13.57585506,18.14972034,KRT13,not coregulated,not liver specific
+K7ERG9_CFD,K7ERG9,4,15.72911426,15.23984852,CFD,not coregulated,not liver specific
+K7ERI9_APOC1,K7ERI9,4,19.15880483,19.62349198,APOC1,not coregulated,liver specific
+M0R1Q1_C3,M0R1Q1,4,15.12324627,14.04865397,C3,not coregulated,not liver specific
+O00187_MASP2,O00187,4,16.30005197,15.29611939,MASP2,not coregulated,liver specific
+O00391_QSOX1,O00391,4,15.54725906,15.17492033,QSOX1,not coregulated,not liver specific
+O14498_ISLR,O14498,4,13.1129965,15.47255403,ISLR,not coregulated,not liver specific
+O14791_APOL1,O14791,4,17.47246272,15.33171138,APOL1,not coregulated,not liver specific
+O43852_CALU,O43852,4,20.95849546,17.85714409,CALU,not coregulated,not liver specific
+O60814_HIST1H2BK,O60814,4,12.13757864,24.61868762,HIST1H2BK,not coregulated,not liver specific
+O75636_FCN3,O75636,4,16.62316645,14.67192962,FCN3,not coregulated,liver specific
+O75882_ATRN,O75882,4,16.78833214,13.47752448,ATRN,coregulated,not liver specific
+O75976_CPD,O75976,4,10.43029547,14.91590404,CPD,not coregulated,not liver specific
+O95445_APOM,O95445,4,17.65431124,17.33650569,APOM,not coregulated,not liver specific
+O95479_H6PD,O95479,4,12.05504668,19.0898495,H6PD,not coregulated,not liver specific
+O95497_VNN1,O95497,4,13.006319099999999,18.01835256,VNN1,not coregulated,liver specific
+P00338_LDHA,P00338,4,13.01693224,22.70025694,LDHA,not coregulated,not liver specific
+P00352_ALDH1A1,P00352,4,18.34480837,24.1938702,ALDH1A1,not coregulated,not liver specific
+P00367_GLUD1,P00367,4,13.28027561,23.01109278,GLUD1,not coregulated,not liver specific
+P00387_CYB5R3,P00387,4,11.36777855,20.40329228,CYB5R3,not coregulated,not liver specific
+P00390_GSR,P00390,4,13.73187161,19.23329265,GSR,not coregulated,not liver specific
+P00450_CP,P00450,4,18.78072629,17.93765704,CP,not coregulated,liver specific
+P00488_F13A1,P00488,4,16.88453583,16.16734052,F13A1,not coregulated,not liver specific
+P00491_PNP,P00491,4,14.43832835,17.51226782,PNP,not coregulated,not liver specific
+P00558_PGK1,P00558,4,14.05275001,21.766266,PGK1,not coregulated,not liver specific
+P00734_F2,P00734,4,19.0941258,16.40627138,F2,not coregulated,liver specific
+P00738_HP,P00738,4,23.80085279,22.49144446,HP,not coregulated,liver specific
+P00739_HPR,P00739,4,17.84774596,15.26649537,HPR,coregulated,liver specific
+P00740_F9,P00740,4,15.1923354,16.97996789,F9,not coregulated,liver specific
+P00742_F10,P00742,4,16.60496207,13.64289647,F10,not coregulated,liver specific
+P00747_PLG,P00747,4,19.61434292,17.98463359,PLG,not coregulated,liver specific
+P00748_F12,P00748,4,17.75062236,17.03233309,F12,not coregulated,liver specific
+P00915_CA1,P00915,4,14.52118348,20.65158689,CA1,not coregulated,not liver specific
+P00918_CA2,P00918,4,13.51626656,21.45324366,CA2,not coregulated,not liver specific
+P01008_SERPINC1,P01008,4,17.75526344,19.93203054,SERPINC1,not coregulated,liver specific
+P01009_SERPINA1,P01009,4,25.53214222,21.77203726,SERPINA1,coregulated,liver specific
+P01011_SERPINA3,P01011,4,21.68985958,19.49778128,SERPINA3,not coregulated,liver specific
+P01019_AGT,P01019,4,18.82089573,16.72538894,AGT,not coregulated,liver specific
+P01023_A2M,P01023,4,23.85731245,20.49630881,A2M,coregulated,not liver specific
+P01024_C3,P01024,4,24.06213147,21.04175154,C3,not coregulated,not liver specific
+P01031_C5,P01031,4,16.76562527,17.11754169,C5,not coregulated,liver specific
+P01033_TIMP1,P01033,4,14.209648699999999,16.36299634,TIMP1,not coregulated,not liver specific
+P01034_CST3,P01034,4,15.20539321,16.17090705,CST3,coregulated,not liver specific
+P01042_KNG1,P01042,4,20.72591629,17.43635579,KNG1,not coregulated,liver specific
+P01042-2_KNG1,P01042-2,4,9.400462174,17.32487042,KNG1,not coregulated,liver specific
+P01602_IGKV1-5,P01602,4,20.14631074,18.59843654,IGKV1-5,not coregulated,not liver specific
+P01619_IGKV3-20,P01619,4,22.54214508,20.2219863,IGKV3-20,not coregulated,not liver specific
+P01624_IGKV3-15,P01624,4,22.90479989,20.72585229,IGKV3-15,coregulated,not liver specific
+P01700_IGLV1-47,P01700,4,22.54686765,17.59341717,IGLV1-47,coregulated,not liver specific
+P01717_IGLV3-25,P01717,4,19.79810597,16.9520207,IGLV3-25,not coregulated,not liver specific
+P01721_IGLV6-57,P01721,4,16.63518894,17.71163435,IGLV6-57,not coregulated,not liver specific
+P01780_IGHV3-7,P01780,4,21.56727499,17.42179351,IGHV3-7,coregulated,not liver specific
+P01833_PIGR,P01833,4,17.02463646,14.59220793,PIGR,coregulated,not liver specific
+P01834_IGKC,P01834,4,26.17050334,21.86341469,IGKC,coregulated,not liver specific
+P02042_HBD,P02042,4,15.33842074,24.63410987,HBD,not coregulated,not liver specific
+P02533_KRT14,P02533,4,11.40947715,14.34330218,KRT14,not coregulated,not liver specific
+P02538_KRT6A,P02538,4,14.25387849,23.66020855,KRT6A,not coregulated,not liver specific
+P02545_LMNA,P02545,4,8.693311337,21.85087262,LMNA,not coregulated,not liver specific
+P02647_APOA1,P02647,4,25.0855742,23.17774251,APOA1,not coregulated,liver specific
+P02649_APOE,P02649,4,19.63335996,21.39687327,APOE,not coregulated,not liver specific
+P02671_FGA,P02671,4,21.8964258,19.29066696,FGA,not coregulated,liver specific
+P02675_FGB,P02675,4,23.93550417,21.45130953,FGB,not coregulated,liver specific
+P02679_FGG,P02679,4,22.54750044,19.9657587,FGG,not coregulated,liver specific
+P02730_SLC4A1,P02730,4,12.62521598,16.19400302,SLC4A1,not coregulated,not liver specific
+P02741_CRP,P02741,4,15.8253622,15.50767166,CRP,not coregulated,liver specific
+P02743_APCS,P02743,4,18.699167499999998,20.20922828,APCS,coregulated,liver specific
+P02747_C1QC,P02747,4,19.4974392,18.47024085,C1QC,not coregulated,not liver specific
+P02748_C9,P02748,4,19.97138867,17.71902494,C9,not coregulated,liver specific
+P02749_APOH,P02749,4,18.06020291,19.71865403,APOH,not coregulated,liver specific
+P02750_LRG1,P02750,4,20.31346744,17.63850756,LRG1,not coregulated,liver specific
+P02751_FN1,P02751,4,19.68156934,21.24946125,FN1,not coregulated,not liver specific
+P02753_RBP4,P02753,4,18.94488311,18.22296781,RBP4,not coregulated,liver specific
+P02760_AMBP,P02760,4,19.93213096,17.29920316,AMBP,not coregulated,liver specific
+P02763_ORM1,P02763,4,22.95679198,19.95041004,ORM1,not coregulated,liver specific
+P02765_AHSG,P02765,4,21.27255459,18.89891817,AHSG,not coregulated,liver specific
+P02766_TTR,P02766,4,15.89853241,19.13200305,TTR,not coregulated,liver specific
+P02768_ALB,P02768,4,29.30454314,25.49966296,ALB,not coregulated,liver specific
+P02775_PPBP,P02775,4,15.29088797,15.06473804,PPBP,coregulated,not liver specific
+P02776_PF4,P02776,4,13.9763619,17.58444646,PF4,not coregulated,not liver specific
+P02786_TFRC,P02786,4,14.38137108,14.27013827,TFRC,not coregulated,not liver specific
+P02787_TF,P02787,4,25.17045131,21.5484357,TF,not coregulated,liver specific
+P02790_HPX,P02790,4,22.63578409,20.73139896,HPX,not coregulated,liver specific
+P03951_F11,P03951,4,13.53799707,15.58677932,F11,not coregulated,liver specific
+P04003_C4BPA,P04003,4,20.50542307,16.67065294,C4BPA,not coregulated,liver specific
+P04004_VTN,P04004,4,20.50064482,21.06878478,VTN,coregulated,liver specific
+P04040_CAT,P04040,4,12.53663278,23.79026849,CAT,coregulated,not liver specific
+P04066_FUCA1,P04066,4,13.59515633,16.81609491,FUCA1,not coregulated,not liver specific
+P04080_CSTB,P04080,4,,20.74181609,CSTB,not coregulated,not liver specific
+P04114_APOB,P04114,4,20.84603975,18.81394719,APOB,not coregulated,liver specific
+P04196_HRG,P04196,4,20.82069913,17.51937623,HRG,not coregulated,liver specific
+P04217_A1BG,P04217,4,21.53282713,18.61989485,A1BG,not coregulated,liver specific
+P04217-2_A1BG,P04217-2,4,12.53924723,18.93855158,A1BG,not coregulated,liver specific
+P04259_KRT6B,P04259,4,13.65167064,18.21772004,KRT6B,not coregulated,not liver specific
+P04264_KRT1,P04264,4,12.73271105,20.01232191,KRT1,not coregulated,not liver specific
+P04275_VWF,P04275,4,15.72447623,15.48072696,VWF,not coregulated,not liver specific
+P04406_GAPDH,P04406,4,14.088306699999999,23.65466293,GAPDH,not coregulated,not liver specific
+P05062_ALDOB,P05062,4,13.45603807,25.10853842,ALDOB,coregulated,liver specific
+P05109_S100A8,P05109,4,12.55603693,19.28167392,S100A8,not coregulated,not liver specific
+P05154_SERPINA5,P05154,4,15.84637888,15.983171100000002,SERPINA5,not coregulated,liver specific
+P05155_SERPING1,P05155,4,21.27162638,19.32734633,SERPING1,not coregulated,not liver specific
+P05362_ICAM1,P05362,4,14.35796649,16.83108724,ICAM1,not coregulated,not liver specific
+P05534_HLA-A,P05534,4,13.42862942,16.83685871,HLA-A,not coregulated,not liver specific
+P05543_SERPINA7,P05543,4,16.75038693,13.10875916,SERPINA7,not coregulated,liver specific
+P05546_SERPIND1,P05546,4,19.24557947,16.64696682,SERPIND1,not coregulated,liver specific
+P05556_ITGB1,P05556,4,13.09064086,19.32015249,ITGB1,not coregulated,not liver specific
+P06276_BCHE,P06276,4,15.44495858,15.67437627,BCHE,not coregulated,liver specific
+P06312_IGKV4-1,P06312,4,20.83815118,17.3279506,IGKV4-1,coregulated,not liver specific
+P06396_GSN,P06396,4,18.79873599,19.23837289,GSN,not coregulated,not liver specific
+P06396-2_GSN,P06396-2,4,12.46090025,18.40726052,GSN,not coregulated,not liver specific
+P06681_C2,P06681,4,16.80698591,15.78026923,C2,not coregulated,liver specific
+P06702_S100A9,P06702,4,12.53166085,19.18570956,S100A9,not coregulated,not liver specific
+P06727_APOA4,P06727,4,21.70175443,18.29783135,APOA4,not coregulated,not liver specific
+P06733_ENO1,P06733,4,15.08975125,22.20635296,ENO1,not coregulated,not liver specific
+P07195_LDHB,P07195,4,13.865955800000002,18.70154513,LDHB,coregulated,not liver specific
+P07225_PROS1,P07225,4,17.6373742,16.39787809,PROS1,not coregulated,liver specific
+P07237_P4HB,P07237,4,12.58574163,23.53295555,P4HB,not coregulated,not liver specific
+P07355_ANXA2,P07355,4,14.15364208,21.23269403,ANXA2,not coregulated,not liver specific
+P07357_C8A,P07357,4,16.77451795,15.98170715,C8A,not coregulated,liver specific
+P07437_TUBB,P07437,4,13.42302657,20.3973163,TUBB,not coregulated,not liver specific
+P07686_HEXB,P07686,4,11.90378665,18.22738647,HEXB,not coregulated,not liver specific
+P07737_PFN1,P07737,4,13.56162052,20.12594862,PFN1,not coregulated,not liver specific
+P07858_CTSB,P07858,4,13.15275571,22.76616986,CTSB,not coregulated,not liver specific
+P07900_HSP90AA1,P07900,4,11.60469862,21.81452413,HSP90AA1,not coregulated,not liver specific
+P07996_THBS1,P07996,4,13.38081622,17.18760405,THBS1,not coregulated,not liver specific
+P08185_SERPINA6,P08185,4,17.07025037,15.87054245,SERPINA6,not coregulated,liver specific
+P08238_HSP90AB1,P08238,4,13.10604374,20.31871603,HSP90AB1,not coregulated,not liver specific
+P08294_SOD3,P08294,4,14.22629511,17.73489421,SOD3,coregulated,not liver specific
+P08519_LPA,P08519,4,13.76129081,16.72067099,LPA,not coregulated,liver specific
+P08567_PLEK,P08567,4,12.19921613,15.59984932,PLEK,not coregulated,not liver specific
+P08571_CD14,P08571,4,16.35367832,18.20049755,CD14,not coregulated,not liver specific
+P08603_CFH,P08603,4,19.72104674,17.51597807,CFH,not coregulated,liver specific
+P08670_VIM,P08670,4,11.741302099999999,22.97285577,VIM,not coregulated,not liver specific
+P08697_SERPINF2,P08697,4,19.30226489,17.05288148,SERPINF2,not coregulated,liver specific
+P08779_KRT16,P08779,4,12.23686861,16.32304583,KRT16,not coregulated,not liver specific
+P09467_FBP1,P09467,4,12.45945993,22.65192102,FBP1,not coregulated,liver specific
+P09871_C1S,P09871,4,18.87523602,17.55968165,C1S,not coregulated,not liver specific
+P09960_LTA4H,P09960,4,12.22876258,18.7714392,LTA4H,not coregulated,not liver specific
+P0C0L4_C4A,P0C0L4,4,20.58613686,19.35417244,C4A,not coregulated,liver specific
+P0C0L5_C4B,P0C0L5,4,17.18910667,16.65701505,C4B,not coregulated,liver specific
+P0DJI8_SAA1,P0DJI8,4,15.05441005,15.76016381,SAA1,not coregulated,liver specific
+P0DOY2_IGLC2,P0DOY2,4,24.93095464,21.76496291,IGLC2,coregulated,not liver specific
+P10643_C7,P10643,4,18.28055267,15.70116645,C7,coregulated,not liver specific
+P10809_HSPD1,P10809,4,14.34735177,22.95323838,HSPD1,not coregulated,not liver specific
+P10909_CLU,P10909,4,19.01020097,19.73363965,CLU,coregulated,not liver specific
+P11021_HSPA5,P11021,4,12.90713417,22.040822600000002,HSPA5,not coregulated,not liver specific
+P11047_LAMC1,P11047,4,15.00368898,17.94270186,LAMC1,not coregulated,not liver specific
+P11226_MBL2,P11226,4,14.39530404,19.40992778,MBL2,not coregulated,liver specific
+P11279_LAMP1,P11279,4,12.02211327,18.03093497,LAMP1,not coregulated,not liver specific
+P11717_IGF2R,P11717,4,11.97826916,15.82048479,IGF2R,not coregulated,not liver specific
+P12111_COL6A3,P12111,4,13.18963957,21.89654106,COL6A3,coregulated,not liver specific
+P12814_ACTN1,P12814,4,13.17737608,20.15247963,ACTN1,not coregulated,not liver specific
+P12955_PEPD,P12955,4,14.41071308,19.28590708,PEPD,not coregulated,not liver specific
+P13473_LAMP2,P13473,4,13.6582485,19.02803885,LAMP2,not coregulated,not liver specific
+P13611_VCAN,P13611,4,16.43136985,17.19888188,VCAN,not coregulated,not liver specific
+P13639_EEF2,P13639,4,13.35260366,22.02466347,EEF2,not coregulated,not liver specific
+P13645_KRT10,P13645,4,16.67720211,17.54387422,KRT10,not coregulated,not liver specific
+P13671_C6,P13671,4,17.82101817,16.90430705,C6,not coregulated,liver specific
+P13716_ALAD,P13716,4,12.76087643,19.7685782,ALAD,not coregulated,not liver specific
+P13796_LCP1,P13796,4,14.31515351,20.34539815,LCP1,coregulated,not liver specific
+P14209_CD99,P14209,4,10.95569004,17.87269179,CD99,not coregulated,not liver specific
+P14543_NID1,P14543,4,11.72949919,16.87872403,NID1,not coregulated,not liver specific
+P14618_PKM,P14618,4,11.58781235,19.95738035,PKM,not coregulated,not liver specific
+P14625_HSP90B1,P14625,4,13.51776059,23.42175027,HSP90B1,not coregulated,not liver specific
+P14780_MMP9,P14780,4,10.94363301,14.48864511,MMP9,not coregulated,not liver specific
+P15144_ANPEP,P15144,4,13.85667306,18.45014549,ANPEP,not coregulated,not liver specific
+P16930_FAH,P16930,4,13.15107232,19.86149596,FAH,coregulated,not liver specific
+P17174_GOT1,P17174,4,12.12930555,21.93712749,GOT1,not coregulated,not liver specific
+P18206_VCL,P18206,4,12.51450822,19.46837582,VCL,not coregulated,not liver specific
+P18428_LBP,P18428,4,16.70921822,14.52746556,LBP,not coregulated,liver specific
+P19022_CDH2,P19022,4,11.33351143,17.36444175,CDH2,not coregulated,not liver specific
+P19320_VCAM1,P19320,4,14.09210386,15.10897166,VCAM1,not coregulated,not liver specific
+P19652_ORM2,P19652,4,17.89780184,20.68686781,ORM2,not coregulated,liver specific
+P19823_ITIH2,P19823,4,19.14857291,18.12767507,ITIH2,not coregulated,liver specific
+P19827_ITIH1,P19827,4,19.17906022,17.45460671,ITIH1,not coregulated,liver specific
+P20742_PZP,P20742,4,16.209759299999998,16.26294521,PZP,not coregulated,liver specific
+P20774_OGN,P20774,4,13.22421928,17.69019774,OGN,coregulated,not liver specific
+P22792_CPN2,P22792,4,17.51841401,15.47464965,CPN2,not coregulated,liver specific
+P22897_MRC1,P22897,4,12.31118887,16.445323300000002,MRC1,not coregulated,not liver specific
+P23141_CES1,P23141,4,11.61928847,23.403760199999997,CES1,not coregulated,liver specific
+P23142_FBLN1,P23142,4,17.72143754,17.67778064,FBLN1,coregulated,not liver specific
+P23526_AHCY,P23526,4,10.84077139,21.23337776,AHCY,not coregulated,not liver specific
+P24298_GPT,P24298,4,10.17810915,20.22230223,GPT,not coregulated,not liver specific
+P24821_TNC,P24821,4,12.74059366,17.69336128,TNC,not coregulated,not liver specific
+P25311_AZGP1,P25311,4,16.47429314,17.60949161,AZGP1,not coregulated,liver specific
+P25705_ATP5A1,P25705,4,13.92529575,23.93482656,ATP5A1,not coregulated,not liver specific
+P25786_PSMA1,P25786,4,11.64133602,19.75230809,PSMA1,not coregulated,not liver specific
+P27169_PON1,P27169,4,18.72174245,20.02412874,PON1,not coregulated,liver specific
+P27487_DPP4,P27487,4,12.26434322,16.55773816,DPP4,not coregulated,not liver specific
+P28066_PSMA5,P28066,4,10.38503663,18.62931131,PSMA5,not coregulated,not liver specific
+P29401_TKT,P29401,4,12.85610897,21.00221647,TKT,not coregulated,not liver specific
+P29622_SERPINA4,P29622,4,17.38043163,16.06214111,SERPINA4,not coregulated,liver specific
+P29966_MARCKS,P29966,4,10.62144782,18.16811376,MARCKS,not coregulated,not liver specific
+P30041_PRDX6,P30041,4,12.79088279,23.31200301,PRDX6,not coregulated,not liver specific
+P30043_BLVRB,P30043,4,11.51503752,21.67217627,BLVRB,not coregulated,not liver specific
+P30101_PDIA3,P30101,4,13.02091627,21.61214437,PDIA3,not coregulated,not liver specific
+P32119_PRDX2,P32119,4,13.39725476,22.62594542,PRDX2,not coregulated,not liver specific
+P32942_ICAM3,P32942,4,13.72232657,14.511301199999998,ICAM3,not coregulated,not liver specific
+P33151_CDH5,P33151,4,15.04956684,14.79405539,CDH5,not coregulated,not liver specific
+P33908_MAN1A1,P33908,4,14.30986857,17.4279999,MAN1A1,not coregulated,not liver specific
+P35241_RDX,P35241,4,12.95586885,20.34006981,RDX,coregulated,not liver specific
+P35527_KRT9,P35527,4,11.766823,16.72258034,KRT9,not coregulated,not liver specific
+P35579_MYH9,P35579,4,13.07319555,21.54484274,MYH9,not coregulated,not liver specific
+P35858_IGFALS,P35858,4,16.99767863,15.04767762,IGFALS,not coregulated,liver specific
+P35908_KRT2,P35908,4,12.70797842,17.71203769,KRT2,not coregulated,not liver specific
+P36222_CHI3L1,P36222,4,14.29612019,15.29067196,CHI3L1,not coregulated,not liver specific
+P36955_SERPINF1,P36955,4,18.32741734,17.54680543,SERPINF1,coregulated,not liver specific
+P37802_TAGLN2,P37802,4,12.72603211,19.06817472,TAGLN2,not coregulated,not liver specific
+P39060_COL18A1,P39060,4,12.9075551,19.35935216,COL18A1,not coregulated,not liver specific
+P42126_ECI1,P42126,4,15.17447006,21.400337699999998,ECI1,not coregulated,not liver specific
+P43121_MCAM,P43121,4,13.91961029,14.98802977,MCAM,not coregulated,not liver specific
+P43251_BTD,P43251,4,15.90646322,15.24889523,BTD,not coregulated,not liver specific
+P43652_AFM,P43652,4,19.83270563,16.50337927,AFM,not coregulated,liver specific
+P48740_MASP1,P48740,4,15.53484313,14.75586732,MASP1,not coregulated,not liver specific
+P51884_LUM,P51884,4,19.60261944,20.62628227,LUM,coregulated,not liver specific
+P54802_NAGLU,P54802,4,17.85815071,15.96356296,NAGLU,not coregulated,not liver specific
+P55103_INHBC,P55103,4,13.85354114,13.73899403,INHBC,not coregulated,liver specific
+P55290_CDH13,P55290,4,13.57447573,14.38535955,CDH13,not coregulated,not liver specific
+P56199_ITGA1,P56199,4,16.68141106,18.3588765,ITGA1,not coregulated,not liver specific
+P58166_INHBE,P58166,4,12.78643426,19.53124878,INHBE,not coregulated,liver specific
+P60709_ACTB,P60709,4,15.724442699999999,26.01401268,ACTB,not coregulated,not liver specific
+P61769_B2M,P61769,4,14.19092333,18.93697311,B2M,not coregulated,not liver specific
+P62258_YWHAE,P62258,4,12.52895001,20.98988353,YWHAE,not coregulated,not liver specific
+P62328_TMSB4X,P62328,4,13.78112392,19.92013596,TMSB4X,not coregulated,not liver specific
+P62805_HIST1H4A,P62805,4,13.93191052,23.31512172,HIST1H4A,not coregulated,not liver specific
+P62937_PPIA,P62937,4,13.47213122,21.85684802,PPIA,not coregulated,not liver specific
+P63104_YWHAZ,P63104,4,13.80317938,22.02991913,YWHAZ,not coregulated,not liver specific
+P67936_TPM4,P67936,4,12.19276036,19.90796656,TPM4,not coregulated,not liver specific
+P68104_EEF1A1,P68104,4,14.35338294,23.1287642,EEF1A1,not coregulated,not liver specific
+P68363_TUBA1B,P68363,4,13.83461107,21.90571552,TUBA1B,not coregulated,not liver specific
+P68871_HBB,P68871,4,22.20918898,25.91588536,HBB,not coregulated,not liver specific
+P69905_HBA1,P69905,4,20.3735718,25.89262487,HBA1,not coregulated,not liver specific
+P78417_GSTO1,P78417,4,12.86092498,22.40757854,GSTO1,not coregulated,not liver specific
+P80108_GPLD1,P80108,4,16.4305087,14.54060441,GPLD1,not coregulated,liver specific
+P80188_LCN2,P80188,4,13.11808502,14.95519401,LCN2,not coregulated,not liver specific
+P80723_BASP1,P80723,4,10.34955323,17.04947932,BASP1,not coregulated,not liver specific
+P80748_IGLV3-21,P80748,4,20.95077938,17.19477994,IGLV3-21,not coregulated,not liver specific
+P81605_DCD,P81605,4,11.70927439,16.50913461,DCD,not coregulated,not liver specific
+P98160_HSPG2,P98160,4,13.05862329,19.10045612,HSPG2,coregulated,not liver specific
+Q02985_CFHR3,Q02985,4,15.36861004,15.62509961,CFHR3,not coregulated,liver specific
+Q06033_ITIH3,Q06033,4,17.45706464,15.61225863,ITIH3,not coregulated,liver specific
+Q06830_PRDX1,Q06830,4,13.78142933,24.01236652,PRDX1,not coregulated,not liver specific
+Q07065_CKAP4,Q07065,4,20.45907963,18.1637841,CKAP4,not coregulated,not liver specific
+Q07075_ENPEP,Q07075,4,11.33102491,16.71245176,ENPEP,not coregulated,not liver specific
+Q07954_LRP1,Q07954,4,12.32055096,18.11475519,LRP1,not coregulated,not liver specific
+Q08211_DHX9,Q08211,4,10.14217492,17.87560636,DHX9,not coregulated,not liver specific
+Q08380_LGALS3BP,Q08380,4,19.09311575,17.78842462,LGALS3BP,coregulated,not liver specific
+Q08830_FGL1,Q08830,4,13.96566159,16.24172901,FGL1,not coregulated,liver specific
+Q12907_LMAN2,Q12907,4,13.98595675,20.38160281,LMAN2,not coregulated,not liver specific
+Q13103_SPP2,Q13103,4,12.53447446,14.35569173,SPP2,not coregulated,liver specific
+Q13228_SELENBP1,Q13228,4,12.55314164,21.56706642,SELENBP1,coregulated,not liver specific
+Q13740_ALCAM,Q13740,4,12.94768736,16.20134818,ALCAM,not coregulated,not liver specific
+Q13790_APOF,Q13790,4,15.09575023,14.89100317,APOF,not coregulated,liver specific
+Q14118_DAG1,Q14118,4,12.970476,17.29211492,DAG1,not coregulated,not liver specific
+Q14520_HABP2,Q14520,4,14.50170939,14.03225531,HABP2,not coregulated,liver specific
+Q14624_ITIH4,Q14624,4,18.24090494,18.04672221,ITIH4,not coregulated,liver specific
+Q14997_PSME4,Q14997,4,18.01478759,15.66577322,PSME4,not coregulated,not liver specific
+Q15113_PCOLCE,Q15113,4,13.59530385,14.52013001,PCOLCE,not coregulated,not liver specific
+Q15166_PON3,Q15166,4,13.83948061,19.80020566,PON3,not coregulated,liver specific
+Q15293_RCN1,Q15293,4,14.62470881,18.54030987,RCN1,not coregulated,not liver specific
+Q15404_RSU1,Q15404,4,12.95125391,17.86945536,RSU1,not coregulated,not liver specific
+Q15582_TGFBI,Q15582,4,16.24496677,20.77010809,TGFBI,coregulated,not liver specific
+Q15942_ZYX,Q15942,4,13.22387595,18.26620028,ZYX,not coregulated,not liver specific
+Q16270_IGFBP7,Q16270,4,12.88344498,16.62456237,IGFBP7,coregulated,not liver specific
+Q16610_ECM1,Q16610,4,17.03925496,15.20523693,ECM1,not coregulated,not liver specific
+Q16706_MAN2A1,Q16706,4,11.70575799,15.75014671,MAN2A1,not coregulated,not liver specific
+Q16853_AOC3,Q16853,4,13.69340134,19.11071528,AOC3,not coregulated,not liver specific
+Q3LXA3_TKFC,Q3LXA3,4,10.52261456,22.11637058,TKFC,not coregulated,not liver specific
+Q562R1_ACTBL2,Q562R1,4,14.45992381,25.36390839,ACTBL2,not coregulated,not liver specific
+Q5T123_SH3BGRL3,Q5T123,4,10.77653731,19.52296744,SH3BGRL3,not coregulated,not liver specific
+Q6EMK4_VASN,Q6EMK4,4,14.45779358,15.36749103,VASN,not coregulated,not liver specific
+Q6P179_ERAP2,Q6P179,4,16.69430222,13.62221092,ERAP2,not coregulated,not liver specific
+Q6P387_C16orf46,Q6P387,4,14.11352729,14.01088698,C16orf46,not coregulated,not liver specific
+Q6UX71_PLXDC2,Q6UX71,4,13.58150119,14.95079792,PLXDC2,coregulated,not liver specific
+Q6UY14_ADAMTSL4,Q6UY14,4,14.31837118,14.47838313,ADAMTSL4,coregulated,not liver specific
+Q6YHK3_CD109,Q6YHK3,4,12.26442545,14.058000400000001,CD109,not coregulated,not liver specific
+Q86U17_SERPINA11,Q86U17,4,13.05127515,14.861781900000002,SERPINA11,not coregulated,liver specific
+Q86UX7_FERMT3,Q86UX7,4,12.31515063,17.15447181,FERMT3,not coregulated,not liver specific
+Q8NBJ4_GOLM1,Q8NBJ4,4,12.42265424,14.78799819,GOLM1,not coregulated,not liver specific
+Q8WWZ8_OIT3,Q8WWZ8,4,12.05429336,13.65090452,OIT3,not coregulated,liver specific
+Q92820_GGH,Q92820,4,13.53800948,18.456414600000002,GGH,not coregulated,not liver specific
+Q92859_NEO1,Q92859,4,14.87848122,13.60752241,NEO1,not coregulated,not liver specific
+Q96PD5_PGLYRP2,Q96PD5,4,18.93825722,15.37114227,PGLYRP2,not coregulated,liver specific
+Q9BS26_ERP44,Q9BS26,4,13.23188632,19.98752468,ERP44,not coregulated,not liver specific
+Q9BTY2_FUCA2,Q9BTY2,4,12.6259209,15.08695545,FUCA2,not coregulated,not liver specific
+Q9BWP8_COLEC11,Q9BWP8,4,15.07632415,13.64119945,COLEC11,not coregulated,not liver specific
+Q9BXR6_CFHR5,Q9BXR6,4,14.59790834,15.30965735,CFHR5,not coregulated,liver specific
+Q9BYE9_CDHR2,Q9BYE9,4,15.02390943,14.20032937,CDHR2,not coregulated,not liver specific
+Q9H4B7_TUBB1,Q9H4B7,4,13.24275123,13.62559585,TUBB1,not coregulated,not liver specific
+Q9H8L6_MMRN2,Q9H8L6,4,14.10493377,15.90237784,MMRN2,not coregulated,not liver specific
+Q9HDC9_APMAP,Q9HDC9,4,14.03891862,20.41034381,APMAP,coregulated,not liver specific
+Q9NZP8_C1RL,Q9NZP8,4,15.87829946,16.8075665,C1RL,not coregulated,not liver specific
+Q9UBG0_MRC2,Q9UBG0,4,12.22677937,14.54350117,MRC2,not coregulated,not liver specific
+Q9UEW3_MARCO,Q9UEW3,4,11.35874079,14.83520034,MARCO,not coregulated,not liver specific
+Q9UHG3_PCYOX1,Q9UHG3,4,13.52792691,19.64056675,PCYOX1,not coregulated,not liver specific
+Q9UNN8_PROCR,Q9UNN8,4,13.73853177,14.21211496,PROCR,coregulated,not liver specific
+Q9UNW1_MINPP1,Q9UNW1,4,14.90227031,14.58328535,MINPP1,not coregulated,not liver specific
+Q9Y490_TLN1,Q9Y490,4,12.77003025,19.64503446,TLN1,not coregulated,not liver specific
+Q9Y4L1_HYOU1,Q9Y4L1,4,12.59500013,19.39856931,HYOU1,not coregulated,not liver specific
+Q9Y5Y7_LYVE1,Q9Y5Y7,4,14.73788609,15.33442903,LYVE1,coregulated,not liver specific
+Q9Y646_CPQ,Q9Y646,4,12.06754894,16.31721892,CPQ,not coregulated,not liver specific
+V9GYM3_APOA2,V9GYM3,4,23.84050101,21.72742294,APOA2,not coregulated,liver specific
