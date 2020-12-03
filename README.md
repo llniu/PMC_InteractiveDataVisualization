@@ -7,6 +7,10 @@ Proteomics Method Club - Interactive Data Visualization with Jupyter Notebook an
 
 **To run this notebook on your local computer:**
 
+`git clone https://github.com/llniu/PMC_InteractiveDataVisualization.git`
+
+Navigate to the folder [PMC_InteractiveDataVisualization]
+
 `conda env create -f environment.yml`
 
 `conda activate dash`
